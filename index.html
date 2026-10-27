@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Results Edge</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--tx:#14171a;--mu:#6b7280;--bd:#e3e6ea;--gd:#0a8f4e;--bdc:#d93025;--ac:#2557d6}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1216;--card:#181c22;--tx:#e8eaed;--mu:#98a0ab;--bd:#2a2f37;--gd:#3ccf85;--bdc:#ff6b60;--ac:#7aa2ff}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:15px system-ui,sans-serif;padding:12px;max-width:640px;margin:auto}
+h1{font-size:20px;margin:4px 0}.mu{color:var(--mu);font-size:12px}
+.row{display:flex;gap:8px;margin:10px 0}.btn{flex:1;padding:12px;border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:12px;font-size:15px;font-weight:600}
+.btn.on.g{background:var(--gd);color:#fff;border-color:var(--gd)}.btn.on.b{background:var(--bdc);color:#fff;border-color:var(--bdc)}.btn.on.n{background:var(--ac);color:#fff;border-color:var(--ac)}
+select{width:100%;padding:10px;border-radius:10px;border:1px solid var(--bd);background:var(--card);color:var(--tx)}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:12px;margin:8px 0}
+.top{display:flex;justify-content:space-between;align-items:center}.sym{font-weight:700}.sc{font-weight:700}
+.pos{color:var(--gd)}.neg{color:var(--bdc)}table{width:100%;border-collapse:collapse;font-size:13px}th,td{padding:6px 4px;text-align:right;border-bottom:1px solid var(--bd)}th:first-child,td:first-child{text-align:left}
+a{color:var(--ac)}.back{background:none;border:0;color:var(--ac);font-size:15px;padding:6px 0}
+</style></head><body>
+<h1>Results Edge</h1><div class="mu" id="upd">Loading…</div>
+<div id="app"></div>
+<script>
+let D=null,Q=null,T="good",S=null,V="result";
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const n=v=>v==null?"–":Number(v).toLocaleString("en-IN",{maximumFractionDigits:1});
+const p=v=>v==null?"–":`<span class="${v>=0?"pos":"neg"}">${v>0?"+":""}${v}%</span>`;
+async function load(){
+  try{const r=await fetch("results.json?t="+Date.now(),{cache:"no-store"});D=await r.json();}
+  catch(e){$("app").innerHTML="<p>Could not load data.</p>";return}
+  const qs=Object.keys(D.quarters||{});
+  $("upd").textContent=D.updated?"Data updated: "+new Date(D.updated).toLocaleString():"No data yet. Run the GitHub Action once.";
+  if(!qs.length){$("app").innerHTML="<p class='mu'>No results available yet.</p>";return}
+  Q=Q&&qs.includes(Q)?Q:qs[0];render();
+}
+function render(){
+  if(S)return detail();
+  const qs=Object.keys(D.quarters),L=D.quarters[Q][T];
+  $("app").innerHTML=`<select onchange="Q=this.value;render()">${qs.map(q=>`<option ${q==Q?"selected":""}>${esc(q)}</option>`).join("")}</select>
+  <div class="row"><button class="btn g ${T=="good"?"on":""}" onclick="T='good';render()">Good result</button>
+  <button class="btn b ${T=="bad"?"on":""}" onclick="T='bad';render()">Bad result</button></div>
+  <div class="mu">${D.quarters[Q].count} companies above ₹10,000 cr screened</div>`+
+  L.map((s,i)=>`<div class="card" onclick="S=${i};V='result';render()"><div class="top"><span><span class="sym">${esc(s.symbol)}</span> <span class="mu">${esc(s.name)}</span></span>
+  <span class="sc ${s.score>=0?"pos":"neg"}">${s.score}</span></div><div class="mu">M.Cap ₹${n(s.mcap_cr)} cr</div><div style="font-size:13px;margin-top:4px">${s.reasons.map(esc).join(" · ")}</div></div>`).join("");
+}
+function detail(){
+  const s=D.quarters[Q][T][S],r=s.result,b=s.balance;
+  const mr=(l,m)=>`<tr><td>${l}</td><td>${n(m.cur)}</td><td>${n(m.prev)}</td><td>${p(m.qoq)}</td><td>${n(m.yago)}</td><td>${p(m.yoy)}</td></tr>`;
+  let body;
+  if(V=="result")body=`<table><tr><th>₹ cr</th><th>Now</th><th>Prev Q</th><th>QoQ</th><th>Year ago</th><th>YoY</th></tr>
+   ${mr("Revenue",r.revenue)}${mr("EBITDA",r.ebitda||{})}${mr("PAT",r.pat)}</table>
+   <p class="mu">EBITDA margin: ${n(r.margin_yago)}% (year ago) → ${n(r.margin_cur)}% (now)</p>
+   <table><tr><th>Balance sheet</th><th>₹ cr</th></tr><tr><td>Total debt</td><td>${n(b.debt)}</td></tr><tr><td>Cash</td><td>${n(b.cash)}</td></tr>
+   <tr><td>Equity</td><td>${n(b.equity)}</td></tr><tr><td>Debt / Equity</td><td>${n(b.de)}</td></tr><tr><td>Operating cash flow</td><td>${n(b.ocf)}</td></tr></table>`;
+  else body=(s.announcements.length?s.announcements.map(a=>`<div class="card"><div class="mu">${esc(a.date)} · ${esc(a.title)}</div><div>${esc(a.text)}</div>${a.link?`<a href="${esc(a.link)}" target="_blank" rel="noopener">Open filing (PDF)</a>`:""}</div>`).join(""):"<p class='mu'>No announcements found.</p>");
+  $("app").innerHTML=`<button class="back" onclick="S=null;render()">← Back</button><h1>${esc(s.symbol)} <span class="mu">${esc(s.quarter)}</span></h1>
+  <div class="row"><button class="btn n ${V=="result"?"on":""}" onclick="V='result';render()">Result</button><button class="btn n ${V=="ann"?"on":""}" onclick="V='ann';render()">Announcement</button></div>${body}
+  <p class="mu">Score is a result-strength ranking, not investment advice.</p>`;
+}
+load();
+document.addEventListener("visibilitychange",()=>{if(!document.hidden&&!S)load()});
+</script></body></html>
