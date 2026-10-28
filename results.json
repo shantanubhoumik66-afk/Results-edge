@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-27T17:49:31.355275Z",
+ "updated": "2026-10-28T08:59:48.018209Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 208097,
+     "mcap_cr": 215069,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -79,7 +79,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 139248,
+     "mcap_cr": 141285,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 58867,
+     "mcap_cr": 58529,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "ATHERENERG",
      "name": "Ather Energy Ltd.",
-     "mcap_cr": 66411,
+     "mcap_cr": 65498,
      "score": 65.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -299,7 +299,7 @@
     {
      "symbol": "POONAWALLA",
      "name": "Poonawalla Fincorp Ltd.",
-     "mcap_cr": 35471,
+     "mcap_cr": 35532,
      "score": 65.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -372,7 +372,7 @@
     {
      "symbol": "CHENNPETRO",
      "name": "Chennai Petroleum Corporation Ltd.",
-     "mcap_cr": 23436,
+     "mcap_cr": 22623,
      "score": 64.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -445,7 +445,7 @@
     {
      "symbol": "TMCV",
      "name": "Tata Motors Ltd.",
-     "mcap_cr": 147017,
+     "mcap_cr": 147754,
      "score": 64.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -518,7 +518,7 @@
     {
      "symbol": "ETERNAL",
      "name": "Eternal Ltd.",
-     "mcap_cr": 304943,
+     "mcap_cr": 302870,
      "score": 61.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -591,7 +591,7 @@
     {
      "symbol": "ADANIENSOL",
      "name": "Adani Energy Solutions Ltd.",
-     "mcap_cr": 160403,
+     "mcap_cr": 157724,
      "score": 55.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -662,76 +662,75 @@
      ]
     },
     {
-     "symbol": "POLYCAB",
-     "name": "Polycab India Ltd.",
-     "mcap_cr": 116308,
-     "score": 52.3,
+     "symbol": "SONACOMS",
+     "name": "Sona BLW Precision Forgings Ltd.",
+     "mcap_cr": 54921,
+     "score": 55.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
      "reasons": [
-      "Revenue +68% YoY",
-      "EBITDA +61% YoY",
-      "PAT +65% YoY",
-      "EBITDA margin 15.9% to 15.3%",
-      "Operating cash flow positive",
-      "Debt/Equity 0.52"
+      "Revenue +80% YoY",
+      "EBITDA +63% YoY",
+      "PAT +79% YoY",
+      "EBITDA margin 27.8% to 25.2%",
+      "Debt/Equity 0.1"
      ],
      "result": {
       "revenue": {
-       "cur": 9898.9,
-       "prev": 8209.7,
-       "yago": 5906.0,
-       "qoq": 20.6,
-       "yoy": 67.6
+       "cur": 1535.8,
+       "prev": 1301.2,
+       "yago": 853.9,
+       "qoq": 18.0,
+       "yoy": 79.9
       },
       "ebitda": {
-       "cur": 1510.9,
-       "prev": 1241.1,
-       "yago": 937.5,
-       "qoq": 21.7,
-       "yoy": 61.2
+       "cur": 387.2,
+       "prev": 328.3,
+       "yago": 237.6,
+       "qoq": 17.9,
+       "yoy": 63.0
       },
       "pat": {
-       "cur": 977.4,
-       "prev": 784.3,
-       "yago": 592.1,
-       "qoq": 24.6,
-       "yoy": 65.1
+       "cur": 223.4,
+       "prev": 180.5,
+       "yago": 124.7,
+       "qoq": 23.8,
+       "yoy": 79.1
       },
-      "margin_cur": 15.3,
-      "margin_yago": 15.9
+      "margin_cur": 25.2,
+      "margin_yago": 27.8
      },
      "balance": {
-      "debt": 6828.0,
-      "cash": 211.2,
-      "equity": 13094.1,
-      "de": 0.52,
-      "ocf": 1598.2
+      "debt": 662.4,
+      "cash": 108.0,
+      "equity": 6421.4,
+      "de": 0.1,
+      "ocf": null
      },
      "announcements": [
       {
-       "date": "19-Oct-202",
+       "date": "27-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Polycab India Limited has informed the Exchange about Transcript",
-       "link": "https://nsearchives.nseindia.com/corporate/POLYCAB_19102026163912_Intimation_of_Earnings_Call_Transcript.pdf"
+       "text": "Sona Blw Precision Forgings Limited has informed the Exchange about Link of Recording",
+       "link": "https://nsearchives.nseindia.com/corporate/SONACOMS_27102026072251_Intimation.pdf"
       },
       {
-       "date": "15-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Polycab India Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/POLYCAB_15102026204957_Audio_Recording_of_Earnings_Call.pdf"
-      },
-      {
-       "date": "15-Oct-202",
-       "title": "General Updates",
-       "text": "Polycab India Limited has informed the Exchange about Earnings Presentation on Unaudited Financial Results for the quarter and half year ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
-      },
-      {
-       "date": "15-Oct-202",
+       "date": "26-Oct-202",
        "title": "Press Release",
-       "text": "Polycab India Limited has informed the Exchange regarding a press release dated October 15, 2026, titled \"Financial results for the quarter ended 30th September 2026\".",
-       "link": "https://nsearchives.nseindia.com/corporate/POLYCAB_15102026130834_PressRelease.pdf"
+       "text": "Sona Blw Precision Forgings Limited has informed the Exchange regarding a press release dated October 26, 2026, titled \"Press Release for Q2 financial results\".",
+       "link": "https://nsearchives.nseindia.com/corporate/SONACOMS_26102026172559_Press_release.pdf"
+      },
+      {
+       "date": "26-Oct-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Sona Blw Precision Forgings Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/SONACOMS_26102026170351_All_1.pdf"
+      },
+      {
+       "date": "26-Oct-202",
+       "title": "Investor Presentation",
+       "text": "Sona Blw Precision Forgings Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/SONACOMS_26102026162612_IPP.pdf"
       }
      ]
     }
@@ -740,7 +739,7 @@
     {
      "symbol": "GALLANTT",
      "name": "Gallantt Ispat Ltd.",
-     "mcap_cr": 13071,
+     "mcap_cr": 13056,
      "score": -24.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -813,7 +812,7 @@
     {
      "symbol": "UTIAMC",
      "name": "UTI Asset Management Company Ltd.",
-     "mcap_cr": 10410,
+     "mcap_cr": 10623,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -886,7 +885,7 @@
     {
      "symbol": "JKCEMENT",
      "name": "J.K. Cement Ltd.",
-     "mcap_cr": 37842,
+     "mcap_cr": 38248,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -931,6 +930,12 @@
      },
      "announcements": [
       {
+       "date": "28-Oct-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "JK Cement Limited has informed the Exchange about Transcript",
+       "link": "https://nsearchives.nseindia.com/corporate/JKCEMENT_28102026122256_Intdt28102026transcriptofearningcall62.pdf"
+      },
+      {
        "date": "27-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "JK Cement Limited has informed the Exchange about Link of Recording",
@@ -947,19 +952,13 @@
        "title": "Updates",
        "text": "JK Cement Limited has informed the Exchange regarding 'Investor Presentation on the Financial result for the quarter ended September 30, 2026'.",
        "link": "https://nsearchives.nseindia.com/corporate/JKCEMENT_24102026163227_outcomePPT24102026.pdf"
-      },
-      {
-       "date": "24-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "JK Cement Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/JKCEMENT_24102026144400_FinalOutcome24102026.pdf"
       }
      ]
     },
     {
      "symbol": "JINDALSAW",
      "name": "Jindal Saw Ltd.",
-     "mcap_cr": 15618,
+     "mcap_cr": 15309,
      "score": -22.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1032,7 +1031,7 @@
     {
      "symbol": "SHREECEM",
      "name": "Shree Cement Ltd.",
-     "mcap_cr": 84068,
+     "mcap_cr": 83816,
      "score": -19.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1105,7 +1104,7 @@
     {
      "symbol": "DRREDDY",
      "name": "Dr. Reddy's Laboratories Ltd.",
-     "mcap_cr": 109133,
+     "mcap_cr": 110474,
      "score": -14.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1179,7 +1178,7 @@
     {
      "symbol": "ULTRACEMCO",
      "name": "UltraTech Cement Ltd.",
-     "mcap_cr": 327882,
+     "mcap_cr": 327794,
      "score": -14.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1252,7 +1251,7 @@
     {
      "symbol": "CEATLTD",
      "name": "Ceat Ltd.",
-     "mcap_cr": 12683,
+     "mcap_cr": 12597,
      "score": -14.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1325,7 +1324,7 @@
     {
      "symbol": "GODREJPROP",
      "name": "Godrej Properties Ltd.",
-     "mcap_cr": 47762,
+     "mcap_cr": 47759,
      "score": -10.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1398,7 +1397,7 @@
     {
      "symbol": "JINDALSTEL",
      "name": "Jindal Steel Ltd.",
-     "mcap_cr": 107905,
+     "mcap_cr": 107294,
      "score": -9.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1469,7 +1468,7 @@
      ]
     }
    ],
-   "count": 121
+   "count": 135
   }
  }
 }
