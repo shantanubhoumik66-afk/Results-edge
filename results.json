@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-29T08:54:46.305677Z",
+ "updated": "2026-10-29T17:11:32.710418Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 218090,
+     "mcap_cr": 218238,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -79,7 +79,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 139596,
+     "mcap_cr": 139962,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -124,6 +124,12 @@
      },
      "announcements": [
       {
+       "date": "29-Oct-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Bharat Heavy Electricals Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/BHEL_29102026144219_investormeet04112026.pdf"
+      },
+      {
        "date": "14-Oct-202",
        "title": "General Updates",
        "text": "Bharat Heavy Electricals Limited has  informed the Exchange about Q2 FY 2026-27 Results: Supplementary Information",
@@ -140,19 +146,13 @@
        "title": "Acquisition",
        "text": "Bharat Heavy Electricals Limited has informed the Exchange about Outcome of Board Meeting   Equity investment in Joint Venture",
        "link": "https://nsearchives.nseindia.com/corporate/BHEL_14092026185510_BMoutcomeNBPPL.pdf"
-      },
-      {
-       "date": "05-Sep-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Bharat Heavy Electricals Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/BHEL_05092026173418_letter_to_SE_for_investor_meet.pdf"
       }
      ]
     },
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 58987,
+     "mcap_cr": 59631,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "ATHERENERG",
      "name": "Ather Energy Ltd.",
-     "mcap_cr": 65950,
+     "mcap_cr": 65974,
      "score": 65.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -299,7 +299,7 @@
     {
      "symbol": "POONAWALLA",
      "name": "Poonawalla Fincorp Ltd.",
-     "mcap_cr": 39218,
+     "mcap_cr": 38879,
      "score": 65.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -372,7 +372,7 @@
     {
      "symbol": "CHENNPETRO",
      "name": "Chennai Petroleum Corporation Ltd.",
-     "mcap_cr": 22390,
+     "mcap_cr": 22512,
      "score": 64.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -445,7 +445,7 @@
     {
      "symbol": "TMCV",
      "name": "Tata Motors Ltd.",
-     "mcap_cr": 145544,
+     "mcap_cr": 147422,
      "score": 64.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -518,7 +518,7 @@
     {
      "symbol": "ETERNAL",
      "name": "Eternal Ltd.",
-     "mcap_cr": 311300,
+     "mcap_cr": 311254,
      "score": 61.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -591,7 +591,7 @@
     {
      "symbol": "PPLPHARMA",
      "name": "Piramal Pharma Ltd.",
-     "mcap_cr": 30475,
+     "mcap_cr": 30603,
      "score": 58.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -662,75 +662,76 @@
      ]
     },
     {
-     "symbol": "ADANIENSOL",
-     "name": "Adani Energy Solutions Ltd.",
-     "mcap_cr": 165527,
-     "score": 55.9,
+     "symbol": "PINELABS",
+     "name": "Pine Labs Ltd.",
+     "mcap_cr": 18962,
+     "score": 56.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
      "reasons": [
-      "Revenue +48% YoY",
-      "EBITDA +76% YoY",
-      "PAT +158% YoY",
-      "EBITDA margin 29.6% to 35.2%",
-      "Debt/Equity 1.65"
+      "Revenue +24% YoY",
+      "EBITDA +54% YoY",
+      "PAT +546% YoY",
+      "EBITDA margin 15.1% to 18.8%",
+      "Operating cash flow positive",
+      "Debt/Equity 0.06"
      ],
      "result": {
       "revenue": {
-       "cur": 10075.5,
-       "prev": 9711.1,
-       "yago": 6819.3,
-       "qoq": 3.8,
-       "yoy": 47.8
+       "cur": 806.2,
+       "prev": 736.9,
+       "yago": 649.9,
+       "qoq": 9.4,
+       "yoy": 24.0
       },
       "ebitda": {
-       "cur": 3548.1,
-       "prev": 3178.1,
-       "yago": 2016.9,
-       "qoq": 11.6,
-       "yoy": 75.9
+       "cur": 151.5,
+       "prev": 123.8,
+       "yago": 98.3,
+       "qoq": 22.3,
+       "yoy": 54.1
       },
       "pat": {
-       "cur": 1322.8,
-       "prev": 1149.1,
-       "yago": 512.5,
-       "qoq": 15.1,
-       "yoy": 158.1
+       "cur": 38.6,
+       "prev": 19.6,
+       "yago": 6.0,
+       "qoq": 97.1,
+       "yoy": 546.1
       },
-      "margin_cur": 35.2,
-      "margin_yago": 29.6
+      "margin_cur": 18.8,
+      "margin_yago": 15.1
      },
      "balance": {
-      "debt": 51800.5,
-      "cash": 2364.0,
-      "equity": 31303.5,
-      "de": 1.65,
-      "ocf": null
+      "debt": 352.7,
+      "cash": 1348.7,
+      "equity": 6019.5,
+      "de": 0.06,
+      "ocf": 152.1
      },
      "announcements": [
       {
-       "date": "26-Oct-202",
+       "date": "29-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Adani Energy Solutions Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/ADANITRANS_26102026190834_AESL_-_Audio.pdf"
+       "text": "Pine Labs Limited has informed the Exchange about Link of Recording",
+       "link": "https://nsearchives.nseindia.com/corporate/PINELABS_29102026220826_4AudioVideo.pdf"
       },
       {
-       "date": "23-Oct-202",
-       "title": "General Updates",
-       "text": "Adani Energy Solutions Limited has informed the Exchange about  Investors' Presentation On Unaudited Financial Results (Standalone And Consolidated) For The Quarter and half year Ended September 30, 2026",
-       "link": "https://nsearchives.nseindia.com/corporate/ADANITRANS_23102026000657_Presentation_-_H1.pdf"
+       "date": "29-Oct-202",
+       "title": "Investor Presentation",
+       "text": "Pine Labs Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/PINELABS_29102026132509_Investor_presentation.pdf"
       },
       {
-       "date": "22-Oct-202",
+       "date": "29-Oct-202",
        "title": "Press Release",
-       "text": "Adani Energy Solutions Limited has informed the Exchange regarding a press release dated October 22, 2026, titled \"AESL delivers Record Q2 Performance, Sustains Strong Growth Momentum\".",
-       "link": "https://nsearchives.nseindia.com/corporate/ADANITRANS_22102026153655_AESL_Q2_FY27_Earnings_Press_release_vF.pdf"
+       "text": "Pine Labs Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \"Q2 FY27 Performance\".",
+       "link": "https://nsearchives.nseindia.com/corporate/PINELABS_29102026132211_Final_signed.pdf"
       },
       {
-       "date": "22-Oct-202",
+       "date": "29-Oct-202",
        "title": "Outcome of Board Meeting",
-       "text": "Adani Energy Solutions Limited has submitted to the Exchange, adoption of Unaudited financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/ADANITRANS_22102026144617_UFR_FINAL.pdf"
+       "text": "Pine Labs Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/PINELABS_29102026131002_Final_signed.pdf"
       }
      ]
     }
@@ -739,7 +740,7 @@
     {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 21526,
+     "mcap_cr": 21661,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -784,6 +785,18 @@
      },
      "announcements": [
       {
+       "date": "29-Oct-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "ACC Limited has informed the Exchange about Link of Recording",
+       "link": "https://nsearchives.nseindia.com/corporate/ACC_1_29102026191412_ACC_Audio_Recording.pdf"
+      },
+      {
+       "date": "29-Oct-202",
+       "title": "Investor Presentation",
+       "text": "ACC Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/ACC_1_29102026145142_ACC_Investor_Presentation.pdf"
+      },
+      {
        "date": "28-Oct-202",
        "title": "Copy of Newspaper Publication",
        "text": "ACC Limited has informed the Exchange about Copy of Newspaper Publication for the extract of Consolidated Financial Results of the Company for the quarter and half year ended on September 30, 2026.",
@@ -794,25 +807,13 @@
        "title": "Press Release",
        "text": "ACC Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"ACC Builds Momentum with Improved Trade Mix, Capacity Expansion and Progress on One Cement Platform\".",
        "link": "https://nsearchives.nseindia.com/corporate/ACC_1_27102026150724_Press_Release_Financial_Results_30092026.pdf"
-      },
-      {
-       "date": "27-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "ACC Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/ACC_1_27102026145759_ACC_Outcome_of_BM_27102026.pdf"
-      },
-      {
-       "date": "08-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "ACC Limited has informed the Exchange about - Post Results call with Investors / Analyst.",
-       "link": "https://nsearchives.nseindia.com/corporate/ACC_1_08102026192820_ACC_BM_Prior_Intimation_08102026.pdf"
       }
      ]
     },
     {
      "symbol": "GALLANTT",
      "name": "Gallantt Ispat Ltd.",
-     "mcap_cr": 13626,
+     "mcap_cr": 13801,
      "score": -24.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -885,7 +886,7 @@
     {
      "symbol": "UTIAMC",
      "name": "UTI Asset Management Company Ltd.",
-     "mcap_cr": 10614,
+     "mcap_cr": 10599,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -958,7 +959,7 @@
     {
      "symbol": "JKCEMENT",
      "name": "J.K. Cement Ltd.",
-     "mcap_cr": 37981,
+     "mcap_cr": 37807,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1031,7 +1032,7 @@
     {
      "symbol": "JINDALSAW",
      "name": "Jindal Saw Ltd.",
-     "mcap_cr": 15159,
+     "mcap_cr": 15156,
      "score": -22.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1104,7 +1105,7 @@
     {
      "symbol": "SHREECEM",
      "name": "Shree Cement Ltd.",
-     "mcap_cr": 83094,
+     "mcap_cr": 83419,
      "score": -19.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1149,6 +1150,12 @@
      },
      "announcements": [
       {
+       "date": "29-Oct-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "SHREE CEMENT LIMITED has informed the Exchange about Transcript",
+       "link": "https://nsearchives.nseindia.com/corporate/SHREECEM_29102026161540_NSE_BSE_Transcript_291026.pdf"
+      },
+      {
        "date": "23-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "SHREE CEMENT LIMITED has informed the Exchange about Link of Recording",
@@ -1165,19 +1172,13 @@
        "title": "Outcome of Board Meeting",
        "text": "SHREE CEMENT LIMITED has informed the Exchange regarding Outcome of Board Meeting held on October 23, 2026.",
        "link": "https://nsearchives.nseindia.com/corporate/SHREECEM_23102026121635_NSE_BSE_Results_231026.pdf"
-      },
-      {
-       "date": "23-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "SHREE CEMENT LIMITED has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/SHREECEM_23102026120948_NSE_BSE_Results_231026.pdf"
       }
      ]
     },
     {
      "symbol": "MAZDOCK",
      "name": "Mazagoan Dock Shipbuilders Ltd.",
-     "mcap_cr": 70571,
+     "mcap_cr": 71104,
      "score": -15.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1248,7 +1249,7 @@
     {
      "symbol": "DRREDDY",
      "name": "Dr. Reddy's Laboratories Ltd.",
-     "mcap_cr": 111798,
+     "mcap_cr": 112048,
      "score": -14.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1322,7 +1323,7 @@
     {
      "symbol": "ULTRACEMCO",
      "name": "UltraTech Cement Ltd.",
-     "mcap_cr": 328294,
+     "mcap_cr": 328617,
      "score": -14.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1393,80 +1394,80 @@
      ]
     },
     {
-     "symbol": "ELECON",
-     "name": "Elecon Engineering Co. Ltd.",
-     "mcap_cr": 10015,
-     "score": -14.8,
+     "symbol": "CEATLTD",
+     "name": "Ceat Ltd.",
+     "mcap_cr": 12678,
+     "score": -14.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
      "reasons": [
-      "Revenue +30% YoY",
-      "EBITDA -30% YoY",
-      "PAT -45% YoY",
-      "EBITDA margin 48.5% to 26.2%",
-      "Debt/Equity 0.14"
+      "Revenue +26% YoY",
+      "EBITDA -11% YoY",
+      "PAT -40% YoY",
+      "EBITDA margin 13.4% to 9.4%",
+      "Debt/Equity 0.82"
      ],
      "result": {
       "revenue": {
-       "cur": 638.9,
-       "prev": 520.6,
-       "yago": 490.6,
-       "qoq": 22.7,
-       "yoy": 30.2
+       "cur": 4762.0,
+       "prev": 4318.0,
+       "yago": 3773.0,
+       "qoq": 10.3,
+       "yoy": 26.2
       },
       "ebitda": {
-       "cur": 167.7,
-       "prev": 131.0,
-       "yago": 237.8,
-       "qoq": 28.0,
-       "yoy": -29.5
+       "cur": 449.0,
+       "prev": 364.0,
+       "yago": 507.0,
+       "qoq": 23.4,
+       "yoy": -11.4
       },
       "pat": {
-       "cur": 96.3,
-       "prev": 70.3,
-       "yago": 175.4,
-       "qoq": 37.0,
-       "yoy": -45.1
+       "cur": 112.0,
+       "prev": 4.0,
+       "yago": 186.0,
+       "qoq": 2700.0,
+       "yoy": -39.8
       },
-      "margin_cur": 26.2,
-      "margin_yago": 48.5
+      "margin_cur": 9.4,
+      "margin_yago": 13.4
      },
      "balance": {
-      "debt": 361.4,
-      "cash": 125.0,
-      "equity": 2509.3,
-      "de": 0.14,
+      "debt": 4065.0,
+      "cash": 32.0,
+      "equity": 4961.0,
+      "de": 0.82,
       "ocf": null
      },
      "announcements": [
       {
-       "date": "26-Oct-202",
+       "date": "19-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Elecon Engineering Company Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/ELECON2_26102026165136_AnalystMeet26102026.pdf"
-      },
-      {
-       "date": "22-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Elecon Engineering Company Limited has informed the Exchange about Transcript",
-       "link": "https://nsearchives.nseindia.com/corporate/ELECON2_22102026160938_CallTranscript.pdf"
+       "text": "CEAT Limited has informed the Exchange about Transcript",
+       "link": "https://nsearchives.nseindia.com/corporate/CEATLTD_19102026153055_SELetterTranscriptOct2026signed.pdf"
       },
       {
        "date": "15-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Elecon Engineering Company Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/ELECON2_15102026184042_AnalystMeet15102026.pdf"
+       "text": "CEAT Limited has informed the Exchange about Link of Recording",
+       "link": "https://nsearchives.nseindia.com/corporate/CEATLTD_15102026175704_SELetterEarningsAudioRecordingOct2026signed.pdf"
       },
       {
-       "date": "15-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Elecon Engineering Company Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/ELECON2_15102026182804_InvestorRecording15102026.pdf"
+       "date": "14-Oct-202",
+       "title": "Investor Presentation",
+       "text": "CEAT Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/CEATLTD_14102026192056_CEATInvestorPresentationQ2FY27signed.pdf"
+      },
+      {
+       "date": "14-Oct-202",
+       "title": "Press Release",
+       "text": "CEAT Limited has informed the Exchange regarding a press release dated October 14, 2026, titled \"Press Release\".",
+       "link": "https://nsearchives.nseindia.com/corporate/CEATLTD_14102026182717_CEATBMOutcomeOct142026signed.pdf"
       }
      ]
     }
    ],
-   "count": 175
+   "count": 187
   }
  }
 }
