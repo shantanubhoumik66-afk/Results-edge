@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-29T17:11:32.710418Z",
+ "updated": "2026-10-30T09:01:25.995773Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 218238,
+     "mcap_cr": 214562,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -79,7 +79,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 139962,
+     "mcap_cr": 135626,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 59631,
+     "mcap_cr": 59562,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "ATHERENERG",
      "name": "Ather Energy Ltd.",
-     "mcap_cr": 65974,
+     "mcap_cr": 69771,
      "score": 65.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -299,7 +299,7 @@
     {
      "symbol": "POONAWALLA",
      "name": "Poonawalla Fincorp Ltd.",
-     "mcap_cr": 38879,
+     "mcap_cr": 38909,
      "score": 65.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -372,7 +372,7 @@
     {
      "symbol": "CHENNPETRO",
      "name": "Chennai Petroleum Corporation Ltd.",
-     "mcap_cr": 22512,
+     "mcap_cr": 22789,
      "score": 64.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -445,7 +445,7 @@
     {
      "symbol": "TMCV",
      "name": "Tata Motors Ltd.",
-     "mcap_cr": 147422,
+     "mcap_cr": 145820,
      "score": 64.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -518,7 +518,7 @@
     {
      "symbol": "ETERNAL",
      "name": "Eternal Ltd.",
-     "mcap_cr": 311254,
+     "mcap_cr": 316413,
      "score": 61.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -591,7 +591,7 @@
     {
      "symbol": "PPLPHARMA",
      "name": "Piramal Pharma Ltd.",
-     "mcap_cr": 30603,
+     "mcap_cr": 31337,
      "score": 58.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -662,76 +662,75 @@
      ]
     },
     {
-     "symbol": "PINELABS",
-     "name": "Pine Labs Ltd.",
-     "mcap_cr": 18962,
-     "score": 56.9,
+     "symbol": "MEESHO",
+     "name": "Meesho Ltd.",
+     "mcap_cr": 102534,
+     "score": 57.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
      "reasons": [
-      "Revenue +24% YoY",
-      "EBITDA +54% YoY",
-      "PAT +546% YoY",
-      "EBITDA margin 15.1% to 18.8%",
-      "Operating cash flow positive",
-      "Debt/Equity 0.06"
+      "Revenue +34% YoY",
+      "EBITDA +68% YoY",
+      "PAT +68% YoY",
+      "EBITDA margin -10.4% to -2.5%",
+      "Debt/Equity 0.01"
      ],
      "result": {
       "revenue": {
-       "cur": 806.2,
-       "prev": 736.9,
-       "yago": 649.9,
-       "qoq": 9.4,
-       "yoy": 24.0
+       "cur": 4131.6,
+       "prev": 3712.8,
+       "yago": 3073.7,
+       "qoq": 11.3,
+       "yoy": 34.4
       },
       "ebitda": {
-       "cur": 151.5,
-       "prev": 123.8,
-       "yago": 98.3,
-       "qoq": 22.3,
-       "yoy": 54.1
+       "cur": -101.7,
+       "prev": -111.1,
+       "yago": -320.0,
+       "qoq": 8.4,
+       "yoy": 68.2
       },
       "pat": {
-       "cur": 38.6,
-       "prev": 19.6,
-       "yago": 6.0,
-       "qoq": 97.1,
-       "yoy": 546.1
+       "cur": -132.4,
+       "prev": -132.8,
+       "yago": -411.4,
+       "qoq": 0.3,
+       "yoy": 67.8
       },
-      "margin_cur": 18.8,
-      "margin_yago": 15.1
+      "margin_cur": -2.5,
+      "margin_yago": -10.4
      },
      "balance": {
-      "debt": 352.7,
-      "cash": 1348.7,
-      "equity": 6019.5,
-      "de": 0.06,
-      "ocf": 152.1
+      "debt": 48.8,
+      "cash": 128.8,
+      "equity": 4206.0,
+      "de": 0.01,
+      "ocf": null
      },
      "announcements": [
       {
-       "date": "29-Oct-202",
+       "date": "28-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Pine Labs Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/PINELABS_29102026220826_4AudioVideo.pdf"
+       "text": "Meesho Limited has informed the Exchange about Link of Recording",
+       "link": "https://nsearchives.nseindia.com/corporate/MEESHO_28102026224146_MLoutcomeoftheearningscall28Oct2026.pdf"
       },
       {
-       "date": "29-Oct-202",
-       "title": "Investor Presentation",
-       "text": "Pine Labs Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.com/corporate/PINELABS_29102026132509_Investor_presentation.pdf"
-      },
-      {
-       "date": "29-Oct-202",
+       "date": "28-Oct-202",
        "title": "Press Release",
-       "text": "Pine Labs Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \"Q2 FY27 Performance\".",
-       "link": "https://nsearchives.nseindia.com/corporate/PINELABS_29102026132211_Final_signed.pdf"
+       "text": "Meesho Limited has informed the Exchange regarding a press release for the Unaudited Financial Results (Standalone and Consolidated) for the quarter and half year ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/MEESHO_28102026172247_MLPress_release28102026.pdf"
       },
       {
-       "date": "29-Oct-202",
+       "date": "28-Oct-202",
        "title": "Outcome of Board Meeting",
-       "text": "Pine Labs Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/PINELABS_29102026131002_Final_signed.pdf"
+       "text": "Meesho Limited has informed the Exchange regarding Outcome of Board Meeting held on October 28, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/MEESHO_28102026170724_Final_MLBMOutcome28102026_-_First_half.pdf"
+      },
+      {
+       "date": "28-Oct-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Meesho Limited has submitted to the Exchange, the Unaudited Financial Results (Standalone and Consolidated) for the quarter and half year ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/MEESHO_28102026170508_Final_MLBMOutcome28102026_-_First_half.pdf"
       }
      ]
     }
@@ -740,7 +739,7 @@
     {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 21661,
+     "mcap_cr": 21293,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -813,7 +812,7 @@
     {
      "symbol": "GALLANTT",
      "name": "Gallantt Ispat Ltd.",
-     "mcap_cr": 13801,
+     "mcap_cr": 13566,
      "score": -24.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -886,7 +885,7 @@
     {
      "symbol": "UTIAMC",
      "name": "UTI Asset Management Company Ltd.",
-     "mcap_cr": 10599,
+     "mcap_cr": 10389,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -959,7 +958,7 @@
     {
      "symbol": "JKCEMENT",
      "name": "J.K. Cement Ltd.",
-     "mcap_cr": 37807,
+     "mcap_cr": 37089,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1032,7 +1031,7 @@
     {
      "symbol": "JINDALSAW",
      "name": "Jindal Saw Ltd.",
-     "mcap_cr": 15156,
+     "mcap_cr": 14607,
      "score": -22.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1105,7 +1104,7 @@
     {
      "symbol": "SHREECEM",
      "name": "Shree Cement Ltd.",
-     "mcap_cr": 83419,
+     "mcap_cr": 82571,
      "score": -19.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1178,7 +1177,7 @@
     {
      "symbol": "MAZDOCK",
      "name": "Mazagoan Dock Shipbuilders Ltd.",
-     "mcap_cr": 71104,
+     "mcap_cr": 69143,
      "score": -15.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1249,7 +1248,7 @@
     {
      "symbol": "DRREDDY",
      "name": "Dr. Reddy's Laboratories Ltd.",
-     "mcap_cr": 112048,
+     "mcap_cr": 112781,
      "score": -14.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1295,6 +1294,12 @@
      },
      "announcements": [
       {
+       "date": "29-Oct-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Dr. Reddy's Laboratories Limited has informed the Exchange about Transcript",
+       "link": "https://nsearchives.nseindia.com/corporate/DRREDDY_29102026225525_SE_Intimation_Transcript_of_earning_call_recordings_signed.pdf"
+      },
+      {
        "date": "24-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Dr. Reddy's Laboratories Limited has informed the Exchange about Link of Recording",
@@ -1311,19 +1316,13 @@
        "title": "Investor Presentation",
        "text": "Dr. Reddy's Laboratories Limited has informed the Exchange about Investor Presentation",
        "link": "https://nsearchives.nseindia.com/corporate/DRREDDY_23102026173751_SEintimation_Investor_presentation_23102026_1.pdf"
-      },
-      {
-       "date": "23-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Dr. Reddy's Laboratories Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/DRREDDY_23102026172921_SE_Intimation_results_23102026.pdf"
       }
      ]
     },
     {
      "symbol": "ULTRACEMCO",
      "name": "UltraTech Cement Ltd.",
-     "mcap_cr": 328617,
+     "mcap_cr": 325677,
      "score": -14.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1396,7 +1395,7 @@
     {
      "symbol": "CEATLTD",
      "name": "Ceat Ltd.",
-     "mcap_cr": 12678,
+     "mcap_cr": 12485,
      "score": -14.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1467,7 +1466,7 @@
      ]
     }
    ],
-   "count": 187
+   "count": 195
   }
  }
 }
