@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-31T08:50:10.681479Z",
+ "updated": "2026-11-02T09:58:08.522993Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 213717,
+     "mcap_cr": 218872,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -79,7 +79,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 134965,
+     "mcap_cr": 137193,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "DEEPAKNTR",
      "name": "Deepak Nitrite Ltd.",
-     "mcap_cr": 20724,
+     "mcap_cr": 20841,
      "score": 70.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 59867,
+     "mcap_cr": 59958,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -298,7 +298,7 @@
     {
      "symbol": "ATHERENERG",
      "name": "Ather Energy Ltd.",
-     "mcap_cr": 69664,
+     "mcap_cr": 70402,
      "score": 65.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -372,7 +372,7 @@
     {
      "symbol": "LAURUSLABS",
      "name": "Laurus Labs Ltd.",
-     "mcap_cr": 129972,
+     "mcap_cr": 126973,
      "score": 65.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -445,7 +445,7 @@
     {
      "symbol": "POONAWALLA",
      "name": "Poonawalla Fincorp Ltd.",
-     "mcap_cr": 40657,
+     "mcap_cr": 42601,
      "score": 65.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -518,7 +518,7 @@
     {
      "symbol": "CHENNPETRO",
      "name": "Chennai Petroleum Corporation Ltd.",
-     "mcap_cr": 22508,
+     "mcap_cr": 22986,
      "score": 64.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -591,7 +591,7 @@
     {
      "symbol": "TMCV",
      "name": "Tata Motors Ltd.",
-     "mcap_cr": 145967,
+     "mcap_cr": 148179,
      "score": 64.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -636,6 +636,18 @@
      },
      "announcements": [
       {
+       "date": "01-Nov-202",
+       "title": "Press Release",
+       "text": "Tata Motors Limited has informed the Exchange regarding a press release dated November 01, 2026, titled \"Tata Motors Limited (formerly TML Commercial Vehicles Limited) Monthly Sales - October 2026\".",
+       "link": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_01112026124958_NSEBSE.pdf"
+      },
+      {
+       "date": "31-Oct-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Tata Motors Limited has informed the Exchange regarding Outcome of Board Meeting held on October 31, 2026 for change in Statutory Auditors.",
+       "link": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_31102026142803_NSEBSEFINAL.pdf"
+      },
+      {
        "date": "30-Oct-202",
        "title": "Press Release",
        "text": "Tata Motors Limited has informed the Exchange regarding a press release dated October 30, 2026, titled \"Tata Motors completes the initial settlement of the Tender Offer for Iveco Group. Iveco Group has now become part of Tata Motors\".",
@@ -646,25 +658,13 @@
        "title": "Press Release",
        "text": "Tata Motors Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"TML CV Holdings B.V., an Indirect Wholly Owned Subsidiary of Tata Motors Limited (formerly TML Commercial Vehicles Limited) ( the Company )   Voluntary Totalitarian Tender Offer for all the common shares of Iveco Group N.V.\".",
        "link": "https://nsearchives.nseindia.com/corporate/TML2_27102026195840_NSEBSELETTER.pdf"
-      },
-      {
-       "date": "27-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Tata Motors Limited has informed the Exchange about Transcript",
-       "link": "https://nsearchives.nseindia.com/corporate/TML2_27102026193839_NSEBSETranscript.pdf"
-      },
-      {
-       "date": "27-Oct-202",
-       "title": "Press Release",
-       "text": "Tata Motors Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"Amazon Collaborates with Tata Motors to Deploy 3,000 Electric Trucks in Its Transportation Network in India\".",
-       "link": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_27102026125127_NSEBSELETTER_Press_release.pdf"
       }
      ]
     },
     {
      "symbol": "ETERNAL",
      "name": "Eternal Ltd.",
-     "mcap_cr": 316597,
+     "mcap_cr": 317841,
      "score": 61.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -739,7 +739,7 @@
     {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 21220,
+     "mcap_cr": 21618,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -812,7 +812,7 @@
     {
      "symbol": "GALLANTT",
      "name": "Gallantt Ispat Ltd.",
-     "mcap_cr": 13465,
+     "mcap_cr": 13192,
      "score": -24.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -885,7 +885,7 @@
     {
      "symbol": "UTIAMC",
      "name": "UTI Asset Management Company Ltd.",
-     "mcap_cr": 10417,
+     "mcap_cr": 10399,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -958,7 +958,7 @@
     {
      "symbol": "JKCEMENT",
      "name": "J.K. Cement Ltd.",
-     "mcap_cr": 36977,
+     "mcap_cr": 37823,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1031,7 +1031,7 @@
     {
      "symbol": "JINDALSAW",
      "name": "Jindal Saw Ltd.",
-     "mcap_cr": 14547,
+     "mcap_cr": 15523,
      "score": -22.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1104,7 +1104,7 @@
     {
      "symbol": "AMBUJACEM",
      "name": "Ambuja Cements Ltd.",
-     "mcap_cr": 86484,
+     "mcap_cr": 89180,
      "score": -22.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1149,6 +1149,12 @@
      },
      "announcements": [
       {
+       "date": "02-Nov-202",
+       "title": "Press Release",
+       "text": "Ambuja Cements Limited has informed the Exchange regarding a press release dated November 02, 2026, titled \"Ambuja Cements Firms Up its Next Growth Phase with Approx 30 MTPA Expansion\".",
+       "link": "https://nsearchives.nseindia.com/corporate/AMBUJACEM_02112026121148_ACL_Media_Release_02112026.pdf"
+      },
+      {
        "date": "30-Oct-202",
        "title": "Copy of Newspaper Publication",
        "text": "Ambuja Cements Limited has informed the exchange regarding Newspaper Publication of Unaudited Consolidated financial Results for the quarter and half year ended September 30, 2026.",
@@ -1165,19 +1171,13 @@
        "title": "Investor Presentation",
        "text": "Ambuja Cements Limited has informed the Exchange about Investor Presentation",
        "link": "https://nsearchives.nseindia.com/corporate/AMBUJACEM_29102026143804_ACL_InvestorPresentation.pdf"
-      },
-      {
-       "date": "29-Oct-202",
-       "title": "Press Release",
-       "text": "Ambuja Cements Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \"Ambuja Strengthens Trade and Premium Mix in Q2 amid Seasonal & External Headwinds\".",
-       "link": "https://nsearchives.nseindia.com/corporate/AMBUJACEM_29102026143523_ACL_MediaRelease.pdf"
       }
      ]
     },
     {
      "symbol": "SHREECEM",
      "name": "Shree Cement Ltd.",
-     "mcap_cr": 82968,
+     "mcap_cr": 84700,
      "score": -19.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1250,7 +1250,7 @@
     {
      "symbol": "MAZDOCK",
      "name": "Mazagoan Dock Shipbuilders Ltd.",
-     "mcap_cr": 68788,
+     "mcap_cr": 70297,
      "score": -15.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1321,7 +1321,7 @@
     {
      "symbol": "DRREDDY",
      "name": "Dr. Reddy's Laboratories Ltd.",
-     "mcap_cr": 112631,
+     "mcap_cr": 111798,
      "score": -14.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1395,7 +1395,7 @@
     {
      "symbol": "ULTRACEMCO",
      "name": "UltraTech Cement Ltd.",
-     "mcap_cr": 324794,
+     "mcap_cr": 333146,
      "score": -14.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1466,7 +1466,7 @@
      ]
     }
    ],
-   "count": 215
+   "count": 216
   }
  }
 }
