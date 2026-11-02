@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T09:58:08.522993Z",
+ "updated": "2026-11-02T20:38:03.849424Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
@@ -79,7 +79,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 137193,
+     "mcap_cr": 137524,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "DEEPAKNTR",
      "name": "Deepak Nitrite Ltd.",
-     "mcap_cr": 20841,
+     "mcap_cr": 20885,
      "score": 70.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 59958,
+     "mcap_cr": 59522,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -372,7 +372,7 @@
     {
      "symbol": "LAURUSLABS",
      "name": "Laurus Labs Ltd.",
-     "mcap_cr": 126973,
+     "mcap_cr": 126865,
      "score": 65.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -445,7 +445,7 @@
     {
      "symbol": "POONAWALLA",
      "name": "Poonawalla Fincorp Ltd.",
-     "mcap_cr": 42601,
+     "mcap_cr": 42332,
      "score": 65.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -518,7 +518,7 @@
     {
      "symbol": "CHENNPETRO",
      "name": "Chennai Petroleum Corporation Ltd.",
-     "mcap_cr": 22986,
+     "mcap_cr": 23022,
      "score": 64.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -591,7 +591,7 @@
     {
      "symbol": "TMCV",
      "name": "Tata Motors Ltd.",
-     "mcap_cr": 148179,
+     "mcap_cr": 147829,
      "score": 64.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -664,7 +664,7 @@
     {
      "symbol": "ETERNAL",
      "name": "Eternal Ltd.",
-     "mcap_cr": 317841,
+     "mcap_cr": 316919,
      "score": 61.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -739,7 +739,7 @@
     {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 21618,
+     "mcap_cr": 21626,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -812,7 +812,7 @@
     {
      "symbol": "GALLANTT",
      "name": "Gallantt Ispat Ltd.",
-     "mcap_cr": 13192,
+     "mcap_cr": 12459,
      "score": -24.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -885,7 +885,7 @@
     {
      "symbol": "UTIAMC",
      "name": "UTI Asset Management Company Ltd.",
-     "mcap_cr": 10399,
+     "mcap_cr": 10409,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -930,6 +930,12 @@
      },
      "announcements": [
       {
+       "date": "02-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "UTI Asset Management Company Limited has informed the Exchange about Transcript",
+       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_02112026161127_Intimation_of_Earnings_Transcript.pdf"
+      },
+      {
        "date": "27-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "UTI Asset Management Company Limited has informed the Exchange about Link of Recording",
@@ -946,19 +952,13 @@
        "title": "Press Release",
        "text": "UTI Asset Management Company Limited has informed the Exchange regarding a press release dated October 23, 2026, titled \"UTI Asset Management Company Limited announced its Q2 & H1 FY27 Financial and Business Performance today.\"",
        "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_23102026195355_Intimation_Investor_Presentation_and_press_release.pdf"
-      },
-      {
-       "date": "23-Oct-202",
-       "title": "Investor Presentation",
-       "text": "UTI Asset Management Company Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_23102026194432_Intimation_Investor_Presentation_and_press_release.pdf"
       }
      ]
     },
     {
      "symbol": "JKCEMENT",
      "name": "J.K. Cement Ltd.",
-     "mcap_cr": 37823,
+     "mcap_cr": 37830,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1031,7 +1031,7 @@
     {
      "symbol": "JINDALSAW",
      "name": "Jindal Saw Ltd.",
-     "mcap_cr": 15523,
+     "mcap_cr": 15526,
      "score": -22.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1104,7 +1104,7 @@
     {
      "symbol": "AMBUJACEM",
      "name": "Ambuja Cements Ltd.",
-     "mcap_cr": 89180,
+     "mcap_cr": 89503,
      "score": -22.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1177,7 +1177,7 @@
     {
      "symbol": "SHREECEM",
      "name": "Shree Cement Ltd.",
-     "mcap_cr": 84700,
+     "mcap_cr": 85114,
      "score": -19.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1250,7 +1250,7 @@
     {
      "symbol": "MAZDOCK",
      "name": "Mazagoan Dock Shipbuilders Ltd.",
-     "mcap_cr": 70297,
+     "mcap_cr": 70051,
      "score": -15.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1395,7 +1395,7 @@
     {
      "symbol": "ULTRACEMCO",
      "name": "UltraTech Cement Ltd.",
-     "mcap_cr": 333146,
+     "mcap_cr": 334851,
      "score": -14.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
