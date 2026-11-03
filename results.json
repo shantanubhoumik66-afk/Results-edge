@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-02T20:38:03.849424Z",
+ "updated": "2026-11-03T10:01:55.667370Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 218872,
+     "mcap_cr": 220984,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -79,7 +79,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 137524,
+     "mcap_cr": 139230,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "DEEPAKNTR",
      "name": "Deepak Nitrite Ltd.",
-     "mcap_cr": 20885,
+     "mcap_cr": 20729,
      "score": 70.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 59522,
+     "mcap_cr": 60722,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -298,7 +298,7 @@
     {
      "symbol": "ATHERENERG",
      "name": "Ather Energy Ltd.",
-     "mcap_cr": 70402,
+     "mcap_cr": 71207,
      "score": 65.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -372,7 +372,7 @@
     {
      "symbol": "LAURUSLABS",
      "name": "Laurus Labs Ltd.",
-     "mcap_cr": 126865,
+     "mcap_cr": 124704,
      "score": 65.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -417,6 +417,12 @@
      },
      "announcements": [
       {
+       "date": "03-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Laurus Labs Limited has informed the Exchange about Transcript",
+       "link": "https://nsearchives.nseindia.com/corporate/LAURUSLABS_03112026113343_Transcript03112026.pdf"
+      },
+      {
        "date": "29-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Laurus Labs Limited has informed the Exchange about Link of Recording",
@@ -433,19 +439,13 @@
        "title": "Investor Presentation",
        "text": "Laurus Labs Limited has informed the Exchange about Investor Presentation",
        "link": "https://nsearchives.nseindia.com/corporate/LAURUSLABS_29102026151833_InvPresentation29102026.pdf"
-      },
-      {
-       "date": "29-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Laurus Labs Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/LAURUSLABS_29102026145355_Outcome29102026.pdf"
       }
      ]
     },
     {
      "symbol": "POONAWALLA",
      "name": "Poonawalla Fincorp Ltd.",
-     "mcap_cr": 42332,
+     "mcap_cr": 41570,
      "score": 65.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -518,7 +518,7 @@
     {
      "symbol": "CHENNPETRO",
      "name": "Chennai Petroleum Corporation Ltd.",
-     "mcap_cr": 23022,
+     "mcap_cr": 22929,
      "score": 64.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -589,9 +589,82 @@
      ]
     },
     {
+     "symbol": "POLICYBZR",
+     "name": "PB Fintech Ltd.",
+     "mcap_cr": 42630,
+     "score": 64.4,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue +62% YoY",
+      "EBITDA +94% YoY",
+      "PAT +128% YoY",
+      "EBITDA margin 10.0% to 12.0%",
+      "Debt/Equity 0.05"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 2177.7,
+       "prev": 1888.3,
+       "yago": 1348.0,
+       "qoq": 15.3,
+       "yoy": 61.6
+      },
+      "ebitda": {
+       "cur": 260.9,
+       "prev": 229.8,
+       "yago": 134.6,
+       "qoq": 13.5,
+       "yoy": 93.8
+      },
+      "pat": {
+       "cur": 192.4,
+       "prev": 162.9,
+       "yago": 84.6,
+       "qoq": 18.1,
+       "yoy": 127.5
+      },
+      "margin_cur": 12.0,
+      "margin_yago": 10.0
+     },
+     "balance": {
+      "debt": 410.5,
+      "cash": 389.8,
+      "equity": 7774.8,
+      "de": 0.05,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "31-Oct-202",
+       "title": "Copy of Newspaper Publication",
+       "text": "PB Fintech Limited has informed the Exchange about Copy of Newspaper Publication of Financial Results for the quarter and half year ended September 30, 2026",
+       "link": "https://nsearchives.nseindia.com/corporate/POLICYBZR_31102026213345_IntimationNewspaperPublication30092026PBFL.pdf"
+      },
+      {
+       "date": "31-Oct-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "PB Fintech Limited has informed the Exchange about Link of Recording-Audio Recording of the Earnings Call conducted on October 30, 2026",
+       "link": "https://nsearchives.nseindia.com/corporate/POLICYBZR_31102026153333_AudioRecordingEarningCallQ2FY27PBFL.pdf"
+      },
+      {
+       "date": "30-Oct-202",
+       "title": "Outcome of Board Meeting",
+       "text": "PB Fintech Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/POLICYBZR_30102026173744_OutcomeofBoardMeetingPOLICYBZRQ2FY27.pdf"
+      },
+      {
+       "date": "27-Oct-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "PB Fintech Limited has informed the Exchange about Schedule of Earnings conference call for shareholders, investors and analyst",
+       "link": "https://nsearchives.nseindia.com/corporate/POLICYBZR_27102026212824_EarningsCallIntimationPOLICYBZRQ2FY27.pdf"
+      }
+     ]
+    },
+    {
      "symbol": "TMCV",
      "name": "Tata Motors Ltd.",
-     "mcap_cr": 147829,
+     "mcap_cr": 148676,
      "score": 64.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -660,86 +733,13 @@
        "link": "https://nsearchives.nseindia.com/corporate/TML2_27102026195840_NSEBSELETTER.pdf"
       }
      ]
-    },
-    {
-     "symbol": "ETERNAL",
-     "name": "Eternal Ltd.",
-     "mcap_cr": 316919,
-     "score": 61.2,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue +237% YoY",
-      "EBITDA +135% YoY",
-      "PAT +400% YoY",
-      "EBITDA margin 6.5% to 4.6%",
-      "Debt/Equity 0.18"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 24138.0,
-       "prev": 20211.0,
-       "yago": 7167.0,
-       "qoq": 19.4,
-       "yoy": 236.8
-      },
-      "ebitda": {
-       "cur": 1103.0,
-       "prev": 969.0,
-       "yago": 469.0,
-       "qoq": 13.8,
-       "yoy": 135.2
-      },
-      "pat": {
-       "cur": 125.0,
-       "prev": 92.0,
-       "yago": 25.0,
-       "qoq": 35.9,
-       "yoy": 400.0
-      },
-      "margin_cur": 4.6,
-      "margin_yago": 6.5
-     },
-     "balance": {
-      "debt": 5757.0,
-      "cash": 467.0,
-      "equity": 31275.0,
-      "de": 0.18,
-      "ocf": null
-     },
-     "announcements": [
-      {
-       "date": "27-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Eternal Limited has filed with exchange transcript of earnings conference call conducted on October 21, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/ZOMATO_27102026165119_Transcript_of_the_earnings_conference_call_September_2026signed.pdf"
-      },
-      {
-       "date": "21-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Outcome of board meeting dated October 21, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/ZOMATO_21102026152051_OutcomeSIGNED.pdf"
-      },
-      {
-       "date": "13-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Eternal Limited has informed the exchange that the Company will hold its Earnings Conference Call on Wednesday, October 21, 2026 at 5 P.M. (IST), to discuss the financial results for the quarter and half year ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/ZOMATO_13102026181942_PriorintimationSept2026signed.pdf"
-      },
-      {
-       "date": "11-Sep-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Eternal Limited has informed the exchange about schedule of participation in investor conference.",
-       "link": "https://nsearchives.nseindia.com/corporate/ZOMATO_11092026191907_SignedInvestorConference.pdf"
-      }
-     ]
     }
    ],
    "bad": [
     {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 21626,
+     "mcap_cr": 21920,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -812,7 +812,7 @@
     {
      "symbol": "GALLANTT",
      "name": "Gallantt Ispat Ltd.",
-     "mcap_cr": 12459,
+     "mcap_cr": 12747,
      "score": -24.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -885,7 +885,7 @@
     {
      "symbol": "UTIAMC",
      "name": "UTI Asset Management Company Ltd.",
-     "mcap_cr": 10409,
+     "mcap_cr": 10322,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -930,6 +930,18 @@
      },
      "announcements": [
       {
+       "date": "03-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "UTI Asset Management Company Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_03112026114418_Intimation_Investor_Meet_09112026_Mirae_Asset.pdf"
+      },
+      {
+       "date": "03-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "UTI Asset Management Company Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_03112026114208_Intimation_Investor_Meet_12112026_HDFC_Securities_Ltd.pdf"
+      },
+      {
        "date": "02-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "UTI Asset Management Company Limited has informed the Exchange about Transcript",
@@ -940,25 +952,13 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "UTI Asset Management Company Limited has informed the Exchange about Link of Recording",
        "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_27102026191000_Intimation_Audio_recording_of_earning_conference_final11.pdf"
-      },
-      {
-       "date": "24-Oct-202",
-       "title": "Investor Presentation",
-       "text": "UTI Asset Management Company Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_24102026112627_Intimation_of_Revised_Investor_Presentation.pdf"
-      },
-      {
-       "date": "23-Oct-202",
-       "title": "Press Release",
-       "text": "UTI Asset Management Company Limited has informed the Exchange regarding a press release dated October 23, 2026, titled \"UTI Asset Management Company Limited announced its Q2 & H1 FY27 Financial and Business Performance today.\"",
-       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_23102026195355_Intimation_Investor_Presentation_and_press_release.pdf"
       }
      ]
     },
     {
      "symbol": "JKCEMENT",
      "name": "J.K. Cement Ltd.",
-     "mcap_cr": 37830,
+     "mcap_cr": 39093,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1031,7 +1031,7 @@
     {
      "symbol": "JINDALSAW",
      "name": "Jindal Saw Ltd.",
-     "mcap_cr": 15526,
+     "mcap_cr": 15753,
      "score": -22.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1104,7 +1104,7 @@
     {
      "symbol": "AMBUJACEM",
      "name": "Ambuja Cements Ltd.",
-     "mcap_cr": 89503,
+     "mcap_cr": 91441,
      "score": -22.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1175,9 +1175,82 @@
      ]
     },
     {
+     "symbol": "SUNTV",
+     "name": "Sun TV Network Ltd.",
+     "mcap_cr": 23172,
+     "score": -19.9,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue -28% YoY",
+      "EBITDA -34% YoY",
+      "PAT +3% YoY",
+      "EBITDA margin 68.8% to 62.3%",
+      "Debt/Equity 0.01"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 940.3,
+       "prev": 1457.9,
+       "yago": 1299.9,
+       "qoq": -35.5,
+       "yoy": -27.7
+      },
+      "ebitda": {
+       "cur": 585.7,
+       "prev": 914.8,
+       "yago": 894.2,
+       "qoq": -36.0,
+       "yoy": -34.5
+      },
+      "pat": {
+       "cur": 364.3,
+       "prev": 618.8,
+       "yago": 354.3,
+       "qoq": -41.1,
+       "yoy": 2.8
+      },
+      "margin_cur": 62.3,
+      "margin_yago": 68.8
+     },
+     "balance": {
+      "debt": 108.1,
+      "cash": 191.7,
+      "equity": 13456.7,
+      "de": 0.01,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "30-Oct-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Sun TV Network Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/SUNTV1_30102026164805_SunTVOutcome30102026final.pdf"
+      },
+      {
+       "date": "21-Sep-202",
+       "title": "Shareholders meeting",
+       "text": "Sun TV Network Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 18, 2026. Further, the company has informed the Exchange regarding voting results.",
+       "link": "https://nsearchives.nseindia.com/corporate/SUNTV1_21092026181914_SunTVVotingresults2026.pdf"
+      },
+      {
+       "date": "12-Aug-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Sun TV Network Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/SUNTV1_12082026162553_OutcomeoftheBM12082026.pdf"
+      },
+      {
+       "date": "21-May-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Sun TV Network Limited has submitted to the Exchange, the financial results for the period ended March 31, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/SUNTV1_21052026170034_OutcomeoftheBM21052026.pdf"
+      }
+     ]
+    },
+    {
      "symbol": "SHREECEM",
      "name": "Shree Cement Ltd.",
-     "mcap_cr": 85114,
+     "mcap_cr": 86269,
      "score": -19.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1248,9 +1321,82 @@
      ]
     },
     {
+     "symbol": "IGL",
+     "name": "Indraprastha Gas Ltd.",
+     "mcap_cr": 18701,
+     "score": -18.2,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue +27% YoY",
+      "EBITDA -75% YoY",
+      "PAT -93% YoY",
+      "EBITDA margin 15.4% to 3.1%",
+      "Debt/Equity 0.01"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 5118.0,
+       "prev": 4586.7,
+       "yago": 4023.4,
+       "qoq": 11.6,
+       "yoy": 27.2
+      },
+      "ebitda": {
+       "cur": 156.6,
+       "prev": 452.6,
+       "yago": 618.7,
+       "qoq": -65.4,
+       "yoy": -74.7
+      },
+      "pat": {
+       "cur": 25.9,
+       "prev": 240.4,
+       "yago": 386.3,
+       "qoq": -89.2,
+       "yoy": -93.3
+      },
+      "margin_cur": 3.1,
+      "margin_yago": 15.4
+     },
+     "balance": {
+      "debt": 92.9,
+      "cash": 171.7,
+      "equity": 11560.2,
+      "de": 0.01,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "30-Oct-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Indraprastha Gas Limited has submitted to the Exchange, the unaudited financial results for the quarter and half year ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/IGL1_30102026194508_IGLUFRSep2026.pdf"
+      },
+      {
+       "date": "29-Oct-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Indraprastha Gas Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/IGL1_29102026162153_RevisedIGLIntimationConcall29102926.pdf"
+      },
+      {
+       "date": "28-Oct-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Indraprastha Gas Limited has informed the Exchange about Conference Call to discuss Unaudited Financial Results for quarter ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/IGL1_28102026161502_IGLIntimationEarningCall02112026.pdf"
+      },
+      {
+       "date": "25-Sep-202",
+       "title": "Shareholders meeting",
+       "text": "Indraprastha Gas Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 24, 2026. Further, the company has informed the Exchange regarding voting results.",
+       "link": "https://nsearchives.nseindia.com/corporate/IGL1_25092026172504_IGL_Scrutnizer_report_AGM.PDF"
+      }
+     ]
+    },
+    {
      "symbol": "MAZDOCK",
      "name": "Mazagoan Dock Shipbuilders Ltd.",
-     "mcap_cr": 70051,
+     "mcap_cr": 71943,
      "score": -15.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1317,156 +1463,9 @@
        "link": "https://nsearchives.nseindia.com/corporate/MAZDOCK_23092026141617_SE_Disc_Investor_Meet_Presentation.pdf"
       }
      ]
-    },
-    {
-     "symbol": "DRREDDY",
-     "name": "Dr. Reddy's Laboratories Ltd.",
-     "mcap_cr": 111798,
-     "score": -14.9,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue -2% YoY",
-      "EBITDA -23% YoY",
-      "PAT -36% YoY",
-      "EBITDA margin 27.6% to 21.7%",
-      "Operating cash flow positive",
-      "Debt/Equity 0.19"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 8670.8,
-       "prev": 8070.5,
-       "yago": 8805.1,
-       "qoq": 7.4,
-       "yoy": -1.5
-      },
-      "ebitda": {
-       "cur": 1879.4,
-       "prev": 1215.3,
-       "yago": 2430.8,
-       "qoq": 54.6,
-       "yoy": -22.7
-      },
-      "pat": {
-       "cur": 925.0,
-       "prev": 443.5,
-       "yago": 1437.2,
-       "qoq": 108.6,
-       "yoy": -35.6
-      },
-      "margin_cur": 21.7,
-      "margin_yago": 27.6
-     },
-     "balance": {
-      "debt": 7228.7,
-      "cash": 1329.4,
-      "equity": 38617.9,
-      "de": 0.19,
-      "ocf": 528.4
-     },
-     "announcements": [
-      {
-       "date": "29-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Dr. Reddy's Laboratories Limited has informed the Exchange about Transcript",
-       "link": "https://nsearchives.nseindia.com/corporate/DRREDDY_29102026225525_SE_Intimation_Transcript_of_earning_call_recordings_signed.pdf"
-      },
-      {
-       "date": "24-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Dr. Reddy's Laboratories Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/DRREDDY_24102026112156_SE_Intimation_Earnings_call_recordings_24102026_signed.pdf"
-      },
-      {
-       "date": "23-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Dr. Reddy's Laboratories Limited has informed the Exchange regarding Outcome of Board Meeting held on October 23, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/DRREDDY_23102026184026_SE_Intimation_Outcome_23102026_Signed.pdf"
-      },
-      {
-       "date": "23-Oct-202",
-       "title": "Investor Presentation",
-       "text": "Dr. Reddy's Laboratories Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.com/corporate/DRREDDY_23102026173751_SEintimation_Investor_presentation_23102026_1.pdf"
-      }
-     ]
-    },
-    {
-     "symbol": "ULTRACEMCO",
-     "name": "UltraTech Cement Ltd.",
-     "mcap_cr": 334851,
-     "score": -14.8,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue +10% YoY",
-      "EBITDA -16% YoY",
-      "PAT -33% YoY",
-      "EBITDA margin 21.4% to 16.4%",
-      "Debt/Equity 0.4"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 23295.1,
-       "prev": 24648.2,
-       "yago": 21275.5,
-       "qoq": -5.5,
-       "yoy": 9.5
-      },
-      "ebitda": {
-       "cur": 3823.7,
-       "prev": 5133.9,
-       "yago": 4547.9,
-       "qoq": -25.5,
-       "yoy": -15.9
-      },
-      "pat": {
-       "cur": 1493.8,
-       "prev": 2599.3,
-       "yago": 2225.9,
-       "qoq": -42.5,
-       "yoy": -32.9
-      },
-      "margin_cur": 16.4,
-      "margin_yago": 21.4
-     },
-     "balance": {
-      "debt": 29289.3,
-      "cash": 143.8,
-      "equity": 73587.2,
-      "de": 0.4,
-      "ocf": null
-     },
-     "announcements": [
-      {
-       "date": "27-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "UltraTech Cement Limited has informed the Exchange about Transcript",
-       "link": "https://nsearchives.nseindia.com/corporate/ULTRACEMCO1_27102026142336_SE_Transcript.pdf"
-      },
-      {
-       "date": "19-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "UltraTech Cement Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/ULTRACEMCO1_19102026182721_Covering_Letter_-_Earnings_call_-_audio.pdf"
-      },
-      {
-       "date": "19-Oct-202",
-       "title": "Investor Presentation",
-       "text": "UltraTech Cement Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.com/corporate/ULTRACEMCO1_19102026140953_SEinvestorpresentation.pdf"
-      },
-      {
-       "date": "19-Oct-202",
-       "title": "Press Release",
-       "text": "UltraTech Cement Limited has informed the Exchange regarding a press release dated October 19, 2026, titled \"Press Release\".",
-       "link": "https://nsearchives.nseindia.com/corporate/ULTRACEMCO1_19102026140819_Outcome_of_BM_-_Financial_Results.pdf"
-      }
-     ]
     }
    ],
-   "count": 216
+   "count": 247
   }
  }
 }
