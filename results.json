@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T09:54:28.635195Z",
+ "updated": "2026-11-05T18:24:15.794988Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 240442,
+     "mcap_cr": 241160,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -79,7 +79,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 145011,
+     "mcap_cr": 145585,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "DEEPAKNTR",
      "name": "Deepak Nitrite Ltd.",
-     "mcap_cr": 21073,
+     "mcap_cr": 21059,
      "score": 70.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 63598,
+     "mcap_cr": 63310,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -298,7 +298,7 @@
     {
      "symbol": "ATHERENERG",
      "name": "Ather Energy Ltd.",
-     "mcap_cr": 70814,
+     "mcap_cr": 70560,
      "score": 65.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -344,6 +344,12 @@
      },
      "announcements": [
       {
+       "date": "05-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Ather Energy Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/ATHERENERGY_05112026161805_SEintimationConferencesNov26.pdf"
+      },
+      {
        "date": "30-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Ather Energy Limited has informed the Exchange about Transcript",
@@ -360,19 +366,13 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Ather Energy Limited has informed the Exchange about Presentation",
        "link": "https://nsearchives.nseindia.com/corporate/ATHERENERGY_26102026152258_Touploadinvestorpresentationsigned.pdf"
-      },
-      {
-       "date": "26-Oct-202",
-       "title": "Press Release",
-       "text": "Ather Energy Limited has informed the Exchange regarding a press release dated October 26, 2026, titled \"Ather Energy s total income up 62% YoY, EBITDA margin improves 1,450 bps YoY to 4.9% confirms plans to further enhance production capacity at Hosur and AURIC facilities\".",
-       "link": "https://nsearchives.nseindia.com/corporate/ATHERENERGY_26102026145610_Touploadpressreleasesigned.pdf"
       }
      ]
     },
     {
      "symbol": "LAURUSLABS",
      "name": "Laurus Labs Ltd.",
-     "mcap_cr": 126379,
+     "mcap_cr": 126757,
      "score": 65.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -445,7 +445,7 @@
     {
      "symbol": "POONAWALLA",
      "name": "Poonawalla Fincorp Ltd.",
-     "mcap_cr": 41782,
+     "mcap_cr": 41826,
      "score": 65.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -490,6 +490,12 @@
      },
      "announcements": [
       {
+       "date": "05-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Poonawalla Fincorp Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/POONAWALLA_05112026180730_PFLIntimationofinvestorsmeet_05112026_-_Copy.pdf"
+      },
+      {
        "date": "14-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Poonawalla Fincorp Limited has informed the Exchange about Transcript",
@@ -506,19 +512,13 @@
        "title": "Outcome of Board Meeting",
        "text": "Poonawalla Fincorp Limited has informed the Exchange regarding Outcome of Board Meeting held on October 09, 2026.",
        "link": "https://nsearchives.nseindia.com/corporate/POONAWALLA_09102026181606_PFLoutcomeofBM09102026s.pdf"
-      },
-      {
-       "date": "09-Oct-202",
-       "title": "Press Release",
-       "text": "Poonawalla Fincorp Limited has informed the Exchange regarding a press release dated October 09, 2026, titled \" Unaudited Financial Results and Performance of the Company for the quarter ended September 30, 2026.\"",
-       "link": "https://nsearchives.nseindia.com/corporate/POONAWALLA_09102026163448_PFLPressrelease09102026.pdf"
       }
      ]
     },
     {
      "symbol": "CHENNPETRO",
      "name": "Chennai Petroleum Corporation Ltd.",
-     "mcap_cr": 21116,
+     "mcap_cr": 21123,
      "score": 64.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -591,7 +591,7 @@
     {
      "symbol": "POLICYBZR",
      "name": "PB Fintech Ltd.",
-     "mcap_cr": 44904,
+     "mcap_cr": 44918,
      "score": 64.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -664,7 +664,7 @@
     {
      "symbol": "TMCV",
      "name": "Tata Motors Ltd.",
-     "mcap_cr": 158693,
+     "mcap_cr": 158012,
      "score": 64.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -737,9 +737,82 @@
    ],
    "bad": [
     {
+     "symbol": "NEULANDLAB",
+     "name": "Neuland Laboratories Ltd.",
+     "mcap_cr": 25381,
+     "score": -26.5,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue -13% YoY",
+      "EBITDA -33% YoY",
+      "PAT -47% YoY",
+      "EBITDA margin 30.6% to 23.4%",
+      "Debt/Equity 0.17"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 449.7,
+       "prev": 641.6,
+       "yago": 514.3,
+       "qoq": -29.9,
+       "yoy": -12.6
+      },
+      "ebitda": {
+       "cur": 105.1,
+       "prev": 231.4,
+       "yago": 157.3,
+       "qoq": -54.6,
+       "yoy": -33.2
+      },
+      "pat": {
+       "cur": 51.6,
+       "prev": 147.7,
+       "yago": 96.9,
+       "qoq": -65.0,
+       "yoy": -46.7
+      },
+      "margin_cur": 23.4,
+      "margin_yago": 30.6
+     },
+     "balance": {
+      "debt": 342.3,
+      "cash": 53.7,
+      "equity": 2029.7,
+      "de": 0.17,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "03-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Audio Recording of the Earnings call conducted on November 3, 2026",
+       "link": "https://nsearchives.nseindia.com/corporate/NEULANDLAB_03112026195447_SignedSEIntimationaudiorecording.pdf"
+      },
+      {
+       "date": "03-Nov-202",
+       "title": "Investor Presentation",
+       "text": "Neuland Laboratories Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/NEULANDLAB_03112026162313_SignedSEInvestorsAnalystsPresentation03112026.pdf"
+      },
+      {
+       "date": "03-Nov-202",
+       "title": "Press Release",
+       "text": "Neuland Laboratories Limited has informed the Exchange regarding a press release dated November 03, 2026, titled \"Press Release on the Financial Results of the Company for the quarter and half year ended September 30, 2026\".",
+       "link": "https://nsearchives.nseindia.com/corporate/NEULANDLAB_03112026161539_SignedSEPR03112026.pdf"
+      },
+      {
+       "date": "03-Nov-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Neuland Laboratories Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/NEULANDLAB_03112026154657_SEOutcome_03112026.pdf"
+      }
+     ]
+    },
+    {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 23006,
+     "mcap_cr": 23036,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -812,7 +885,7 @@
     {
      "symbol": "GALLANTT",
      "name": "Gallantt Ispat Ltd.",
-     "mcap_cr": 12935,
+     "mcap_cr": 12931,
      "score": -24.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -885,7 +958,7 @@
     {
      "symbol": "UTIAMC",
      "name": "UTI Asset Management Company Ltd.",
-     "mcap_cr": 10735,
+     "mcap_cr": 10728,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -958,7 +1031,7 @@
     {
      "symbol": "JKCEMENT",
      "name": "J.K. Cement Ltd.",
-     "mcap_cr": 40608,
+     "mcap_cr": 40567,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1031,7 +1104,7 @@
     {
      "symbol": "JINDALSAW",
      "name": "Jindal Saw Ltd.",
-     "mcap_cr": 16462,
+     "mcap_cr": 16525,
      "score": -22.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1104,7 +1177,7 @@
     {
      "symbol": "AMBUJACEM",
      "name": "Ambuja Cements Ltd.",
-     "mcap_cr": 96287,
+     "mcap_cr": 96411,
      "score": -22.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1175,9 +1248,82 @@
      ]
     },
     {
+     "symbol": "ZYDUSWELL",
+     "name": "Zydus Wellness Ltd.",
+     "mcap_cr": 15103,
+     "score": -22.3,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue +31% YoY",
+      "EBITDA -42% YoY",
+      "PAT -96% YoY",
+      "EBITDA margin 18.5% to 8.2%",
+      "Debt/Equity 0.54"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 1122.7,
+       "prev": 1429.9,
+       "yago": 857.7,
+       "qoq": -21.5,
+       "yoy": 30.9
+      },
+      "ebitda": {
+       "cur": 91.9,
+       "prev": 245.5,
+       "yago": 158.6,
+       "qoq": -62.6,
+       "yoy": -42.1
+      },
+      "pat": {
+       "cur": 5.1,
+       "prev": 118.9,
+       "yago": 127.9,
+       "qoq": -95.7,
+       "yoy": -96.0
+      },
+      "margin_cur": 8.2,
+      "margin_yago": 18.5
+     },
+     "balance": {
+      "debt": 3167.3,
+      "cash": 36.7,
+      "equity": 5907.7,
+      "de": 0.54,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "03-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Zydus Wellness Limited has informed the Exchange about Link of Recording",
+       "link": "https://nsearchives.nseindia.com/corporate/ZYDUSWELL_03112026232253_SEintimationAudiorecording.pdf"
+      },
+      {
+       "date": "03-Nov-202",
+       "title": "Press Release",
+       "text": "Zydus Wellness Limited has informed the Exchange regarding a press release dated November 03, 2026, titled \"Press Release\".",
+       "link": "https://nsearchives.nseindia.com/corporate/ZYDUSWELL_03112026124413_SEintimationPressRelease.pdf"
+      },
+      {
+       "date": "03-Nov-202",
+       "title": "Investor Presentation",
+       "text": "Zydus Wellness Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/ZYDUSWELL_03112026123924_SEintimationInvestorPresentation.pdf"
+      },
+      {
+       "date": "03-Nov-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Zydus Wellness Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/ZYDUSWELL_03112026122955_SEintimationOutcomeofBM.pdf"
+      }
+     ]
+    },
+    {
      "symbol": "SUNTV",
      "name": "Sun TV Network Ltd.",
-     "mcap_cr": 23547,
+     "mcap_cr": 23529,
      "score": -19.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1250,7 +1396,7 @@
     {
      "symbol": "SHREECEM",
      "name": "Shree Cement Ltd.",
-     "mcap_cr": 89643,
+     "mcap_cr": 89823,
      "score": -19.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1319,153 +1465,9 @@
        "link": "https://nsearchives.nseindia.com/corporate/SHREECEM_23102026121635_NSE_BSE_Results_231026.pdf"
       }
      ]
-    },
-    {
-     "symbol": "IGL",
-     "name": "Indraprastha Gas Ltd.",
-     "mcap_cr": 19636,
-     "score": -18.2,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue +27% YoY",
-      "EBITDA -75% YoY",
-      "PAT -93% YoY",
-      "EBITDA margin 15.4% to 3.1%",
-      "Debt/Equity 0.01"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 5118.0,
-       "prev": 4586.7,
-       "yago": 4023.4,
-       "qoq": 11.6,
-       "yoy": 27.2
-      },
-      "ebitda": {
-       "cur": 156.6,
-       "prev": 452.6,
-       "yago": 618.7,
-       "qoq": -65.4,
-       "yoy": -74.7
-      },
-      "pat": {
-       "cur": 25.9,
-       "prev": 240.4,
-       "yago": 386.3,
-       "qoq": -89.2,
-       "yoy": -93.3
-      },
-      "margin_cur": 3.1,
-      "margin_yago": 15.4
-     },
-     "balance": {
-      "debt": 92.9,
-      "cash": 171.7,
-      "equity": 11560.2,
-      "de": 0.01,
-      "ocf": null
-     },
-     "announcements": [
-      {
-       "date": "03-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Indraprastha Gas Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/IGL1_03112026203827_Earning_Call_audio_link_intimationQ2.pdf"
-      },
-      {
-       "date": "30-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Indraprastha Gas Limited has submitted to the Exchange, the unaudited financial results for the quarter and half year ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/IGL1_30102026194508_IGLUFRSep2026.pdf"
-      },
-      {
-       "date": "29-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Indraprastha Gas Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/IGL1_29102026162153_RevisedIGLIntimationConcall29102926.pdf"
-      },
-      {
-       "date": "28-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Indraprastha Gas Limited has informed the Exchange about Conference Call to discuss Unaudited Financial Results for quarter ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/IGL1_28102026161502_IGLIntimationEarningCall02112026.pdf"
-      }
-     ]
-    },
-    {
-     "symbol": "MAZDOCK",
-     "name": "Mazagoan Dock Shipbuilders Ltd.",
-     "mcap_cr": 74222,
-     "score": -15.0,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "EBITDA -54% YoY",
-      "PAT -54% YoY",
-      "Debt/Equity 0.08"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 2446.1,
-       "prev": 2942.7,
-       "yago": null,
-       "qoq": -16.9,
-       "yoy": null
-      },
-      "ebitda": {
-       "cur": 447.5,
-       "prev": 759.8,
-       "yago": 966.0,
-       "qoq": -41.1,
-       "yoy": -53.7
-      },
-      "pat": {
-       "cur": 344.1,
-       "prev": 549.4,
-       "yago": 749.4,
-       "qoq": -37.4,
-       "yoy": -54.1
-      },
-      "margin_cur": 18.3,
-      "margin_yago": null
-     },
-     "balance": {
-      "debt": 810.8,
-      "cash": 683.2,
-      "equity": 10459.1,
-      "de": 0.08,
-      "ocf": null
-     },
-     "announcements": [
-      {
-       "date": "28-Oct-202",
-       "title": "Copy of Newspaper Publication",
-       "text": "Mazagon Dock Shipbuilders Limited has informed the Exchange about Copy of Newspaper Publication for Unaudited Financial Results for the quarter ended 30 September 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/MAZDOCK_28102026155600_Newspaper_Advertisement.pdf"
-      },
-      {
-       "date": "27-Oct-202",
-       "title": "General Updates",
-       "text": "Mazagon Dock Shipbuilders Limited has informed the Exchange about Corporate Investors Presentation on Company's Performance for the quarter and period ended on 30 September 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/MAZDOCK_27102026180421_Investor_Presentation.pdf"
-      },
-      {
-       "date": "27-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Mazagon Dock Shipbuilders Limited has submitted to the Exchange, the Unaudited Financial Results (Standalone & Consolidated) of the Company for the quarter and period ended on 30 September 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/MAZDOCK_27102026143906_Outcome_of_BM_27102026.pdf"
-      },
-      {
-       "date": "23-Sep-202",
-       "title": "Investor Presentation",
-       "text": "Mazagon Dock Shipbuilders Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.com/corporate/MAZDOCK_23092026141617_SE_Disc_Investor_Meet_Presentation.pdf"
-      }
-     ]
     }
    ],
-   "count": 257
+   "count": 295
   }
  }
 }
