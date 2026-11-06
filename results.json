@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-06T09:52:16.030984Z",
+ "updated": "2026-11-06T17:49:26.214647Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 239956,
+     "mcap_cr": 240040,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -79,7 +79,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 145306,
+     "mcap_cr": 145829,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "DEEPAKNTR",
      "name": "Deepak Nitrite Ltd.",
-     "mcap_cr": 20913,
+     "mcap_cr": 20917,
      "score": 70.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 63049,
+     "mcap_cr": 63230,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -270,35 +270,35 @@
      },
      "announcements": [
       {
+       "date": "06-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Oberoi Realty Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/OBEROIRLTY_06112026181113_ScheduleInvestorMeet-November.pdf"
+      },
+      {
+       "date": "06-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Oberoi Realty Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/OBEROIRLTY_06112026181131_ScheduleInvestorMeet-November.pdf"
+      },
+      {
+       "date": "06-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Oberoi Realty Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/OBEROIRLTY_06112026181232_ScheduleInvestorMeet-November.pdf"
+      },
+      {
        "date": "23-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Oberoi Realty Limited has informed the Exchange about Transcript of the Conference Call on Q2FY27 results and business updates",
        "link": "https://nsearchives.nseindia.com/corporate/OBEROIRLTY_23102026174029_Concall_Transcript_Q2_26_27.pdf"
-      },
-      {
-       "date": "19-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Oberoi Realty Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/OBEROIRLTY_19102026200704_ConCall_Recording_Q2FY27.pdf"
-      },
-      {
-       "date": "16-Oct-202",
-       "title": "Investor Presentation",
-       "text": "Oberoi Realty Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.com/corporate/OBEROIRLTY_16102026230943_Investor__Presentation_Q2FY27.pdf"
-      },
-      {
-       "date": "16-Oct-202",
-       "title": "Press Release",
-       "text": "Oberoi Realty Limited has informed the Exchange regarding a press release dated October 16, 2026, titled \"Press release on financial results for the quarter ended on September 30, 2026\".",
-       "link": "https://nsearchives.nseindia.com/corporate/OBEROIRLTY_16102026202210_Press-release_BM_16102026.pdf"
       }
      ]
     },
     {
      "symbol": "ATHERENERG",
      "name": "Ather Energy Ltd.",
-     "mcap_cr": 72266,
+     "mcap_cr": 72270,
      "score": 65.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -372,7 +372,7 @@
     {
      "symbol": "LAURUSLABS",
      "name": "Laurus Labs Ltd.",
-     "mcap_cr": 126163,
+     "mcap_cr": 126433,
      "score": 65.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -445,7 +445,7 @@
     {
      "symbol": "POONAWALLA",
      "name": "Poonawalla Fincorp Ltd.",
-     "mcap_cr": 41729,
+     "mcap_cr": 41733,
      "score": 65.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -518,7 +518,7 @@
     {
      "symbol": "CHENNPETRO",
      "name": "Chennai Petroleum Corporation Ltd.",
-     "mcap_cr": 21458,
+     "mcap_cr": 21470,
      "score": 64.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -591,7 +591,7 @@
     {
      "symbol": "POLICYBZR",
      "name": "PB Fintech Ltd.",
-     "mcap_cr": 44581,
+     "mcap_cr": 44687,
      "score": 64.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -664,7 +664,7 @@
     {
      "symbol": "TMCV",
      "name": "Tata Motors Ltd.",
-     "mcap_cr": 156520,
+     "mcap_cr": 156704,
      "score": 64.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -786,6 +786,12 @@
       {
        "date": "06-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Transcript of the Earnings Call conducted on November 3, 2026",
+       "link": "https://nsearchives.nseindia.com/corporate/NEULANDLAB_06112026171924_SignedSEIntimationTranscript.pdf"
+      },
+      {
+       "date": "06-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Intimation about Schedule of Analyst / Institutional Investor Meeting on November 17, 2026",
        "link": "https://nsearchives.nseindia.com/corporate/NEULANDLAB_06112026105517_SignedSEIntimation.pdf"
       },
@@ -800,19 +806,13 @@
        "title": "Investor Presentation",
        "text": "Neuland Laboratories Limited has informed the Exchange about Investor Presentation",
        "link": "https://nsearchives.nseindia.com/corporate/NEULANDLAB_03112026162313_SignedSEInvestorsAnalystsPresentation03112026.pdf"
-      },
-      {
-       "date": "03-Nov-202",
-       "title": "Press Release",
-       "text": "Neuland Laboratories Limited has informed the Exchange regarding a press release dated November 03, 2026, titled \"Press Release on the Financial Results of the Company for the quarter and half year ended September 30, 2026\".",
-       "link": "https://nsearchives.nseindia.com/corporate/NEULANDLAB_03112026161539_SignedSEPR03112026.pdf"
       }
      ]
     },
     {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 23227,
+     "mcap_cr": 23214,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -885,7 +885,7 @@
     {
      "symbol": "GALLANTT",
      "name": "Gallantt Ispat Ltd.",
-     "mcap_cr": 12900,
+     "mcap_cr": 12894,
      "score": -24.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -958,7 +958,7 @@
     {
      "symbol": "UTIAMC",
      "name": "UTI Asset Management Company Ltd.",
-     "mcap_cr": 10707,
+     "mcap_cr": 10708,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1031,7 +1031,7 @@
     {
      "symbol": "JKCEMENT",
      "name": "J.K. Cement Ltd.",
-     "mcap_cr": 40450,
+     "mcap_cr": 40487,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1177,7 +1177,7 @@
     {
      "symbol": "AMBUJACEM",
      "name": "Ambuja Cements Ltd.",
-     "mcap_cr": 96970,
+     "mcap_cr": 97057,
      "score": -22.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1250,7 +1250,7 @@
     {
      "symbol": "ZYDUSWELL",
      "name": "Zydus Wellness Ltd.",
-     "mcap_cr": 14892,
+     "mcap_cr": 14909,
      "score": -22.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1323,7 +1323,7 @@
     {
      "symbol": "SUNTV",
      "name": "Sun TV Network Ltd.",
-     "mcap_cr": 23491,
+     "mcap_cr": 23466,
      "score": -19.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1396,7 +1396,7 @@
     {
      "symbol": "SHREECEM",
      "name": "Shree Cement Ltd.",
-     "mcap_cr": 90184,
+     "mcap_cr": 90563,
      "score": -19.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1441,6 +1441,12 @@
      },
      "announcements": [
       {
+       "date": "06-Nov-202",
+       "title": "General Updates",
+       "text": "SHREE CEMENT LIMITED has informed the Exchange about Company has received GST Demand Order from the Deputy Commissioner, State Tax, Patna.",
+       "link": "https://nsearchives.nseindia.com/corporate/SHREECEM_06112026164526_NSE_BSE_Demand_order_061126.pdf"
+      },
+      {
        "date": "29-Oct-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "SHREE CEMENT LIMITED has informed the Exchange about Transcript",
@@ -1457,12 +1463,6 @@
        "title": "Press Release",
        "text": "SHREE CEMENT LIMITED has informed the Exchange regarding a press release dated October 23, 2026, titled \"Financial Results for Quarter ended 30th September, 2026\".",
        "link": "https://nsearchives.nseindia.com/corporate/SHREECEM_23102026122841_NSE_BSE_Press_Release_231026.pdf"
-      },
-      {
-       "date": "23-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "SHREE CEMENT LIMITED has informed the Exchange regarding Outcome of Board Meeting held on October 23, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/SHREECEM_23102026121635_NSE_BSE_Results_231026.pdf"
       }
      ]
     }
