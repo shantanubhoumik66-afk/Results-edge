@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:49:26.214647Z",
+ "updated": "2026-11-07T09:14:14.960593Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
@@ -77,6 +77,79 @@
      ]
     },
     {
+     "symbol": "SCI",
+     "name": "Shipping Corporation of India Ltd.",
+     "mcap_cr": 12161,
+     "score": 72.8,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue +71% YoY",
+      "EBITDA +143% YoY",
+      "PAT +205% YoY",
+      "EBITDA margin 19.5% to 27.7%",
+      "Debt/Equity 0.24"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 2290.7,
+       "prev": 1846.6,
+       "yago": 1338.9,
+       "qoq": 24.1,
+       "yoy": 71.1
+      },
+      "ebitda": {
+       "cur": 635.1,
+       "prev": 665.7,
+       "yago": 261.4,
+       "qoq": -4.6,
+       "yoy": 143.0
+      },
+      "pat": {
+       "cur": 577.8,
+       "prev": 619.3,
+       "yago": 189.2,
+       "qoq": -6.7,
+       "yoy": 205.4
+      },
+      "margin_cur": 27.7,
+      "margin_yago": 19.5
+     },
+     "balance": {
+      "debt": 2516.7,
+      "cash": 173.3,
+      "equity": 10304.9,
+      "de": 0.24,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "04-Nov-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Shipping Corporation Of India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/SCI1_04112026191407_Finalsd.pdf"
+      },
+      {
+       "date": "24-Sep-202",
+       "title": "Shareholders meeting",
+       "text": "Shipping Corporation Of India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 23, 2026. Further, the company has informed the Exchange regarding voting results.",
+       "link": "https://nsearchives.nseindia.com/corporate/SCI1_24092026111945_ScrutinizerReportCountersignedsd.pdf"
+      },
+      {
+       "date": "06-Aug-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Shipping Corporation Of India Limited has submitted to the Exchange, Standalone and Consolidated financial results for the period ended Jun 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/SCI_06082026191038_Finalsd.pdf"
+      },
+      {
+       "date": "15-May-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Shipping Corporation Of India Limited has informed the Exchange about Transcript of Conference Call held for discussing Q4 Results FY 2025-26.",
+       "link": "https://nsearchives.nseindia.com/corporate/SCI1_15052026182808_intimationstxsd.pdf"
+      }
+     ]
+    },
+    {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
      "mcap_cr": 145829,
@@ -124,6 +197,12 @@
      },
      "announcements": [
       {
+       "date": "07-Nov-202",
+       "title": "Bagging/Receiving of orders/contracts",
+       "text": "Bharat Heavy Electricals Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+       "link": "https://nsearchives.nseindia.com/corporate/BHEL_07112026125946_orderpgil07112026.pdf"
+      },
+      {
        "date": "04-Nov-202",
        "title": "Bagging/Receiving of orders/contracts",
        "text": "Bharat Heavy Electricals Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
@@ -140,12 +219,6 @@
        "title": "General Updates",
        "text": "Bharat Heavy Electricals Limited has  informed the Exchange about Q2 FY 2026-27 Results: Supplementary Information",
        "link": "https://nsearchives.nseindia.com/corporate/BHEL_14102026151739_Q227suppl.pdf"
-      },
-      {
-       "date": "14-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Bharat Heavy Electricals Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/BHEL_14102026133809_BHELRESULTS.pdf"
       }
      ]
     },
@@ -660,82 +733,228 @@
        "link": "https://nsearchives.nseindia.com/corporate/POLICYBZR_30102026173744_OutcomeofBoardMeetingPOLICYBZRQ2FY27.pdf"
       }
      ]
-    },
+    }
+   ],
+   "bad": [
     {
-     "symbol": "TMCV",
-     "name": "Tata Motors Ltd.",
-     "mcap_cr": 156704,
-     "score": 64.1,
+     "symbol": "GLENMARK",
+     "name": "Glenmark Pharmaceuticals Ltd.",
+     "mcap_cr": 73096,
+     "score": -32.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
      "reasons": [
-      "Revenue +36% YoY",
-      "EBITDA +1479% YoY",
-      "PAT +245% YoY",
-      "EBITDA margin 0.9% to 10.5%",
-      "Debt/Equity 0.25"
+      "Revenue -31% YoY",
+      "EBITDA -50% YoY",
+      "PAT -57% YoY",
+      "EBITDA margin 19.6% to 14.0%",
+      "Debt/Equity 0.13"
      ],
      "result": {
       "revenue": {
-       "cur": 25232.0,
-       "prev": 20576.0,
-       "yago": 18491.0,
-       "qoq": 22.6,
-       "yoy": 36.5
+       "cur": 4157.1,
+       "prev": 3931.7,
+       "yago": 6003.8,
+       "qoq": 5.7,
+       "yoy": -30.8
       },
       "ebitda": {
-       "cur": 2637.0,
-       "prev": 3613.0,
-       "yago": 167.0,
-       "qoq": -27.0,
-       "yoy": 1479.0
+       "cur": 582.5,
+       "prev": 870.6,
+       "yago": 1175.1,
+       "qoq": -33.1,
+       "yoy": -50.4
       },
       "pat": {
-       "cur": 1257.0,
-       "prev": 2560.0,
-       "yago": -867.0,
-       "qoq": -50.9,
-       "yoy": 245.0
+       "cur": 263.8,
+       "prev": 482.9,
+       "yago": 610.4,
+       "qoq": -45.4,
+       "yoy": -56.8
       },
-      "margin_cur": 10.5,
-      "margin_yago": 0.9
+      "margin_cur": 14.0,
+      "margin_yago": 19.6
      },
      "balance": {
-      "debt": 3780.0,
-      "cash": 5828.0,
-      "equity": 15288.0,
-      "de": 0.25,
+      "debt": 1407.5,
+      "cash": 1289.9,
+      "equity": 11212.4,
+      "de": 0.13,
       "ocf": null
      },
      "announcements": [
       {
-       "date": "01-Nov-202",
-       "title": "Press Release",
-       "text": "Tata Motors Limited has informed the Exchange regarding a press release dated November 01, 2026, titled \"Tata Motors Limited (formerly TML Commercial Vehicles Limited) Monthly Sales - October 2026\".",
-       "link": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_01112026124958_NSEBSE.pdf"
+       "date": "06-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Audio recording of Q2 FY 2026-27 Earnings Call held on November 06, 2026",
+       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_06112026122317_BSE_NSE_EarningsCall_Signed.pdf"
       },
       {
-       "date": "31-Oct-202",
+       "date": "05-Nov-202",
+       "title": "Updates",
+       "text": "Glenmark Pharmaceuticals Limited has informed the Exchange regarding 'Investors Presentation'.",
+       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_05112026172410_SEInvestorPresentation.pdf"
+      },
+      {
+       "date": "05-Nov-202",
+       "title": "Press Release",
+       "text": "Glenmark Pharmaceuticals Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \"Press Release for Q2 FY'27\".",
+       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_05112026171553_PR_MDA_05112026.pdf"
+      },
+      {
+       "date": "05-Nov-202",
        "title": "Outcome of Board Meeting",
-       "text": "Tata Motors Limited has informed the Exchange regarding Outcome of Board Meeting held on October 31, 2026 for change in Statutory Auditors.",
-       "link": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_31102026142803_NSEBSEFINAL.pdf"
-      },
-      {
-       "date": "30-Oct-202",
-       "title": "Press Release",
-       "text": "Tata Motors Limited has informed the Exchange regarding a press release dated October 30, 2026, titled \"Tata Motors completes the initial settlement of the Tender Offer for Iveco Group. Iveco Group has now become part of Tata Motors\".",
-       "link": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_30102026201355_NSEBSELETTERFINALIVECOFINAL.pdf"
-      },
-      {
-       "date": "27-Oct-202",
-       "title": "Press Release",
-       "text": "Tata Motors Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"TML CV Holdings B.V., an Indirect Wholly Owned Subsidiary of Tata Motors Limited (formerly TML Commercial Vehicles Limited) ( the Company )   Voluntary Totalitarian Tender Offer for all the common shares of Iveco Group N.V.\".",
-       "link": "https://nsearchives.nseindia.com/corporate/TML2_27102026195840_NSEBSELETTER.pdf"
+       "text": "Glenmark Pharmaceuticals Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_05112026170258_SEInitmationresults.pdf"
       }
      ]
-    }
-   ],
-   "bad": [
+    },
+    {
+     "symbol": "GODFRYPHLP",
+     "name": "Godfrey Phillips India Ltd.",
+     "mcap_cr": 27919,
+     "score": -27.4,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue -10% YoY",
+      "EBITDA -40% YoY",
+      "PAT -47% YoY",
+      "EBITDA margin 32.5% to 21.6%",
+      "Debt/Equity 0.04"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 1332.3,
+       "prev": 1191.8,
+       "yago": 1474.2,
+       "qoq": 11.8,
+       "yoy": -9.6
+      },
+      "ebitda": {
+       "cur": 287.3,
+       "prev": 288.0,
+       "yago": 479.0,
+       "qoq": -0.2,
+       "yoy": -40.0
+      },
+      "pat": {
+       "cur": 189.9,
+       "prev": 198.4,
+       "yago": 356.3,
+       "qoq": -4.3,
+       "yoy": -46.7
+      },
+      "margin_cur": 21.6,
+      "margin_yago": 32.5
+     },
+     "balance": {
+      "debt": 222.4,
+      "cash": 9.8,
+      "equity": 6098.2,
+      "de": 0.04,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "06-Nov-202",
+       "title": "Copy of Newspaper Publication",
+       "text": "Godfrey Phillips India Limited has informed the Exchange about Copy of Newspaper Publication of extract of financial results for the quarter ended 30th September 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/PANKAJCHAWLA_06112026124130_Newspaper_intimation_financials.pdf"
+      },
+      {
+       "date": "05-Nov-202",
+       "title": "General Updates",
+       "text": "Godfrey Phillips India Limited has informed the Exchange about Earnings Presentation H1 FY 2026-27",
+       "link": "https://nsearchives.nseindia.com/corporate/PANKAJCHAWLA_05112026184719_Earnings_Presenattion.pdf"
+      },
+      {
+       "date": "05-Nov-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Godfrey Phillips India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/PANKAJCHAWLA_05112026174312_Outcome_of_Board_Meeting-05-11-2026.pdf"
+      },
+      {
+       "date": "28-Jul-202",
+       "title": "Copy of Newspaper Publication",
+       "text": "Submission of Advertisement clipping of the extract of the Unaudited Standalone and Consolidated Financial results of the Company for the Quarter ended 30th June 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/PANKAJCHAWLA_28072026121608_Newspaper_Advertisment.pdf"
+      }
+     ]
+    },
+    {
+     "symbol": "PIIND",
+     "name": "PI Industries Ltd.",
+     "mcap_cr": 26321,
+     "score": -27.3,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue -9% YoY",
+      "EBITDA -52% YoY",
+      "PAT -70% YoY",
+      "EBITDA margin 33.4% to 17.5%",
+      "Debt/Equity 0.03"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 1701.8,
+       "prev": 1702.3,
+       "yago": 1872.3,
+       "qoq": -0.0,
+       "yoy": -9.1
+      },
+      "ebitda": {
+       "cur": 297.3,
+       "prev": 433.4,
+       "yago": 625.9,
+       "qoq": -31.4,
+       "yoy": -52.5
+      },
+      "pat": {
+       "cur": 122.2,
+       "prev": 244.2,
+       "yago": 409.3,
+       "qoq": -50.0,
+       "yoy": -70.1
+      },
+      "margin_cur": 17.5,
+      "margin_yago": 33.4
+     },
+     "balance": {
+      "debt": 299.6,
+      "cash": 329.4,
+      "equity": 11457.4,
+      "de": 0.03,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "06-Nov-202",
+       "title": "Copy of Newspaper Publication",
+       "text": "PI Industries Limited has informed the Exchange about Copy of Newspaper Publication for the Unaudited Financial Results for the quarter and half year ended September 30, 2026",
+       "link": "https://nsearchives.nseindia.com/corporate/PIIND_06112026151103_Newspaper_Advertisement_Financial_Result_sd.pdf"
+      },
+      {
+       "date": "05-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "PI Industries Limited has informed the Exchange about Link of Audio Recording of Earnings Conference Call pertaining to the Unaudited Financial Results for the quarter and half year ended September 30, 2026",
+       "link": "https://nsearchives.nseindia.com/corporate/PIIND_05112026173249_Intimation_Earning_Call_AudioRecording_05112026_sd.pdf"
+      },
+      {
+       "date": "04-Nov-202",
+       "title": "Investor Presentation",
+       "text": "PI Industries Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/PIIND_04112026223344_presentation.pdf"
+      },
+      {
+       "date": "04-Nov-202",
+       "title": "Outcome of Board Meeting",
+       "text": "PI Industries Limited has submitted to the Exchange, the Outcome of Board Meeting held on November 04, 2026 for approval of Unaudited Standalone and Consolidated Financial Results for the quarter and half year September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/PIIND_04112026193824_Resultssd.pdf"
+      }
+     ]
+    },
     {
      "symbol": "NEULANDLAB",
      "name": "Neuland Laboratories Ltd.",
@@ -1246,228 +1465,9 @@
        "link": "https://nsearchives.nseindia.com/corporate/AMBUJACEM_29102026193759_ACL_Audio_recording.pdf"
       }
      ]
-    },
-    {
-     "symbol": "ZYDUSWELL",
-     "name": "Zydus Wellness Ltd.",
-     "mcap_cr": 14909,
-     "score": -22.3,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue +31% YoY",
-      "EBITDA -42% YoY",
-      "PAT -96% YoY",
-      "EBITDA margin 18.5% to 8.2%",
-      "Debt/Equity 0.54"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 1122.7,
-       "prev": 1429.9,
-       "yago": 857.7,
-       "qoq": -21.5,
-       "yoy": 30.9
-      },
-      "ebitda": {
-       "cur": 91.9,
-       "prev": 245.5,
-       "yago": 158.6,
-       "qoq": -62.6,
-       "yoy": -42.1
-      },
-      "pat": {
-       "cur": 5.1,
-       "prev": 118.9,
-       "yago": 127.9,
-       "qoq": -95.7,
-       "yoy": -96.0
-      },
-      "margin_cur": 8.2,
-      "margin_yago": 18.5
-     },
-     "balance": {
-      "debt": 3167.3,
-      "cash": 36.7,
-      "equity": 5907.7,
-      "de": 0.54,
-      "ocf": null
-     },
-     "announcements": [
-      {
-       "date": "03-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Zydus Wellness Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/ZYDUSWELL_03112026232253_SEintimationAudiorecording.pdf"
-      },
-      {
-       "date": "03-Nov-202",
-       "title": "Press Release",
-       "text": "Zydus Wellness Limited has informed the Exchange regarding a press release dated November 03, 2026, titled \"Press Release\".",
-       "link": "https://nsearchives.nseindia.com/corporate/ZYDUSWELL_03112026124413_SEintimationPressRelease.pdf"
-      },
-      {
-       "date": "03-Nov-202",
-       "title": "Investor Presentation",
-       "text": "Zydus Wellness Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.com/corporate/ZYDUSWELL_03112026123924_SEintimationInvestorPresentation.pdf"
-      },
-      {
-       "date": "03-Nov-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Zydus Wellness Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/ZYDUSWELL_03112026122955_SEintimationOutcomeofBM.pdf"
-      }
-     ]
-    },
-    {
-     "symbol": "SUNTV",
-     "name": "Sun TV Network Ltd.",
-     "mcap_cr": 23466,
-     "score": -19.9,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue -28% YoY",
-      "EBITDA -34% YoY",
-      "PAT +3% YoY",
-      "EBITDA margin 68.8% to 62.3%",
-      "Debt/Equity 0.01"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 940.3,
-       "prev": 1457.9,
-       "yago": 1299.9,
-       "qoq": -35.5,
-       "yoy": -27.7
-      },
-      "ebitda": {
-       "cur": 585.7,
-       "prev": 914.8,
-       "yago": 894.2,
-       "qoq": -36.0,
-       "yoy": -34.5
-      },
-      "pat": {
-       "cur": 364.3,
-       "prev": 618.8,
-       "yago": 354.3,
-       "qoq": -41.1,
-       "yoy": 2.8
-      },
-      "margin_cur": 62.3,
-      "margin_yago": 68.8
-     },
-     "balance": {
-      "debt": 108.1,
-      "cash": 191.7,
-      "equity": 13456.7,
-      "de": 0.01,
-      "ocf": null
-     },
-     "announcements": [
-      {
-       "date": "30-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Sun TV Network Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/SUNTV1_30102026164805_SunTVOutcome30102026final.pdf"
-      },
-      {
-       "date": "21-Sep-202",
-       "title": "Shareholders meeting",
-       "text": "Sun TV Network Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 18, 2026. Further, the company has informed the Exchange regarding voting results.",
-       "link": "https://nsearchives.nseindia.com/corporate/SUNTV1_21092026181914_SunTVVotingresults2026.pdf"
-      },
-      {
-       "date": "12-Aug-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Sun TV Network Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/SUNTV1_12082026162553_OutcomeoftheBM12082026.pdf"
-      },
-      {
-       "date": "21-May-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Sun TV Network Limited has submitted to the Exchange, the financial results for the period ended March 31, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/SUNTV1_21052026170034_OutcomeoftheBM21052026.pdf"
-      }
-     ]
-    },
-    {
-     "symbol": "SHREECEM",
-     "name": "Shree Cement Ltd.",
-     "mcap_cr": 90563,
-     "score": -19.1,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue +12% YoY",
-      "EBITDA -28% YoY",
-      "PAT -59% YoY",
-      "EBITDA margin 29.7% to 19.1%",
-      "Debt/Equity 0.09"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 5896.5,
-       "prev": 6233.1,
-       "yago": 5280.9,
-       "qoq": -5.4,
-       "yoy": 11.7
-      },
-      "ebitda": {
-       "cur": 1128.7,
-       "prev": 1483.9,
-       "yago": 1567.8,
-       "qoq": -23.9,
-       "yoy": -28.0
-      },
-      "pat": {
-       "cur": 261.8,
-       "prev": 529.2,
-       "yago": 642.7,
-       "qoq": -50.5,
-       "yoy": -59.3
-      },
-      "margin_cur": 19.1,
-      "margin_yago": 29.7
-     },
-     "balance": {
-      "debt": 2179.1,
-      "cash": 57.6,
-      "equity": 23862.4,
-      "de": 0.09,
-      "ocf": null
-     },
-     "announcements": [
-      {
-       "date": "06-Nov-202",
-       "title": "General Updates",
-       "text": "SHREE CEMENT LIMITED has informed the Exchange about Company has received GST Demand Order from the Deputy Commissioner, State Tax, Patna.",
-       "link": "https://nsearchives.nseindia.com/corporate/SHREECEM_06112026164526_NSE_BSE_Demand_order_061126.pdf"
-      },
-      {
-       "date": "29-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "SHREE CEMENT LIMITED has informed the Exchange about Transcript",
-       "link": "https://nsearchives.nseindia.com/corporate/SHREECEM_29102026161540_NSE_BSE_Transcript_291026.pdf"
-      },
-      {
-       "date": "23-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "SHREE CEMENT LIMITED has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/SHREECEM_23102026221209_NSE_BSE_Audio_Transcript_231026.pdf"
-      },
-      {
-       "date": "23-Oct-202",
-       "title": "Press Release",
-       "text": "SHREE CEMENT LIMITED has informed the Exchange regarding a press release dated October 23, 2026, titled \"Financial Results for Quarter ended 30th September, 2026\".",
-       "link": "https://nsearchives.nseindia.com/corporate/SHREECEM_23102026122841_NSE_BSE_Press_Release_231026.pdf"
-      }
-     ]
     }
    ],
-   "count": 309
+   "count": 368
   }
  }
 }
