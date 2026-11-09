@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T10:16:27.468975Z",
+ "updated": "2026-11-09T21:06:39.347037Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
@@ -197,6 +197,12 @@
      },
      "announcements": [
       {
+       "date": "09-Nov-202",
+       "title": "Action(s) taken or orders passed",
+       "text": "Bharat Heavy Electricals Limited has informed the Exchange about Adjudication Order passed u/s 73 of CGST Act/ TGST Act, 2017",
+       "link": "https://nsearchives.nseindia.com/corporate/BHEL_09112026170052_HYDfine09112026.pdf"
+      },
+      {
        "date": "07-Nov-202",
        "title": "Bagging/Receiving of orders/contracts",
        "text": "Bharat Heavy Electricals Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
@@ -213,12 +219,6 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Bharat Heavy Electricals Limited has informed the Exchange about Schedule of meet",
        "link": "https://nsearchives.nseindia.com/corporate/BHEL_29102026144219_investormeet04112026.pdf"
-      },
-      {
-       "date": "14-Oct-202",
-       "title": "General Updates",
-       "text": "Bharat Heavy Electricals Limited has  informed the Exchange about Q2 FY 2026-27 Results: Supplementary Information",
-       "link": "https://nsearchives.nseindia.com/corporate/BHEL_14102026151739_Q227suppl.pdf"
       }
      ]
     },
@@ -784,28 +784,28 @@
      },
      "announcements": [
       {
-       "date": "06-Nov-202",
+       "date": "09-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Audio recording of Q2 FY 2026-27 Earnings Call held on November 06, 2026",
-       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_06112026122317_BSE_NSE_EarningsCall_Signed.pdf"
+       "text": "Glenmark Pharmaceuticals Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_09112026164849_SE_Investor_Meet.pdf"
       },
       {
-       "date": "05-Nov-202",
-       "title": "Updates",
-       "text": "Glenmark Pharmaceuticals Limited has informed the Exchange regarding 'Investors Presentation'.",
-       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_05112026172410_SEInvestorPresentation.pdf"
+       "date": "09-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Glenmark Pharmaceuticals Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_09112026165133_SE_Investor_Meet.pdf"
       },
       {
-       "date": "05-Nov-202",
-       "title": "Press Release",
-       "text": "Glenmark Pharmaceuticals Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \"Press Release for Q2 FY'27\".",
-       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_05112026171553_PR_MDA_05112026.pdf"
+       "date": "09-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Glenmark Pharmaceuticals Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_09112026165020_SE_Investor_Meet.pdf"
       },
       {
-       "date": "05-Nov-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Glenmark Pharmaceuticals Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_05112026170258_SEInitmationresults.pdf"
+       "date": "09-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Glenmark Pharmaceuticals Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_09112026165036_SE_Investor_Meet.pdf"
       }
      ]
     },
@@ -1467,7 +1467,7 @@
      ]
     }
    ],
-   "count": 370
+   "count": 375
   }
  }
 }
