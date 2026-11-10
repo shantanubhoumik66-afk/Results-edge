@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T21:06:39.347037Z",
+ "updated": "2026-11-10T10:25:16.105549Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
@@ -223,6 +223,79 @@
      ]
     },
     {
+     "symbol": "CPPLUS",
+     "name": "Aditya Infotech Ltd.",
+     "mcap_cr": 51829,
+     "score": 72.0,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue +90% YoY",
+      "EBITDA +145% YoY",
+      "PAT +165% YoY",
+      "EBITDA margin 12.1% to 15.6%",
+      "Debt/Equity 0.11"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 1746.0,
+       "prev": 1402.4,
+       "yago": 919.6,
+       "qoq": 24.5,
+       "yoy": 89.9
+      },
+      "ebitda": {
+       "cur": 272.6,
+       "prev": 207.8,
+       "yago": 111.1,
+       "qoq": 31.2,
+       "yoy": 145.4
+      },
+      "pat": {
+       "cur": 185.5,
+       "prev": 142.2,
+       "yago": 70.0,
+       "qoq": 30.5,
+       "yoy": 165.1
+      },
+      "margin_cur": 15.6,
+      "margin_yago": 12.1
+     },
+     "balance": {
+      "debt": 417.3,
+      "cash": 1433.9,
+      "equity": 3668.1,
+      "de": 0.11,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "06-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Aditya Infotech Limited has informed the Exchange about Link of Recording and Outcome of Earnings call for quarter and half year ended September 30, 2026",
+       "link": "https://nsearchives.nseindia.com/corporate/CPPLUS_06112026145038_signedoutcome.pdf"
+      },
+      {
+       "date": "06-Nov-202",
+       "title": "Copy of Newspaper Publication",
+       "text": "Aditya Infotech Limited has informed the Exchange about Copy of Newspaper Publication of financial results for the quarter and half year ended September 30, 2026",
+       "link": "https://nsearchives.nseindia.com/corporate/CPPLUS_06112026123636_newspapernov.pdf"
+      },
+      {
+       "date": "05-Nov-202",
+       "title": "Press Release",
+       "text": "Aditya Infotech Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \"CP PLUS owner Aditya Infotech to acquire 30% stake in AI video-compression firm BLUE\".",
+       "link": "https://nsearchives.nseindia.com/corporate/CPPLUS_05112026195158_seprsigned.pdf"
+      },
+      {
+       "date": "05-Nov-202",
+       "title": "Investor Presentation",
+       "text": "Aditya Infotech Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/CPPLUS_05112026182937_seintimation.pdf"
+      }
+     ]
+    },
+    {
      "symbol": "DEEPAKNTR",
      "name": "Deepak Nitrite Ltd.",
      "mcap_cr": 21005,
@@ -292,6 +365,152 @@
        "title": "Outcome of Board Meeting",
        "text": "Deepak Nitrite Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
        "link": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_29102026183918_NSE-29-10-2026-bm-ufr.pdf"
+      }
+     ]
+    },
+    {
+     "symbol": "SIGNATURE",
+     "name": "Signatureglobal (India) Ltd.",
+     "mcap_cr": 10212,
+     "score": 70.0,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue +142% YoY",
+      "EBITDA +419% YoY",
+      "PAT +243% YoY",
+      "EBITDA margin -11.9% to 15.7%",
+      "Debt/Equity 1.5"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 817.4,
+       "prev": 552.0,
+       "yago": 338.5,
+       "qoq": 48.1,
+       "yoy": 141.5
+      },
+      "ebitda": {
+       "cur": 128.6,
+       "prev": 15.0,
+       "yago": -40.4,
+       "qoq": 757.3,
+       "yoy": 418.7
+      },
+      "pat": {
+       "cur": 66.9,
+       "prev": -16.5,
+       "yago": -46.9,
+       "qoq": 504.8,
+       "yoy": 242.8
+      },
+      "margin_cur": 15.7,
+      "margin_yago": -11.9
+     },
+     "balance": {
+      "debt": 2888.5,
+      "cash": 2003.8,
+      "equity": 1919.5,
+      "de": 1.5,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "06-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Signatureglobal (India) Limited has informed the Exchange about Link of Recording",
+       "link": "https://nsearchives.nseindia.com/corporate/SGLOBAL_06112026091334_Outcomeconcallsigned.pdf"
+      },
+      {
+       "date": "05-Nov-202",
+       "title": "Investor Presentation",
+       "text": "Signatureglobal (India) Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/SGLOBAL_05112026175739_pptsigned.pdf"
+      },
+      {
+       "date": "05-Nov-202",
+       "title": "Press Release",
+       "text": "Signatureglobal (India) Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \"Signature Global Q2FY27 Revenue Rises 148% to INR 8.2 Billion; Reports Net Profit of INR 0.7 Billion\".",
+       "link": "https://nsearchives.nseindia.com/corporate/SGLOBAL_05112026173632_prsigned.pdf"
+      },
+      {
+       "date": "05-Nov-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Signatureglobal (India) Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/SGLOBAL_05112026162636_bmouctomesigned.pdf"
+      }
+     ]
+    },
+    {
+     "symbol": "DIVISLAB",
+     "name": "Divi's Laboratories Ltd.",
+     "mcap_cr": 307028,
+     "score": 68.1,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue +52% YoY",
+      "EBITDA +96% YoY",
+      "PAT +107% YoY",
+      "EBITDA margin 35.2% to 45.2%",
+      "Debt/Equity 0.0"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 3676.0,
+       "prev": 3080.0,
+       "yago": 2410.0,
+       "qoq": 19.4,
+       "yoy": 52.5
+      },
+      "ebitda": {
+       "cur": 1660.0,
+       "prev": 1319.0,
+       "yago": 848.0,
+       "qoq": 25.9,
+       "yoy": 95.8
+      },
+      "pat": {
+       "cur": 1127.0,
+       "prev": 902.0,
+       "yago": 545.0,
+       "qoq": 24.9,
+       "yoy": 106.8
+      },
+      "margin_cur": 45.2,
+      "margin_yago": 35.2
+     },
+     "balance": {
+      "debt": 6.0,
+      "cash": 303.0,
+      "equity": 17997.0,
+      "de": 0.0,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "07-Nov-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Divi's Laboratories Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/DIVISLAB_07112026115520_Outcome_BoardMeeting_07112026_DivisLabs.pdf"
+      },
+      {
+       "date": "10-Aug-202",
+       "title": "Shareholders meeting",
+       "text": "Divi's Laboratories Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 10, 2026. Further, the company has submitted the Exchange a copy of Srutinizers report along with voting results.",
+       "link": "https://nsearchives.nseindia.com/corporate/DIVISLAB_10082026192153_36thAGM_Outcome_DivisLab_10082026.pdf"
+      },
+      {
+       "date": "06-Aug-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Divi's Laboratories Limited has informed the Exchange about Transcript",
+       "link": "https://nsearchives.nseindia.com/corporate/DIVISLAB_06082026142802_Transcript_Concall_01082026.pdf"
+      },
+      {
+       "date": "01-Aug-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Divi's Laboratories Limited has informed the Exchange about Link of Recording",
+       "link": "https://nsearchives.nseindia.com/corporate/DIVISLAB_01082026154417_Intimation_Q1FY27EarningsCall_AudioRecording.pdf"
       }
      ]
     },
@@ -369,368 +588,148 @@
      ]
     },
     {
-     "symbol": "ATHERENERG",
-     "name": "Ather Energy Ltd.",
-     "mcap_cr": 73782,
-     "score": 65.7,
+     "symbol": "GESHIP",
+     "name": "Great Eastern Shipping Co. Ltd.",
+     "mcap_cr": 19200,
+     "score": 66.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
      "reasons": [
-      "Revenue +63% YoY",
-      "EBITDA +182% YoY",
-      "PAT +101% YoY",
-      "EBITDA margin -10.1% to 5.1%",
-      "Operating cash flow negative",
-      "Debt/Equity 0.22"
+      "Revenue +47% YoY",
+      "EBITDA +104% YoY",
+      "PAT +118% YoY",
+      "EBITDA margin 51.9% to 72.0%",
+      "Debt/Equity 0.04"
      ],
      "result": {
       "revenue": {
-       "cur": 1464.2,
-       "prev": 1216.9,
-       "yago": 898.9,
-       "qoq": 20.3,
-       "yoy": 62.9
+       "cur": 1824.4,
+       "prev": 2005.4,
+       "yago": 1241.8,
+       "qoq": -9.0,
+       "yoy": 46.9
       },
       "ebitda": {
-       "cur": 74.2,
-       "prev": 9.4,
-       "yago": -90.8,
-       "qoq": 684.9,
-       "yoy": 181.7
+       "cur": 1313.8,
+       "prev": 1384.7,
+       "yago": 644.3,
+       "qoq": -5.1,
+       "yoy": 103.9
       },
       "pat": {
-       "cur": 1.3,
-       "prev": -51.1,
-       "yago": -154.1,
-       "qoq": 102.5,
-       "yoy": 100.8
+       "cur": 1269.2,
+       "prev": 1308.8,
+       "yago": 581.4,
+       "qoq": -3.0,
+       "yoy": 118.3
       },
-      "margin_cur": 5.1,
-      "margin_yago": -10.1
+      "margin_cur": 72.0,
+      "margin_yago": 51.9
      },
      "balance": {
-      "debt": 962.4,
-      "cash": 364.8,
-      "equity": 4285.8,
-      "de": 0.22,
-      "ocf": -3.6
-     },
-     "announcements": [
-      {
-       "date": "05-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Ather Energy Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/ATHERENERGY_05112026161805_SEintimationConferencesNov26.pdf"
-      },
-      {
-       "date": "30-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Ather Energy Limited has informed the Exchange about Transcript",
-       "link": "https://nsearchives.nseindia.com/corporate/ATHERENERGY_30102026150952_EarningscallQ2FY26signed.pdf"
-      },
-      {
-       "date": "26-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Ather Energy Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/ATHERENERGY_26102026223349_Audiorecording.pdf"
-      },
-      {
-       "date": "26-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Ather Energy Limited has informed the Exchange about Presentation",
-       "link": "https://nsearchives.nseindia.com/corporate/ATHERENERGY_26102026152258_Touploadinvestorpresentationsigned.pdf"
-      }
-     ]
-    },
-    {
-     "symbol": "LAURUSLABS",
-     "name": "Laurus Labs Ltd.",
-     "mcap_cr": 132593,
-     "score": 65.2,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue +41% YoY",
-      "EBITDA +94% YoY",
-      "PAT +171% YoY",
-      "EBITDA margin 25.0% to 34.6%",
-      "Debt/Equity 0.43"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 2206.4,
-       "prev": 2026.3,
-       "yago": 1569.6,
-       "qoq": 8.9,
-       "yoy": 40.6
-      },
-      "ebitda": {
-       "cur": 763.3,
-       "prev": 647.5,
-       "yago": 392.6,
-       "qoq": 17.9,
-       "yoy": 94.4
-      },
-      "pat": {
-       "cur": 441.5,
-       "prev": 367.6,
-       "yago": 163.0,
-       "qoq": 20.1,
-       "yoy": 170.8
-      },
-      "margin_cur": 34.6,
-      "margin_yago": 25.0
-     },
-     "balance": {
-      "debt": 2625.1,
-      "cash": 24.4,
-      "equity": 6060.6,
-      "de": 0.43,
+      "debt": 832.9,
+      "cash": 4842.1,
+      "equity": 18932.4,
+      "de": 0.04,
       "ocf": null
      },
      "announcements": [
       {
-       "date": "03-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Laurus Labs Limited has informed the Exchange about Transcript",
-       "link": "https://nsearchives.nseindia.com/corporate/LAURUSLABS_03112026113343_Transcript03112026.pdf"
-      },
-      {
-       "date": "29-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Laurus Labs Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/LAURUSLABS_29102026210325_InvestorsCallAudio29102026.pdf"
-      },
-      {
-       "date": "29-Oct-202",
-       "title": "Press Release",
-       "text": "Laurus Labs Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \"Press Release on the Financial Results for the quarter and half-year ended September 30, 2026 along with the acquisition of Galenvs Sciences.\".",
-       "link": "https://nsearchives.nseindia.com/corporate/LAURUSLABS_29102026153754_1PressRelease29102026.pdf"
-      },
-      {
-       "date": "29-Oct-202",
+       "date": "09-Nov-202",
        "title": "Investor Presentation",
-       "text": "Laurus Labs Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.com/corporate/LAURUSLABS_29102026151833_InvPresentation29102026.pdf"
-      }
-     ]
-    },
-    {
-     "symbol": "POONAWALLA",
-     "name": "Poonawalla Fincorp Ltd.",
-     "mcap_cr": 41773,
-     "score": 65.0,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue +110% YoY",
-      "EBITDA +224% YoY",
-      "PAT +499% YoY",
-      "EBITDA margin 22.5% to 34.7%",
-      "Debt/Equity 4.25"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 2623.0,
-       "prev": 2277.2,
-       "yago": 1248.2,
-       "qoq": 15.2,
-       "yoy": 110.2
+       "text": "The Great Eastern Shipping Company Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/GESHIP_09112026155159_investorpresentation_signed.pdf"
       },
-      "ebitda": {
-       "cur": 909.7,
-       "prev": 755.3,
-       "yago": 280.7,
-       "qoq": 20.4,
-       "yoy": 224.1
+      {
+       "date": "06-Nov-202",
+       "title": "Press Release",
+       "text": "The Great Eastern Shipping Company Limited has informed the Exchange regarding a press release dated November 06, 2026, titled \"Further to our letter dated October 23, 2026, we wish to inform you that the Company took delivery of 2015 built secondhand Very Large Gas Carrier  Jag Vikrant  of about 82,000 cbm. The Company had contracted to buy the vessel in Q3 FY27.\".",
+       "link": "https://nsearchives.nseindia.com/corporate/GESHIP_06112026181251_prtobefiled.pdf"
       },
-      "pat": {
-       "cur": 374.9,
-       "prev": 307.7,
-       "yago": 62.6,
-       "qoq": 21.8,
-       "yoy": 498.8
+      {
+       "date": "06-Nov-202",
+       "title": "Outcome of Board Meeting",
+       "text": "The Great Eastern Shipping Company Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/GESHIP_06112026164308_resultstobefiled.pdf"
       },
-      "margin_cur": 34.7,
-      "margin_yago": 22.5
-     },
-     "balance": {
-      "debt": 58448.7,
-      "cash": 216.0,
-      "equity": 13754.1,
-      "de": 4.25,
-      "ocf": null
-     },
-     "announcements": [
       {
        "date": "05-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Poonawalla Fincorp Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/POONAWALLA_05112026180730_PFLIntimationofinvestorsmeet_05112026_-_Copy.pdf"
-      },
-      {
-       "date": "14-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Poonawalla Fincorp Limited has informed the Exchange about Transcript",
-       "link": "https://nsearchives.nseindia.com/corporate/POONAWALLA_14102026172627_7PFLIntimationofearningscallTranscriptQ2FY27.pdf"
-      },
-      {
-       "date": "09-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Poonawalla Fincorp Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/POONAWALLA_09102026202010_PFL_AUDIORECORDINGINTIMATION09102026.pdf"
-      },
-      {
-       "date": "09-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Poonawalla Fincorp Limited has informed the Exchange regarding Outcome of Board Meeting held on October 09, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/POONAWALLA_09102026181606_PFLoutcomeofBM09102026s.pdf"
+       "text": "The Great Eastern Shipping Company Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/GESHIP_05112026192735_earningscallintimation.pdf"
       }
      ]
     },
     {
-     "symbol": "CHENNPETRO",
-     "name": "Chennai Petroleum Corporation Ltd.",
-     "mcap_cr": 21754,
-     "score": 64.7,
+     "symbol": "ASTERDM",
+     "name": "Aster DM Quality Care Ltd.",
+     "mcap_cr": 63864,
+     "score": 65.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
      "reasons": [
-      "Revenue +39% YoY",
-      "EBITDA +11666% YoY",
-      "PAT +5704% YoY",
-      "EBITDA margin -0.2% to 14.9%",
-      "Debt/Equity 0.16"
+      "Revenue +162% YoY",
+      "EBITDA +199% YoY",
+      "PAT +206% YoY",
+      "EBITDA margin 21.4% to 24.3%",
+      "Debt/Equity 0.76"
      ],
      "result": {
       "revenue": {
-       "cur": 20557.5,
-       "prev": 27369.3,
-       "yago": 14812.2,
-       "qoq": -24.9,
-       "yoy": 38.8
+       "cur": 2829.2,
+       "prev": 1310.7,
+       "yago": 1077.9,
+       "qoq": 115.9,
+       "yoy": 162.5
       },
       "ebitda": {
-       "cur": 3069.6,
-       "prev": 1432.4,
-       "yago": -26.5,
-       "qoq": 114.3,
-       "yoy": 11666.0
+       "cur": 688.0,
+       "prev": 178.6,
+       "yago": 230.4,
+       "qoq": 285.3,
+       "yoy": 198.6
       },
       "pat": {
-       "cur": 2247.0,
-       "prev": 1031.3,
-       "yago": -40.1,
-       "qoq": 117.9,
-       "yoy": 5703.6
+       "cur": 262.0,
+       "prev": 16.1,
+       "yago": 85.5,
+       "qoq": 1531.5,
+       "yoy": 206.4
       },
-      "margin_cur": 14.9,
-      "margin_yago": -0.2
+      "margin_cur": 24.3,
+      "margin_yago": 21.4
      },
      "balance": {
-      "debt": 2201.6,
-      "cash": 0.3,
-      "equity": 13593.0,
-      "de": 0.16,
+      "debt": 5940.4,
+      "cash": 776.1,
+      "equity": 7790.4,
+      "de": 0.76,
       "ocf": null
      },
      "announcements": [
       {
-       "date": "22-Oct-202",
-       "title": "Press Release",
-       "text": "Chennai Petroleum Corporation Limited has informed the Exchange regarding a press release dated October 22, 2026, titled \"CPCL Financial Performance for the quarter ended 30.09.2026\".",
-       "link": "https://nsearchives.nseindia.com/corporate/CHENNPETRO_22102026174355_Reg30_-_Press_Release.pdf"
-      },
-      {
-       "date": "22-Oct-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Chennai Petroleum Corporation Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/CHENNPETRO_22102026133810_Q2_Results.pdf"
-      },
-      {
-       "date": "27-Aug-202",
-       "title": "Shareholders meeting",
-       "text": "Chennai Petroleum Corporation Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on August 26, 2026. Further, the company has informed the Exchange regarding voting results.",
-       "link": "https://nsearchives.nseindia.com/corporate/CHENNPETRO_27082026195137_Reg_44.pdf"
-      },
-      {
-       "date": "23-Jul-202",
-       "title": "Press Release",
-       "text": "Chennai Petroleum Corporation Limited has informed the Exchange regarding a press release dated July 23, 2026, titled \"CPCL S FINANCIAL PERFORMANCE FOR THE QUARTER ENDED 30.06.2026\".",
-       "link": "https://nsearchives.nseindia.com/corporate/CHENNPETRO_23072026211911_Reg30_-_Q1_Results.pdf"
-      }
-     ]
-    },
-    {
-     "symbol": "POLICYBZR",
-     "name": "PB Fintech Ltd.",
-     "mcap_cr": 44306,
-     "score": 64.4,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue +62% YoY",
-      "EBITDA +94% YoY",
-      "PAT +128% YoY",
-      "EBITDA margin 10.0% to 12.0%",
-      "Debt/Equity 0.05"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 2177.7,
-       "prev": 1888.3,
-       "yago": 1348.0,
-       "qoq": 15.3,
-       "yoy": 61.6
-      },
-      "ebitda": {
-       "cur": 260.9,
-       "prev": 229.8,
-       "yago": 134.6,
-       "qoq": 13.5,
-       "yoy": 93.8
-      },
-      "pat": {
-       "cur": 192.4,
-       "prev": 162.9,
-       "yago": 84.6,
-       "qoq": 18.1,
-       "yoy": 127.5
-      },
-      "margin_cur": 12.0,
-      "margin_yago": 10.0
-     },
-     "balance": {
-      "debt": 410.5,
-      "cash": 389.8,
-      "equity": 7774.8,
-      "de": 0.05,
-      "ocf": null
-     },
-     "announcements": [
-      {
-       "date": "04-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "PB Fintech Limited has informed the Exchange about Transcripts of the Earnings Call conducted on October 30, 2026",
-       "link": "https://nsearchives.nseindia.com/corporate/POLICYBZR_04112026200650_IntimationTranscriptofEarningsCallQ2FY27.pdf"
-      },
-      {
-       "date": "31-Oct-202",
+       "date": "08-Nov-202",
        "title": "Copy of Newspaper Publication",
-       "text": "PB Fintech Limited has informed the Exchange about Copy of Newspaper Publication of Financial Results for the quarter and half year ended September 30, 2026",
-       "link": "https://nsearchives.nseindia.com/corporate/POLICYBZR_31102026213345_IntimationNewspaperPublication30092026PBFL.pdf"
+       "text": "Aster DM Quality Care Limited has informed the Exchange about Copy of Newspaper Publication regarding unaudited financial results for the quarter and half year ended 30 September 2026",
+       "link": "https://nsearchives.nseindia.com/corporate/ASTERDM2_08112026135328_Intimations.pdf"
       },
       {
-       "date": "31-Oct-202",
+       "date": "06-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "PB Fintech Limited has informed the Exchange about Link of Recording-Audio Recording of the Earnings Call conducted on October 30, 2026",
-       "link": "https://nsearchives.nseindia.com/corporate/POLICYBZR_31102026153333_AudioRecordingEarningCallQ2FY27PBFL.pdf"
+       "text": "Aster DM Quality Care Limited has informed the Exchange about Link of Recording",
+       "link": "https://nsearchives.nseindia.com/corporate/ASTERDM2_06112026233857_Earning_Call_recording_s.pdf"
       },
       {
-       "date": "30-Oct-202",
+       "date": "06-Nov-202",
        "title": "Outcome of Board Meeting",
-       "text": "PB Fintech Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/POLICYBZR_30102026173744_OutcomeofBoardMeetingPOLICYBZRQ2FY27.pdf"
+       "text": "Aster DM Quality Care Limited has informed the Exchange regarding Outcome of Board Meeting held on November 06, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/ASTERDM2_06112026193525_Outcomesigned.pdf"
+      },
+      {
+       "date": "06-Nov-202",
+       "title": "Investor Presentation",
+       "text": "Aster DM Quality Care Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/ASTERDM2_06112026175922_Presentation_1.pdf"
       }
      ]
     }
@@ -787,7 +786,7 @@
        "date": "09-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Glenmark Pharmaceuticals Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_09112026164849_SE_Investor_Meet.pdf"
+       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_09112026165020_SE_Investor_Meet.pdf"
       },
       {
        "date": "09-Nov-202",
@@ -799,13 +798,232 @@
        "date": "09-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Glenmark Pharmaceuticals Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_09112026165020_SE_Investor_Meet.pdf"
+       "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_09112026164849_SE_Investor_Meet.pdf"
       },
       {
        "date": "09-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Glenmark Pharmaceuticals Limited has informed the Exchange about Schedule of meet",
        "link": "https://nsearchives.nseindia.com/corporate/GLENMARK_09112026165036_SE_Investor_Meet.pdf"
+      }
+     ]
+    },
+    {
+     "symbol": "HBLENGINE",
+     "name": "HBL Engineering Ltd.",
+     "mcap_cr": 22105,
+     "score": -32.2,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue -29% YoY",
+      "EBITDA -50% YoY",
+      "PAT -50% YoY",
+      "EBITDA margin 43.8% to 30.4%",
+      "Debt/Equity 0.02"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 871.6,
+       "prev": 638.0,
+       "yago": 1222.9,
+       "qoq": 36.6,
+       "yoy": -28.7
+      },
+      "ebitda": {
+       "cur": 265.1,
+       "prev": 167.3,
+       "yago": 536.0,
+       "qoq": 58.5,
+       "yoy": -50.5
+      },
+      "pat": {
+       "cur": 192.5,
+       "prev": 109.1,
+       "yago": 387.3,
+       "qoq": 76.5,
+       "yoy": -50.3
+      },
+      "margin_cur": 30.4,
+      "margin_yago": 43.8
+     },
+     "balance": {
+      "debt": 58.3,
+      "cash": 240.8,
+      "equity": 2488.1,
+      "de": 0.02,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "07-Nov-202",
+       "title": "Outcome of Board Meeting",
+       "text": "HBL Engineering Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/HBLPOWER_07112026133148_Outcomeandfinancialresults.pdf"
+      },
+      {
+       "date": "07-Sep-202",
+       "title": "Spurt in Volume",
+       "text": "Significant increase in volume has been observed in HBL Engineering Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. HBL Engineering Limited has submitted their response.",
+       "link": "https://nsearchives.nseindia.com/corporate/HBLPOWER_07092026133901_NSE_reply_-_Price_movement_September_2026.pdf"
+      },
+      {
+       "date": "04-Sep-202",
+       "title": "Spurt in Volume",
+       "text": "Significant increase in volume has been observed in HBL Engineering Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, has written to the company. The response from the company is awaited.",
+       "link": "-"
+      },
+      {
+       "date": "08-Aug-202",
+       "title": "Outcome of Board Meeting",
+       "text": "HBL Engineering Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/HBLPOWER_08082026162121_outcomeandresults3006.pdf"
+      }
+     ]
+    },
+    {
+     "symbol": "WHIRLPOOL",
+     "name": "Whirlpool of India Ltd.",
+     "mcap_cr": 10632,
+     "score": -30.8,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue -23% YoY",
+      "EBITDA -63% YoY",
+      "PAT -83% YoY",
+      "EBITDA margin 10.9% to 5.2%",
+      "Debt/Equity 0.08"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 1873.1,
+       "prev": 2726.8,
+       "yago": 2432.3,
+       "qoq": -31.3,
+       "yoy": -23.0
+      },
+      "ebitda": {
+       "cur": 97.7,
+       "prev": 208.0,
+       "yago": 265.2,
+       "qoq": -53.0,
+       "yoy": -63.1
+      },
+      "pat": {
+       "cur": 25.1,
+       "prev": 102.9,
+       "yago": 145.7,
+       "qoq": -75.6,
+       "yoy": -82.8
+      },
+      "margin_cur": 5.2,
+      "margin_yago": 10.9
+     },
+     "balance": {
+      "debt": 327.3,
+      "cash": 248.5,
+      "equity": 4223.9,
+      "de": 0.08,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "09-Nov-202",
+       "title": "Press Release",
+       "text": "Whirlpool of India Limited has informed the Exchange regarding a press release dated November 09, 2026, titled \"KEY HIGHLIGHTS OF Q2 2026-27\".",
+       "link": "https://nsearchives.nseindia.com/corporate/WHIRLPOOL_09112026173915_PR_signed.pdf"
+      },
+      {
+       "date": "09-Nov-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Whirlpool of India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/WHIRLPOOL_09112026164908_SEIntimation_signed.pdf"
+      },
+      {
+       "date": "10-Sep-202",
+       "title": "Shareholders meeting",
+       "text": "Whirlpool of India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 09, 2026. Further, the company has informed the Exchange regarding voting results.",
+       "link": "https://nsearchives.nseindia.com/corporate/WHIRLPOOL_10092026154059_Intimation_Voting_Results_signed.pdf"
+      },
+      {
+       "date": "24-Aug-202",
+       "title": "Shareholders meeting",
+       "text": "Whirlpool of India Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
+       "link": "https://nsearchives.nseindia.com/corporate/WHIRLPOOL_24082026184919_SE_2026_06_12_VotingResults_signed.pdf"
+      }
+     ]
+    },
+    {
+     "symbol": "COHANCE",
+     "name": "Cohance Lifesciences Ltd.",
+     "mcap_cr": 16975,
+     "score": -28.5,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue -14% YoY",
+      "EBITDA -65% YoY",
+      "PAT -80% YoY",
+      "EBITDA margin 24.6% to 10.0%",
+      "Debt/Equity 0.11"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 476.6,
+       "prev": 422.3,
+       "yago": 555.6,
+       "qoq": 12.9,
+       "yoy": -14.2
+      },
+      "ebitda": {
+       "cur": 47.8,
+       "prev": 13.4,
+       "yago": 136.6,
+       "qoq": 256.4,
+       "yoy": -65.0
+      },
+      "pat": {
+       "cur": 15.2,
+       "prev": -24.1,
+       "yago": 74.1,
+       "qoq": 163.1,
+       "yoy": -79.5
+      },
+      "margin_cur": 10.0,
+      "margin_yago": 24.6
+     },
+     "balance": {
+      "debt": 448.4,
+      "cash": 98.6,
+      "equity": 3912.2,
+      "de": 0.11,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "07-Nov-202",
+       "title": "Investor Presentation",
+       "text": "Cohance Lifesciences Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_07112026164941_Cohance_Investor_Presentation_06112026.pdf"
+      },
+      {
+       "date": "07-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Cohance Lifesciences Limited has informed the Exchange about Link of Recording",
+       "link": "https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_07112026105953_Cohance_conferencecallaudiolink7Nov26.pdf"
+      },
+      {
+       "date": "06-Nov-202",
+       "title": "Press Release",
+       "text": "Cohance Lifesciences Limited has informed the Exchange regarding a press release dated November 06, 2026, titled \"Press Release\".",
+       "link": "https://nsearchives.nseindia.com/corporate/SUVENPHARMSUSHEEL_06112026180529_Cohance_Pressrelease_06112026.pdf"
+      },
+      {
+       "date": "06-Nov-202",
+       "title": "Investor Presentation",
+       "text": "Cohance Lifesciences Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/SUVENPHARMSUSHEEL_06112026180222_Cohance_Investor_Presentation_06112026.pdf"
       }
      ]
     },
@@ -1246,228 +1464,9 @@
        "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_03112026114208_Intimation_Investor_Meet_12112026_HDFC_Securities_Ltd.pdf"
       }
      ]
-    },
-    {
-     "symbol": "JKCEMENT",
-     "name": "J.K. Cement Ltd.",
-     "mcap_cr": 39039,
-     "score": -23.8,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue +11% YoY",
-      "EBITDA -27% YoY",
-      "PAT -47% YoY",
-      "EBITDA margin 22.2% to 14.6%",
-      "Debt/Equity 1.02"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 3733.4,
-       "prev": 4031.7,
-       "yago": 3352.5,
-       "qoq": -7.4,
-       "yoy": 11.4
-      },
-      "ebitda": {
-       "cur": 545.3,
-       "prev": 687.0,
-       "yago": 744.1,
-       "qoq": -20.6,
-       "yoy": -26.7
-      },
-      "pat": {
-       "cur": 173.0,
-       "prev": 277.5,
-       "yago": 324.4,
-       "qoq": -37.7,
-       "yoy": -46.7
-      },
-      "margin_cur": 14.6,
-      "margin_yago": 22.2
-     },
-     "balance": {
-      "debt": 7490.3,
-      "cash": 42.7,
-      "equity": 7345.3,
-      "de": 1.02,
-      "ocf": null
-     },
-     "announcements": [
-      {
-       "date": "28-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "JK Cement Limited has informed the Exchange about Transcript",
-       "link": "https://nsearchives.nseindia.com/corporate/JKCEMENT_28102026122256_Intdt28102026transcriptofearningcall62.pdf"
-      },
-      {
-       "date": "27-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "JK Cement Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/JKCEMENT_27102026164908_Intdt27102026foraudiocall61.pdf"
-      },
-      {
-       "date": "24-Oct-202",
-       "title": "Updates",
-       "text": "In Continuation to our letter JKCL/SE/2026-27/56 dated October 24, 2026 regarding Outcome of Board Meeting and Unaudited Financial Result (Standalone and Consolidated) for the second quarter and half year ended September 30, 2026, please find enclosed herewith Certificate from the Statutory Auditors on Security Cover, Compliance with all Covenants and book value of assets as at September 30, 2026 in terms of Regulation 54 read with Regulation 56(1)(d) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
-       "link": "https://nsearchives.nseindia.com/corporate/JKCEMENT_24102026163524_OutcomeAssetCover24102026.pdf"
-      },
-      {
-       "date": "24-Oct-202",
-       "title": "Updates",
-       "text": "JK Cement Limited has informed the Exchange regarding 'Investor Presentation on the Financial result for the quarter ended September 30, 2026'.",
-       "link": "https://nsearchives.nseindia.com/corporate/JKCEMENT_24102026163227_outcomePPT24102026.pdf"
-      }
-     ]
-    },
-    {
-     "symbol": "JINDALSAW",
-     "name": "Jindal Saw Ltd.",
-     "mcap_cr": 16074,
-     "score": -22.6,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue +10% YoY",
-      "EBITDA -56% YoY",
-      "PAT -89% YoY",
-      "EBITDA margin 17.1% to 6.9%",
-      "Debt/Equity 0.33"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 4471.8,
-       "prev": 4452.3,
-       "yago": 4084.7,
-       "qoq": 0.4,
-       "yoy": 9.5
-      },
-      "ebitda": {
-       "cur": 308.8,
-       "prev": 415.0,
-       "yago": 698.8,
-       "qoq": -25.6,
-       "yoy": -55.8
-      },
-      "pat": {
-       "cur": 47.0,
-       "prev": 104.2,
-       "yago": 424.0,
-       "qoq": -54.8,
-       "yoy": -88.9
-      },
-      "margin_cur": 6.9,
-      "margin_yago": 17.1
-     },
-     "balance": {
-      "debt": 4173.8,
-      "cash": 387.2,
-      "equity": 12611.8,
-      "de": 0.33,
-      "ocf": null
-     },
-     "announcements": [
-      {
-       "date": "05-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Jindal Saw Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/JINDALSAW_05112026113620_InvestorCallSE.pdf"
-      },
-      {
-       "date": "27-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Jindal Saw Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/JINDALSAW_27102026155549_InvestorCallSE.pdf"
-      },
-      {
-       "date": "22-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Jindal Saw Limited has informed the Exchange about Transcript",
-       "link": "https://nsearchives.nseindia.com/corporate/JINDALSAW_22102026174041_TranscriptSE.pdf"
-      },
-      {
-       "date": "22-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Jindal Saw Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/JINDALSAW_22102026173247_InvestorCallSE.pdf"
-      }
-     ]
-    },
-    {
-     "symbol": "AMBUJACEM",
-     "name": "Ambuja Cements Ltd.",
-     "mcap_cr": 96796,
-     "score": -22.6,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue +0% YoY",
-      "EBITDA -31% YoY",
-      "PAT -89% YoY",
-      "EBITDA margin 19.7% to 13.6%",
-      "Debt/Equity 0.02"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 9166.0,
-       "prev": 9474.0,
-       "yago": 9130.0,
-       "qoq": -3.3,
-       "yoy": 0.4
-      },
-      "ebitda": {
-       "cur": 1249.0,
-       "prev": 1739.0,
-       "yago": 1800.0,
-       "qoq": -28.2,
-       "yoy": -30.6
-      },
-      "pat": {
-       "cur": 193.0,
-       "prev": 577.0,
-       "yago": 1774.0,
-       "qoq": -66.6,
-       "yoy": -89.1
-      },
-      "margin_cur": 13.6,
-      "margin_yago": 19.7
-     },
-     "balance": {
-      "debt": 1003.0,
-      "cash": 395.0,
-      "equity": 59672.0,
-      "de": 0.02,
-      "ocf": null
-     },
-     "announcements": [
-      {
-       "date": "03-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Ambuja Cements Limited has informed the exchange regarding Transcript of earning call held on October 29, 2026, pertaining to Unaudited financial results of the company for quarter and half year ended September 30, 2026",
-       "link": "https://nsearchives.nseindia.com/corporate/AMBUJACEM_03112026165105_ACL_Investor_Transcript_03112026.pdf"
-      },
-      {
-       "date": "02-Nov-202",
-       "title": "Press Release",
-       "text": "Ambuja Cements Limited has informed the Exchange regarding a press release dated November 02, 2026, titled \"Ambuja Cements Firms Up its Next Growth Phase with Approx 30 MTPA Expansion\".",
-       "link": "https://nsearchives.nseindia.com/corporate/AMBUJACEM_02112026121148_ACL_Media_Release_02112026.pdf"
-      },
-      {
-       "date": "30-Oct-202",
-       "title": "Copy of Newspaper Publication",
-       "text": "Ambuja Cements Limited has informed the exchange regarding Newspaper Publication of Unaudited Consolidated financial Results for the quarter and half year ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/AMBUJACEM_30102026123420_ACL_Publication_30102026.pdf"
-      },
-      {
-       "date": "29-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Ambuja Cements Limited has informed the exchange regarding the link of Audio Recording of Investor /Analysts call held on October 29, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/AMBUJACEM_29102026193759_ACL_Audio_recording.pdf"
-      }
-     ]
     }
    ],
-   "count": 375
+   "count": 408
   }
  }
 }
