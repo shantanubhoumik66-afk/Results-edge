@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-11T09:54:20.194728Z",
+ "updated": "2026-11-11T18:09:42.651989Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 243991,
+     "mcap_cr": 244646,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -79,7 +79,7 @@
     {
      "symbol": "SCI",
      "name": "Shipping Corporation of India Ltd.",
-     "mcap_cr": 12412,
+     "mcap_cr": 12422,
      "score": 72.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 150147,
+     "mcap_cr": 150425,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "CPPLUS",
      "name": "Aditya Infotech Ltd.",
-     "mcap_cr": 51573,
+     "mcap_cr": 51681,
      "score": 72.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -298,7 +298,7 @@
     {
      "symbol": "DEEPAKNTR",
      "name": "Deepak Nitrite Ltd.",
-     "mcap_cr": 21682,
+     "mcap_cr": 21671,
      "score": 70.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -371,7 +371,7 @@
     {
      "symbol": "SIGNATURE",
      "name": "Signatureglobal (India) Ltd.",
-     "mcap_cr": 10382,
+     "mcap_cr": 10392,
      "score": 70.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -444,7 +444,7 @@
     {
      "symbol": "DIVISLAB",
      "name": "Divi's Laboratories Ltd.",
-     "mcap_cr": 300351,
+     "mcap_cr": 301758,
      "score": 68.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -517,7 +517,7 @@
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 63310,
+     "mcap_cr": 63423,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -590,7 +590,7 @@
     {
      "symbol": "GESHIP",
      "name": "Great Eastern Shipping Co. Ltd.",
-     "mcap_cr": 19313,
+     "mcap_cr": 19288,
      "score": 66.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -635,6 +635,12 @@
      },
      "announcements": [
       {
+       "date": "11-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "The Great Eastern Shipping Company Limited has informed the Exchange about Link of Recording",
+       "link": "https://nsearchives.nseindia.com/corporate/GESHIP_11112026213825_earningcallrecording_Signed.pdf"
+      },
+      {
        "date": "09-Nov-202",
        "title": "Investor Presentation",
        "text": "The Great Eastern Shipping Company Limited has informed the Exchange about Investor Presentation",
@@ -651,19 +657,13 @@
        "title": "Outcome of Board Meeting",
        "text": "The Great Eastern Shipping Company Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
        "link": "https://nsearchives.nseindia.com/corporate/GESHIP_06112026164308_resultstobefiled.pdf"
-      },
-      {
-       "date": "05-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "The Great Eastern Shipping Company Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/GESHIP_05112026192735_earningscallintimation.pdf"
       }
      ]
     },
     {
      "symbol": "ASTERDM",
      "name": "Aster DM Quality Care Ltd.",
-     "mcap_cr": 63202,
+     "mcap_cr": 63054,
      "score": 65.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -738,7 +738,7 @@
     {
      "symbol": "GLENMARK",
      "name": "Glenmark Pharmaceuticals Ltd.",
-     "mcap_cr": 75340,
+     "mcap_cr": 75557,
      "score": -32.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -811,7 +811,7 @@
     {
      "symbol": "HBLENGINE",
      "name": "HBL Engineering Ltd.",
-     "mcap_cr": 22363,
+     "mcap_cr": 22350,
      "score": -32.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -884,7 +884,7 @@
     {
      "symbol": "WHIRLPOOL",
      "name": "Whirlpool of India Ltd.",
-     "mcap_cr": 10500,
+     "mcap_cr": 10537,
      "score": -30.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -929,6 +929,12 @@
      },
      "announcements": [
       {
+       "date": "11-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Whirlpool of India Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/WHIRLPOOL_11112026160204_Intimation_of_Date_and_Schedule_signed__2_.pdf"
+      },
+      {
        "date": "09-Nov-202",
        "title": "Press Release",
        "text": "Whirlpool of India Limited has informed the Exchange regarding a press release dated November 09, 2026, titled \"KEY HIGHLIGHTS OF Q2 2026-27\".",
@@ -945,19 +951,13 @@
        "title": "Shareholders meeting",
        "text": "Whirlpool of India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 09, 2026. Further, the company has informed the Exchange regarding voting results.",
        "link": "https://nsearchives.nseindia.com/corporate/WHIRLPOOL_10092026154059_Intimation_Voting_Results_signed.pdf"
-      },
-      {
-       "date": "24-Aug-202",
-       "title": "Shareholders meeting",
-       "text": "Whirlpool of India Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
-       "link": "https://nsearchives.nseindia.com/corporate/WHIRLPOOL_24082026184919_SE_2026_06_12_VotingResults_signed.pdf"
       }
      ]
     },
     {
      "symbol": "COHANCE",
      "name": "Cohance Lifesciences Ltd.",
-     "mcap_cr": 17748,
+     "mcap_cr": 17758,
      "score": -28.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1002,6 +1002,18 @@
      },
      "announcements": [
       {
+       "date": "11-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Cohance Lifesciences Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/SUVENPHARMSUSHEEL_11112026175704_Cohance_Disclosure__Investor_Meet.pdf"
+      },
+      {
+       "date": "11-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Cohance Lifesciences Limited has informed the Exchange about Transcript",
+       "link": "https://nsearchives.nseindia.com/corporate/SUVENPHARMSUSHEEL_11112026175134_Cohance_Q2_FY27_concall_transcript.pdf"
+      },
+      {
        "date": "07-Nov-202",
        "title": "Investor Presentation",
        "text": "Cohance Lifesciences Limited has informed the Exchange about Investor Presentation",
@@ -1012,25 +1024,13 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Cohance Lifesciences Limited has informed the Exchange about Link of Recording",
        "link": "https://nsearchives.nseindia.com/corporate/SUVENPHARMROHIT_07112026105953_Cohance_conferencecallaudiolink7Nov26.pdf"
-      },
-      {
-       "date": "06-Nov-202",
-       "title": "Press Release",
-       "text": "Cohance Lifesciences Limited has informed the Exchange regarding a press release dated November 06, 2026, titled \"Press Release\".",
-       "link": "https://nsearchives.nseindia.com/corporate/SUVENPHARMSUSHEEL_06112026180529_Cohance_Pressrelease_06112026.pdf"
-      },
-      {
-       "date": "06-Nov-202",
-       "title": "Investor Presentation",
-       "text": "Cohance Lifesciences Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.com/corporate/SUVENPHARMSUSHEEL_06112026180222_Cohance_Investor_Presentation_06112026.pdf"
       }
      ]
     },
     {
      "symbol": "GODFRYPHLP",
      "name": "Godfrey Phillips India Ltd.",
-     "mcap_cr": 28543,
+     "mcap_cr": 28395,
      "score": -27.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1103,7 +1103,7 @@
     {
      "symbol": "PIIND",
      "name": "PI Industries Ltd.",
-     "mcap_cr": 26791,
+     "mcap_cr": 26715,
      "score": -27.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1176,7 +1176,7 @@
     {
      "symbol": "NEULANDLAB",
      "name": "Neuland Laboratories Ltd.",
-     "mcap_cr": 25880,
+     "mcap_cr": 25922,
      "score": -26.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1249,7 +1249,7 @@
     {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 23259,
+     "mcap_cr": 23252,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1322,7 +1322,7 @@
     {
      "symbol": "GALLANTT",
      "name": "Gallantt Ispat Ltd.",
-     "mcap_cr": 12742,
+     "mcap_cr": 12507,
      "score": -24.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1395,7 +1395,7 @@
     {
      "symbol": "UTIAMC",
      "name": "UTI Asset Management Company Ltd.",
-     "mcap_cr": 10807,
+     "mcap_cr": 10806,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
