@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-10T18:14:34.334484Z",
+ "updated": "2026-11-11T09:54:20.194728Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 243357,
+     "mcap_cr": 243991,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -79,7 +79,7 @@
     {
      "symbol": "SCI",
      "name": "Shipping Corporation of India Ltd.",
-     "mcap_cr": 12173,
+     "mcap_cr": 12412,
      "score": 72.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 147274,
+     "mcap_cr": 150147,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -197,6 +197,12 @@
      },
      "announcements": [
       {
+       "date": "11-Nov-202",
+       "title": "Bagging/Receiving of orders/contracts",
+       "text": "Bharat Heavy Electricals Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+       "link": "https://nsearchives.nseindia.com/corporate/BHEL_11112026114240_orderpowergrid11112026.pdf"
+      },
+      {
        "date": "09-Nov-202",
        "title": "Action(s) taken or orders passed",
        "text": "Bharat Heavy Electricals Limited has informed the Exchange about Adjudication Order passed u/s 73 of CGST Act/ TGST Act, 2017",
@@ -213,19 +219,13 @@
        "title": "Bagging/Receiving of orders/contracts",
        "text": "Bharat Heavy Electricals Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
        "link": "https://nsearchives.nseindia.com/corporate/BHEL_04112026085754_APLorder04112026.pdf"
-      },
-      {
-       "date": "29-Oct-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Bharat Heavy Electricals Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/BHEL_29102026144219_investormeet04112026.pdf"
       }
      ]
     },
     {
      "symbol": "CPPLUS",
      "name": "Aditya Infotech Ltd.",
-     "mcap_cr": 51829,
+     "mcap_cr": 51573,
      "score": 72.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -298,7 +298,7 @@
     {
      "symbol": "DEEPAKNTR",
      "name": "Deepak Nitrite Ltd.",
-     "mcap_cr": 21005,
+     "mcap_cr": 21682,
      "score": 70.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -371,7 +371,7 @@
     {
      "symbol": "SIGNATURE",
      "name": "Signatureglobal (India) Ltd.",
-     "mcap_cr": 10212,
+     "mcap_cr": 10382,
      "score": 70.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -444,7 +444,7 @@
     {
      "symbol": "DIVISLAB",
      "name": "Divi's Laboratories Ltd.",
-     "mcap_cr": 307028,
+     "mcap_cr": 300351,
      "score": 68.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -517,7 +517,7 @@
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 64539,
+     "mcap_cr": 63310,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -590,7 +590,7 @@
     {
      "symbol": "GESHIP",
      "name": "Great Eastern Shipping Co. Ltd.",
-     "mcap_cr": 19163,
+     "mcap_cr": 19313,
      "score": 66.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -663,7 +663,7 @@
     {
      "symbol": "ASTERDM",
      "name": "Aster DM Quality Care Ltd.",
-     "mcap_cr": 63864,
+     "mcap_cr": 63202,
      "score": 65.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -738,7 +738,7 @@
     {
      "symbol": "GLENMARK",
      "name": "Glenmark Pharmaceuticals Ltd.",
-     "mcap_cr": 75385,
+     "mcap_cr": 75340,
      "score": -32.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -811,7 +811,7 @@
     {
      "symbol": "HBLENGINE",
      "name": "HBL Engineering Ltd.",
-     "mcap_cr": 22105,
+     "mcap_cr": 22363,
      "score": -32.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -884,7 +884,7 @@
     {
      "symbol": "WHIRLPOOL",
      "name": "Whirlpool of India Ltd.",
-     "mcap_cr": 10632,
+     "mcap_cr": 10500,
      "score": -30.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -957,7 +957,7 @@
     {
      "symbol": "COHANCE",
      "name": "Cohance Lifesciences Ltd.",
-     "mcap_cr": 16975,
+     "mcap_cr": 17748,
      "score": -28.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1030,7 +1030,7 @@
     {
      "symbol": "GODFRYPHLP",
      "name": "Godfrey Phillips India Ltd.",
-     "mcap_cr": 27682,
+     "mcap_cr": 28543,
      "score": -27.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1103,7 +1103,7 @@
     {
      "symbol": "PIIND",
      "name": "PI Industries Ltd.",
-     "mcap_cr": 25986,
+     "mcap_cr": 26791,
      "score": -27.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1176,7 +1176,7 @@
     {
      "symbol": "NEULANDLAB",
      "name": "Neuland Laboratories Ltd.",
-     "mcap_cr": 26073,
+     "mcap_cr": 25880,
      "score": -26.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1249,7 +1249,7 @@
     {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 23190,
+     "mcap_cr": 23259,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1294,6 +1294,12 @@
      },
      "announcements": [
       {
+       "date": "11-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "ACC Limited has informed the Exchange about interaction with Investors / Analysts on November 16, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/ACC_1_11112026113840_ACC_Disclosure_16112026.pdf"
+      },
+      {
        "date": "03-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "ACC Limited has informed the Exchange about Transcript of earning call held on October 29, 2026, pertaining to Unaudited financial results of the company for quarter and half year ended September 30, 2026",
@@ -1310,19 +1316,13 @@
        "title": "Investor Presentation",
        "text": "ACC Limited has informed the Exchange about Investor Presentation",
        "link": "https://nsearchives.nseindia.com/corporate/ACC_1_29102026145142_ACC_Investor_Presentation.pdf"
-      },
-      {
-       "date": "28-Oct-202",
-       "title": "Copy of Newspaper Publication",
-       "text": "ACC Limited has informed the Exchange about Copy of Newspaper Publication for the extract of Consolidated Financial Results of the Company for the quarter and half year ended on September 30, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/ACC_1_28102026120846_ACC_Cover_Advertisement.pdf"
       }
      ]
     },
     {
      "symbol": "GALLANTT",
      "name": "Gallantt Ispat Ltd.",
-     "mcap_cr": 13126,
+     "mcap_cr": 12742,
      "score": -24.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1395,7 +1395,7 @@
     {
      "symbol": "UTIAMC",
      "name": "UTI Asset Management Company Ltd.",
-     "mcap_cr": 10737,
+     "mcap_cr": 10807,
      "score": -23.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1440,6 +1440,18 @@
      },
      "announcements": [
       {
+       "date": "11-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "UTI Asset Management Company Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_11112026143606_Intimation_Investor_Meet_16112026_HDFC.pdf"
+      },
+      {
+       "date": "11-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "UTI Asset Management Company Limited has informed the Exchange about Cancellation of Investor Meet scheduled on 12th November, 2026.",
+       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_11112026142904_Intimation_Investor_Meet_12112026_Cancellation.pdf"
+      },
+      {
        "date": "09-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "UTI Asset Management Company Limited has informed the Exchange about Schedule of meet",
@@ -1450,23 +1462,11 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "UTI Asset Management Company Limited has informed the Exchange about Cancellation of Investor Meet scheduled on 9th November, 2026.",
        "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_06112026151353_Intimation_Investor_Meet_09112026_Cancellation_Final.pdf"
-      },
-      {
-       "date": "03-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "UTI Asset Management Company Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_03112026114418_Intimation_Investor_Meet_09112026_Mirae_Asset.pdf"
-      },
-      {
-       "date": "03-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "UTI Asset Management Company Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_03112026114208_Intimation_Investor_Meet_12112026_HDFC_Securities_Ltd.pdf"
       }
      ]
     }
    ],
-   "count": 408
+   "count": 410
   }
  }
 }
