@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-12T18:40:26.070284Z",
+ "updated": "2026-11-13T10:03:37.070501Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 239723,
+     "mcap_cr": 234378,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -79,7 +79,7 @@
     {
      "symbol": "SCI",
      "name": "Shipping Corporation of India Ltd.",
-     "mcap_cr": 12538,
+     "mcap_cr": 12604,
      "score": 72.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 150147,
+     "mcap_cr": 151470,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "CPPLUS",
      "name": "Aditya Infotech Ltd.",
-     "mcap_cr": 51639,
+     "mcap_cr": 50986,
      "score": 72.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -270,6 +270,12 @@
      },
      "announcements": [
       {
+       "date": "13-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Aditya Infotech Limited has informed the Exchange about Transcript of Earnings call conducted on November 06, 2026",
+       "link": "https://nsearchives.nseindia.com/corporate/CPPLUS_13112026124021_signedtranscript.pdf"
+      },
+      {
        "date": "06-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Aditya Infotech Limited has informed the Exchange about Link of Recording and Outcome of Earnings call for quarter and half year ended September 30, 2026",
@@ -286,19 +292,13 @@
        "title": "Press Release",
        "text": "Aditya Infotech Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \"CP PLUS owner Aditya Infotech to acquire 30% stake in AI video-compression firm BLUE\".",
        "link": "https://nsearchives.nseindia.com/corporate/CPPLUS_05112026195158_seprsigned.pdf"
-      },
-      {
-       "date": "05-Nov-202",
-       "title": "Investor Presentation",
-       "text": "Aditya Infotech Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.com/corporate/CPPLUS_05112026182937_seintimation.pdf"
       }
      ]
     },
     {
      "symbol": "DEEPAKNTR",
      "name": "Deepak Nitrite Ltd.",
-     "mcap_cr": 22167,
+     "mcap_cr": 21762,
      "score": 70.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -371,7 +371,7 @@
     {
      "symbol": "SIGNATURE",
      "name": "Signatureglobal (India) Ltd.",
-     "mcap_cr": 10940,
+     "mcap_cr": 10785,
      "score": 70.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -444,7 +444,7 @@
     {
      "symbol": "DIVISLAB",
      "name": "Divi's Laboratories Ltd.",
-     "mcap_cr": 304891,
+     "mcap_cr": 303139,
      "score": 68.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -489,6 +489,12 @@
      },
      "announcements": [
       {
+       "date": "13-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Divi's Laboratories Limited has informed the Exchange about Transcript",
+       "link": "https://nsearchives.nseindia.com/corporate/DIVISLAB_13112026113547_Transcript_Q2FY27_Earnings_Call_0711026.pdf"
+      },
+      {
        "date": "07-Nov-202",
        "title": "Outcome of Board Meeting",
        "text": "Divi's Laboratories Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
@@ -505,19 +511,13 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Divi's Laboratories Limited has informed the Exchange about Transcript",
        "link": "https://nsearchives.nseindia.com/corporate/DIVISLAB_06082026142802_Transcript_Concall_01082026.pdf"
-      },
-      {
-       "date": "01-Aug-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Divi's Laboratories Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.com/corporate/DIVISLAB_01082026154417_Intimation_Q1FY27EarningsCall_AudioRecording.pdf"
       }
      ]
     },
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 66067,
+     "mcap_cr": 65361,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -590,7 +590,7 @@
     {
      "symbol": "GESHIP",
      "name": "Great Eastern Shipping Co. Ltd.",
-     "mcap_cr": 19479,
+     "mcap_cr": 20319,
      "score": 66.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -663,7 +663,7 @@
     {
      "symbol": "ASTERDM",
      "name": "Aster DM Quality Care Ltd.",
-     "mcap_cr": 64073,
+     "mcap_cr": 62950,
      "score": 65.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -738,7 +738,7 @@
     {
      "symbol": "GLENMARK",
      "name": "Glenmark Pharmaceuticals Ltd.",
-     "mcap_cr": 75066,
+     "mcap_cr": 74513,
      "score": -32.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -811,7 +811,7 @@
     {
      "symbol": "HBLENGINE",
      "name": "HBL Engineering Ltd.",
-     "mcap_cr": 22413,
+     "mcap_cr": 22092,
      "score": -32.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -884,7 +884,7 @@
     {
      "symbol": "WHIRLPOOL",
      "name": "Whirlpool of India Ltd.",
-     "mcap_cr": 10573,
+     "mcap_cr": 10522,
      "score": -30.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -957,7 +957,7 @@
     {
      "symbol": "COHANCE",
      "name": "Cohance Lifesciences Ltd.",
-     "mcap_cr": 18046,
+     "mcap_cr": 17555,
      "score": -28.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1030,7 +1030,7 @@
     {
      "symbol": "GODFRYPHLP",
      "name": "Godfrey Phillips India Ltd.",
-     "mcap_cr": 28301,
+     "mcap_cr": 28184,
      "score": -27.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1103,7 +1103,7 @@
     {
      "symbol": "PIIND",
      "name": "PI Industries Ltd.",
-     "mcap_cr": 26400,
+     "mcap_cr": 26015,
      "score": -27.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1148,6 +1148,12 @@
      },
      "announcements": [
       {
+       "date": "13-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "PI Industries Limited has informed the Exchange about Schedule of meet with ICICI Prudential Asset Management Company Limited",
+       "link": "https://nsearchives.nseindia.com/corporate/PIIND_13112026130028_Intimation-_Investor_call.pdf"
+      },
+      {
        "date": "12-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "PIIND: PI Industries Limited has informed the Exchange about Transcript of the Earnings Conference Call pertaining to the Unaudited Financial Results for the quarter and half year ended September 30, 2026",
@@ -1164,19 +1170,13 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "PI Industries Limited has informed the Exchange about Link of Audio Recording of Earnings Conference Call pertaining to the Unaudited Financial Results for the quarter and half year ended September 30, 2026",
        "link": "https://nsearchives.nseindia.com/corporate/PIIND_05112026173249_Intimation_Earning_Call_AudioRecording_05112026_sd.pdf"
-      },
-      {
-       "date": "04-Nov-202",
-       "title": "Investor Presentation",
-       "text": "PI Industries Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.com/corporate/PIIND_04112026223344_presentation.pdf"
       }
      ]
     },
     {
      "symbol": "NEULANDLAB",
      "name": "Neuland Laboratories Ltd.",
-     "mcap_cr": 26844,
+     "mcap_cr": 27071,
      "score": -26.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1249,7 +1249,7 @@
     {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 23297,
+     "mcap_cr": 22918,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1320,9 +1320,82 @@
      ]
     },
     {
+     "symbol": "TRITURBINE",
+     "name": "Triveni Turbine Ltd.",
+     "mcap_cr": 16205,
+     "score": -24.7,
+     "quarter": "Sep 2026 (Q2 FY27)",
+     "quarter_end": "2026-09-30",
+     "reasons": [
+      "Revenue -3% YoY",
+      "EBITDA -36% YoY",
+      "PAT -42% YoY",
+      "EBITDA margin 26.3% to 17.4%",
+      "Debt/Equity 0.02"
+     ],
+     "result": {
+      "revenue": {
+       "cur": 491.0,
+       "prev": 442.7,
+       "yago": 506.2,
+       "qoq": 10.9,
+       "yoy": -3.0
+      },
+      "ebitda": {
+       "cur": 85.5,
+       "prev": 79.7,
+       "yago": 133.0,
+       "qoq": 7.3,
+       "yoy": -35.7
+      },
+      "pat": {
+       "cur": 53.3,
+       "prev": 51.1,
+       "yago": 91.2,
+       "qoq": 4.3,
+       "yoy": -41.6
+      },
+      "margin_cur": 17.4,
+      "margin_yago": 26.3
+     },
+     "balance": {
+      "debt": 33.5,
+      "cash": 91.7,
+      "equity": 1496.4,
+      "de": 0.02,
+      "ocf": null
+     },
+     "announcements": [
+      {
+       "date": "12-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Triveni Turbine Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.com/corporate/TRITURBINE_12112026175916_IntimationregardingInvestormeet_17112026_sd.pdf"
+      },
+      {
+       "date": "12-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Triveni Turbine Limited has informed the Exchange about Link of Recording",
+       "link": "https://nsearchives.nseindia.com/corporate/TRITURBINE_12112026170402_IntimationregardingAudiorecording_12112026_sd.pdf"
+      },
+      {
+       "date": "11-Nov-202",
+       "title": "Investor Presentation",
+       "text": "Triveni Turbine Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.com/corporate/TRITURBINE_11112026192603_IntimationregardingInvestorPPT_11112026_sd.pdf"
+      },
+      {
+       "date": "11-Nov-202",
+       "title": "Press Release",
+       "text": "Triveni Turbine Limited has informed the Exchange regarding a press release dated November 11, 2026, titled \"Investors  brief for Q2 & H1 FY27 ended on September 30, 2026\".",
+       "link": "https://nsearchives.nseindia.com/corporate/TRITURBINE_11112026192035_IntimationInvestorBrief_11112026_sd.pdf"
+      }
+     ]
+    },
+    {
      "symbol": "GALLANTT",
      "name": "Gallantt Ispat Ltd.",
-     "mcap_cr": 12712,
+     "mcap_cr": 12691,
      "score": -24.6,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1391,82 +1464,9 @@
        "link": "https://nsearchives.nseindia.com/corporate/GALLANTT_20102026001428_BM_Outcome_19102026.pdf"
       }
      ]
-    },
-    {
-     "symbol": "UTIAMC",
-     "name": "UTI Asset Management Company Ltd.",
-     "mcap_cr": 10978,
-     "score": -23.8,
-     "quarter": "Sep 2026 (Q2 FY27)",
-     "quarter_end": "2026-09-30",
-     "reasons": [
-      "Revenue +5% YoY",
-      "EBITDA -44% YoY",
-      "PAT -44% YoY",
-      "EBITDA margin 90.1% to 48.1%",
-      "Debt/Equity 0.03"
-     ],
-     "result": {
-      "revenue": {
-       "cur": 398.4,
-       "prev": 378.7,
-       "yago": 379.3,
-       "qoq": 5.2,
-       "yoy": 5.0
-      },
-      "ebitda": {
-       "cur": 191.6,
-       "prev": 384.3,
-       "yago": 341.7,
-       "qoq": -50.1,
-       "yoy": -43.9
-      },
-      "pat": {
-       "cur": 132.3,
-       "prev": 293.9,
-       "yago": 236.8,
-       "qoq": -55.0,
-       "yoy": -44.1
-      },
-      "margin_cur": 48.1,
-      "margin_yago": 90.1
-     },
-     "balance": {
-      "debt": 138.1,
-      "cash": 27.2,
-      "equity": 4413.5,
-      "de": 0.03,
-      "ocf": null
-     },
-     "announcements": [
-      {
-       "date": "11-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "UTI Asset Management Company Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_11112026143606_Intimation_Investor_Meet_16112026_HDFC.pdf"
-      },
-      {
-       "date": "11-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "UTI Asset Management Company Limited has informed the Exchange about Cancellation of Investor Meet scheduled on 12th November, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_11112026142904_Intimation_Investor_Meet_12112026_Cancellation.pdf"
-      },
-      {
-       "date": "09-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "UTI Asset Management Company Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_09112026112245_Intimation_Investor_Meet_16112026.pdf"
-      },
-      {
-       "date": "06-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "UTI Asset Management Company Limited has informed the Exchange about Cancellation of Investor Meet scheduled on 9th November, 2026.",
-       "link": "https://nsearchives.nseindia.com/corporate/CSUTIAMC_06112026151353_Intimation_Investor_Meet_09112026_Cancellation_Final.pdf"
-      }
-     ]
     }
    ],
-   "count": 414
+   "count": 420
   }
  }
 }
