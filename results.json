@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T11:13:13.448987Z",
+ "updated": "2026-11-17T22:45:57.993847Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
@@ -416,6 +416,12 @@
      },
      "announcements": [
       {
+       "date": "17-Nov-202",
+       "title": "Press Release",
+       "text": "Signatureglobal (India) Limited has informed the Exchange regarding a press release dated November 17, 2026, titled \"Signature Global Emerges as Successful Bidder for 475 Acres of Land in MMR Through a Consortium Led by Its Subsidiary\".",
+       "link": "https://nsearchives.nseindia.in/corporate/SGLOBAL_17112026173035_reg30finalsigned.pdf"
+      },
+      {
        "date": "13-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Signatureglobal (India) Limited has informed the Exchange about Transcript",
@@ -432,12 +438,6 @@
        "title": "Investor Presentation",
        "text": "Signatureglobal (India) Limited has informed the Exchange about Investor Presentation",
        "link": "https://nsearchives.nseindia.in/corporate/SGLOBAL_05112026175739_pptsigned.pdf"
-      },
-      {
-       "date": "05-Nov-202",
-       "title": "Press Release",
-       "text": "Signatureglobal (India) Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \"Signature Global Q2FY27 Revenue Rises 148% to INR 8.2 Billion; Reports Net Profit of INR 0.7 Billion\".",
-       "link": "https://nsearchives.nseindia.in/corporate/SGLOBAL_05112026173632_prsigned.pdf"
       }
      ]
     },
@@ -783,6 +783,12 @@
      },
      "announcements": [
       {
+       "date": "17-Nov-202",
+       "title": "Press Release",
+       "text": "Glenmark Pharmaceuticals Limited has informed the Exchange regarding a press release dated November 17, 2026, titled \"Ichnos Glenmark Innovation (IGI) Announces IND Submission to U.S. FDA for ISB 2301, a First-in-Class Multispecific Immune Cell Activator Targeting Solid Tumors\".",
+       "link": "https://nsearchives.nseindia.in/corporate/GLENMARK_17112026193210_SE_Press_Release_17112026.pdf"
+      },
+      {
        "date": "16-Nov-202",
        "title": "Press Release",
        "text": "Glenmark Pharmaceuticals Limited has informed the Exchange regarding a press release dated November 16, 2026, titled \"Glenmark Pharmaceuticals Inc., USA Launches Authorized Generic of INLYTA\u00ae (axitinib) Tablets, 1 mg and 5 mg\".",
@@ -799,12 +805,6 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Glenmark Pharmaceuticals Limited has informed the Exchange about Schedule of meet",
        "link": "https://nsearchives.nseindia.in/corporate/GLENMARK_09112026164849_SE_Investor_Meet.pdf"
-      },
-      {
-       "date": "09-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Glenmark Pharmaceuticals Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.in/corporate/GLENMARK_09112026165133_SE_Investor_Meet.pdf"
       }
      ]
     },
