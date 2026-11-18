@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-17T22:45:57.993847Z",
+ "updated": "2026-11-18T10:41:28.480804Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 232393,
+     "mcap_cr": 222674,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -79,7 +79,7 @@
     {
      "symbol": "SCI",
      "name": "Shipping Corporation of India Ltd.",
-     "mcap_cr": 12138,
+     "mcap_cr": 11944,
      "score": 72.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 149955,
+     "mcap_cr": 146839,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "CPPLUS",
      "name": "Aditya Infotech Ltd.",
-     "mcap_cr": 48938,
+     "mcap_cr": 48354,
      "score": 72.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -298,7 +298,7 @@
     {
      "symbol": "DEEPAKNTR",
      "name": "Deepak Nitrite Ltd.",
-     "mcap_cr": 21688,
+     "mcap_cr": 21317,
      "score": 70.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -371,7 +371,7 @@
     {
      "symbol": "SIGNATURE",
      "name": "Signatureglobal (India) Ltd.",
-     "mcap_cr": 11756,
+     "mcap_cr": 11861,
      "score": 70.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -444,7 +444,7 @@
     {
      "symbol": "DIVISLAB",
      "name": "Divi's Laboratories Ltd.",
-     "mcap_cr": 295997,
+     "mcap_cr": 293316,
      "score": 68.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -517,7 +517,7 @@
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 66165,
+     "mcap_cr": 65448,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -590,7 +590,7 @@
     {
      "symbol": "GESHIP",
      "name": "Great Eastern Shipping Co. Ltd.",
-     "mcap_cr": 20771,
+     "mcap_cr": 20506,
      "score": 66.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -663,7 +663,7 @@
     {
      "symbol": "ASTERDM",
      "name": "Aster DM Quality Care Ltd.",
-     "mcap_cr": 64251,
+     "mcap_cr": 63646,
      "score": 65.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -738,7 +738,7 @@
     {
      "symbol": "GLENMARK",
      "name": "Glenmark Pharmaceuticals Ltd.",
-     "mcap_cr": 73824,
+     "mcap_cr": 74679,
      "score": -32.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -811,7 +811,7 @@
     {
      "symbol": "NATCOPHARM",
      "name": "NATCO Pharma Ltd.",
-     "mcap_cr": 16143,
+     "mcap_cr": 16098,
      "score": -32.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -884,7 +884,7 @@
     {
      "symbol": "HBLENGINE",
      "name": "HBL Engineering Ltd.",
-     "mcap_cr": 21783,
+     "mcap_cr": 21844,
      "score": -32.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -957,7 +957,7 @@
     {
      "symbol": "WHIRLPOOL",
      "name": "Whirlpool of India Ltd.",
-     "mcap_cr": 10489,
+     "mcap_cr": 10365,
      "score": -30.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1030,7 +1030,7 @@
     {
      "symbol": "COHANCE",
      "name": "Cohance Lifesciences Ltd.",
-     "mcap_cr": 17279,
+     "mcap_cr": 17463,
      "score": -28.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1103,7 +1103,7 @@
     {
      "symbol": "GODFRYPHLP",
      "name": "Godfrey Phillips India Ltd.",
-     "mcap_cr": 27888,
+     "mcap_cr": 27426,
      "score": -27.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1176,7 +1176,7 @@
     {
      "symbol": "PIIND",
      "name": "PI Industries Ltd.",
-     "mcap_cr": 25365,
+     "mcap_cr": 24637,
      "score": -27.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1221,6 +1221,18 @@
      },
      "announcements": [
       {
+       "date": "18-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "PI Industries Limited has informed the Exchange about Schedule of meet with UTI Mutual Fund",
+       "link": "https://nsearchives.nseindia.in/corporate/PIIND_18112026155106_Intimation-_Investor_call_18112026_sd.pdf"
+      },
+      {
+       "date": "18-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "PI Industries Limited has informed the Exchange about Schedule of meet with Kotak Mahindra Asset Management",
+       "link": "https://nsearchives.nseindia.in/corporate/PIIND_18112026154839_Intimation-_Investor_call_18112026_sd.pdf"
+      },
+      {
        "date": "13-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "PI Industries Limited has informed the Exchange about Schedule of meet with ICICI Prudential Asset Management Company Limited",
@@ -1231,25 +1243,13 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "PIIND: PI Industries Limited has informed the Exchange about Transcript of the Earnings Conference Call pertaining to the Unaudited Financial Results for the quarter and half year ended September 30, 2026",
        "link": "https://nsearchives.nseindia.in/corporate/PIIND_12112026103314_Transcript_intimation.pdf"
-      },
-      {
-       "date": "06-Nov-202",
-       "title": "Copy of Newspaper Publication",
-       "text": "PI Industries Limited has informed the Exchange about Copy of Newspaper Publication for the Unaudited Financial Results for the quarter and half year ended September 30, 2026",
-       "link": "https://nsearchives.nseindia.in/corporate/PIIND_06112026151103_Newspaper_Advertisement_Financial_Result_sd.pdf"
-      },
-      {
-       "date": "05-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "PI Industries Limited has informed the Exchange about Link of Audio Recording of Earnings Conference Call pertaining to the Unaudited Financial Results for the quarter and half year ended September 30, 2026",
-       "link": "https://nsearchives.nseindia.in/corporate/PIIND_05112026173249_Intimation_Earning_Call_AudioRecording_05112026_sd.pdf"
       }
      ]
     },
     {
      "symbol": "NEULANDLAB",
      "name": "Neuland Laboratories Ltd.",
-     "mcap_cr": 27514,
+     "mcap_cr": 27527,
      "score": -26.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1322,7 +1322,7 @@
     {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 23440,
+     "mcap_cr": 23094,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1395,7 +1395,7 @@
     {
      "symbol": "TRITURBINE",
      "name": "Triveni Turbine Ltd.",
-     "mcap_cr": 15118,
+     "mcap_cr": 14951,
      "score": -24.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
