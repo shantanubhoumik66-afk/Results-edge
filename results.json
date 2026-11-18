@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:41:28.480804Z",
+ "updated": "2026-11-18T19:15:11.954793Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
@@ -590,7 +590,7 @@
     {
      "symbol": "GESHIP",
      "name": "Great Eastern Shipping Co. Ltd.",
-     "mcap_cr": 20506,
+     "mcap_cr": 20505,
      "score": 66.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -856,6 +856,12 @@
      },
      "announcements": [
       {
+       "date": "18-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Natco Pharma Limited has informed the Exchange about Transcript",
+       "link": "https://nsearchives.nseindia.in/corporate/NATCOPHARM_18112026222026_Concall_Transcript_13112026.pdf"
+      },
+      {
        "date": "16-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Natco Pharma Limited has informed the Exchange about Schedule of meet",
@@ -872,12 +878,6 @@
        "title": "Investor Presentation",
        "text": "Natco Pharma Limited has informed the Exchange about Investor Presentation",
        "link": "https://nsearchives.nseindia.in/corporate/NATCOPHARM_13112026155501_Q2FY27_EarningsPresentation.pdf"
-      },
-      {
-       "date": "13-Nov-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Natco Pharma Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026 and declaration of 2nd Interim Dividend for FY 2026-27",
-       "link": "https://nsearchives.nseindia.in/corporate/NATCOPHARM_13112026141002_Outcome_13112026.pdf"
       }
      ]
     },
@@ -1440,6 +1440,18 @@
      },
      "announcements": [
       {
+       "date": "18-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Triveni Turbine Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.in/corporate/TRITURBINE_18112026181724_IntimationregardingInvestormeet_23112026.pdf"
+      },
+      {
+       "date": "18-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Triveni Turbine Limited has informed the Exchange about Transcript",
+       "link": "https://nsearchives.nseindia.in/corporate/TRITURBINE_18112026180922_IntimationRegardingTranscript_12112026.pdf"
+      },
+      {
        "date": "12-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Triveni Turbine Limited has informed the Exchange about Schedule of meet",
@@ -1450,18 +1462,6 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Triveni Turbine Limited has informed the Exchange about Link of Recording",
        "link": "https://nsearchives.nseindia.in/corporate/TRITURBINE_12112026170402_IntimationregardingAudiorecording_12112026_sd.pdf"
-      },
-      {
-       "date": "11-Nov-202",
-       "title": "Investor Presentation",
-       "text": "Triveni Turbine Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.in/corporate/TRITURBINE_11112026192603_IntimationregardingInvestorPPT_11112026_sd.pdf"
-      },
-      {
-       "date": "11-Nov-202",
-       "title": "Press Release",
-       "text": "Triveni Turbine Limited has informed the Exchange regarding a press release dated November 11, 2026, titled \"Investors  brief for Q2 & H1 FY27 ended on September 30, 2026\".",
-       "link": "https://nsearchives.nseindia.in/corporate/TRITURBINE_11112026192035_IntimationInvestorBrief_11112026_sd.pdf"
       }
      ]
     }
