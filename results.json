@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-18T19:15:11.954793Z",
+ "updated": "2026-11-19T10:50:48.235228Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 222674,
+     "mcap_cr": 223519,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -79,7 +79,7 @@
     {
      "symbol": "SCI",
      "name": "Shipping Corporation of India Ltd.",
-     "mcap_cr": 11944,
+     "mcap_cr": 11612,
      "score": 72.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 146839,
+     "mcap_cr": 151470,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "CPPLUS",
      "name": "Aditya Infotech Ltd.",
-     "mcap_cr": 48354,
+     "mcap_cr": 49355,
      "score": 72.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -298,7 +298,7 @@
     {
      "symbol": "DEEPAKNTR",
      "name": "Deepak Nitrite Ltd.",
-     "mcap_cr": 21317,
+     "mcap_cr": 21172,
      "score": 70.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -371,7 +371,7 @@
     {
      "symbol": "SIGNATURE",
      "name": "Signatureglobal (India) Ltd.",
-     "mcap_cr": 11861,
+     "mcap_cr": 11946,
      "score": 70.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -444,7 +444,7 @@
     {
      "symbol": "DIVISLAB",
      "name": "Divi's Laboratories Ltd.",
-     "mcap_cr": 293316,
+     "mcap_cr": 296741,
      "score": 68.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -517,7 +517,7 @@
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 65448,
+     "mcap_cr": 65812,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -590,7 +590,7 @@
     {
      "symbol": "GESHIP",
      "name": "Great Eastern Shipping Co. Ltd.",
-     "mcap_cr": 20505,
+     "mcap_cr": 20833,
      "score": 66.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -663,7 +663,7 @@
     {
      "symbol": "ASTERDM",
      "name": "Aster DM Quality Care Ltd.",
-     "mcap_cr": 63646,
+     "mcap_cr": 64369,
      "score": 65.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -738,7 +738,7 @@
     {
      "symbol": "GLENMARK",
      "name": "Glenmark Pharmaceuticals Ltd.",
-     "mcap_cr": 74679,
+     "mcap_cr": 73618,
      "score": -32.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -811,7 +811,7 @@
     {
      "symbol": "NATCOPHARM",
      "name": "NATCO Pharma Ltd.",
-     "mcap_cr": 16098,
+     "mcap_cr": 16124,
      "score": -32.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -884,7 +884,7 @@
     {
      "symbol": "HBLENGINE",
      "name": "HBL Engineering Ltd.",
-     "mcap_cr": 21844,
+     "mcap_cr": 21415,
      "score": -32.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -957,7 +957,7 @@
     {
      "symbol": "WHIRLPOOL",
      "name": "Whirlpool of India Ltd.",
-     "mcap_cr": 10365,
+     "mcap_cr": 10538,
      "score": -30.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1002,6 +1002,12 @@
      },
      "announcements": [
       {
+       "date": "19-Nov-202",
+       "title": "Investor Presentation",
+       "text": "Whirlpool of India Limited has informed the Exchange about Investor Presentation",
+       "link": "https://nsearchives.nseindia.in/corporate/WHIRLPOOL_19112026133832_SE_Intimation_signed.pdf"
+      },
+      {
        "date": "11-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Whirlpool of India Limited has informed the Exchange about Schedule of meet",
@@ -1018,19 +1024,13 @@
        "title": "Outcome of Board Meeting",
        "text": "Whirlpool of India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
        "link": "https://nsearchives.nseindia.in/corporate/WHIRLPOOL_09112026164908_SEIntimation_signed.pdf"
-      },
-      {
-       "date": "10-Sep-202",
-       "title": "Shareholders meeting",
-       "text": "Whirlpool of India Limited has submitted the Exchange a copy Srutinizers report of  Annual General Meeting held on September 09, 2026. Further, the company has informed the Exchange regarding voting results.",
-       "link": "https://nsearchives.nseindia.in/corporate/WHIRLPOOL_10092026154059_Intimation_Voting_Results_signed.pdf"
       }
      ]
     },
     {
      "symbol": "COHANCE",
      "name": "Cohance Lifesciences Ltd.",
-     "mcap_cr": 17463,
+     "mcap_cr": 17580,
      "score": -28.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1103,7 +1103,7 @@
     {
      "symbol": "GODFRYPHLP",
      "name": "Godfrey Phillips India Ltd.",
-     "mcap_cr": 27426,
+     "mcap_cr": 27936,
      "score": -27.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1176,7 +1176,7 @@
     {
      "symbol": "PIIND",
      "name": "PI Industries Ltd.",
-     "mcap_cr": 24637,
+     "mcap_cr": 24728,
      "score": -27.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1221,6 +1221,12 @@
      },
      "announcements": [
       {
+       "date": "19-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "PI Industries Limited has informed the Exchange about Schedule of meet with HDFC Mutual Fund",
+       "link": "https://nsearchives.nseindia.in/corporate/PIIND_19112026152546_Intimation-_Investor_call_sd.pdf"
+      },
+      {
        "date": "18-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "PI Industries Limited has informed the Exchange about Schedule of meet with UTI Mutual Fund",
@@ -1237,19 +1243,13 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "PI Industries Limited has informed the Exchange about Schedule of meet with ICICI Prudential Asset Management Company Limited",
        "link": "https://nsearchives.nseindia.in/corporate/PIIND_13112026130028_Intimation-_Investor_call.pdf"
-      },
-      {
-       "date": "12-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "PIIND: PI Industries Limited has informed the Exchange about Transcript of the Earnings Conference Call pertaining to the Unaudited Financial Results for the quarter and half year ended September 30, 2026",
-       "link": "https://nsearchives.nseindia.in/corporate/PIIND_12112026103314_Transcript_intimation.pdf"
       }
      ]
     },
     {
      "symbol": "NEULANDLAB",
      "name": "Neuland Laboratories Ltd.",
-     "mcap_cr": 27527,
+     "mcap_cr": 27074,
      "score": -26.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1322,7 +1322,7 @@
     {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 23094,
+     "mcap_cr": 23823,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1395,7 +1395,7 @@
     {
      "symbol": "TRITURBINE",
      "name": "Triveni Turbine Ltd.",
-     "mcap_cr": 14951,
+     "mcap_cr": 15005,
      "score": -24.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1466,7 +1466,7 @@
      ]
     }
    ],
-   "count": 458
+   "count": 460
   }
  }
 }
