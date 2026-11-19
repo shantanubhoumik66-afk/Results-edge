@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:50:48.235228Z",
+ "updated": "2026-11-19T22:36:01.288098Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
@@ -1003,6 +1003,12 @@
      "announcements": [
       {
        "date": "19-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Whirlpool of India Limited has informed the Exchange about Link of Recording",
+       "link": "https://nsearchives.nseindia.in/corporate/WHIRLPOOL_19112026194238_Audio_Recording_signed.pdf"
+      },
+      {
+       "date": "19-Nov-202",
        "title": "Investor Presentation",
        "text": "Whirlpool of India Limited has informed the Exchange about Investor Presentation",
        "link": "https://nsearchives.nseindia.in/corporate/WHIRLPOOL_19112026133832_SE_Intimation_signed.pdf"
@@ -1018,12 +1024,6 @@
        "title": "Press Release",
        "text": "Whirlpool of India Limited has informed the Exchange regarding a press release dated November 09, 2026, titled \"KEY HIGHLIGHTS OF Q2 2026-27\".",
        "link": "https://nsearchives.nseindia.in/corporate/WHIRLPOOL_09112026173915_PR_signed.pdf"
-      },
-      {
-       "date": "09-Nov-202",
-       "title": "Outcome of Board Meeting",
-       "text": "Whirlpool of India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-       "link": "https://nsearchives.nseindia.in/corporate/WHIRLPOOL_09112026164908_SEIntimation_signed.pdf"
       }
      ]
     },
@@ -1223,6 +1223,12 @@
       {
        "date": "19-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "PI Industries Limited has informed the Exchange about Schedule of meet with SBI Mutual Fund",
+       "link": "https://nsearchives.nseindia.in/corporate/PIIND_19112026175417_Intimation-_Investor_call_sd.pdf"
+      },
+      {
+       "date": "19-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "PI Industries Limited has informed the Exchange about Schedule of meet with HDFC Mutual Fund",
        "link": "https://nsearchives.nseindia.in/corporate/PIIND_19112026152546_Intimation-_Investor_call_sd.pdf"
       },
@@ -1237,12 +1243,6 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "PI Industries Limited has informed the Exchange about Schedule of meet with Kotak Mahindra Asset Management",
        "link": "https://nsearchives.nseindia.in/corporate/PIIND_18112026154839_Intimation-_Investor_call_18112026_sd.pdf"
-      },
-      {
-       "date": "13-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "PI Industries Limited has informed the Exchange about Schedule of meet with ICICI Prudential Asset Management Company Limited",
-       "link": "https://nsearchives.nseindia.in/corporate/PIIND_13112026130028_Intimation-_Investor_call.pdf"
       }
      ]
     },
@@ -1440,6 +1440,12 @@
      },
      "announcements": [
       {
+       "date": "19-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Triveni Turbine Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.in/corporate/TRITURBINE_19112026173125_IntimationregardingInvestormeet_26112026.pdf"
+      },
+      {
        "date": "18-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Triveni Turbine Limited has informed the Exchange about Schedule of meet",
@@ -1456,12 +1462,6 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Triveni Turbine Limited has informed the Exchange about Schedule of meet",
        "link": "https://nsearchives.nseindia.in/corporate/TRITURBINE_12112026175916_IntimationregardingInvestormeet_17112026_sd.pdf"
-      },
-      {
-       "date": "12-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Triveni Turbine Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.in/corporate/TRITURBINE_12112026170402_IntimationregardingAudiorecording_12112026_sd.pdf"
       }
      ]
     }
