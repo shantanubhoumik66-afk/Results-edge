@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:56:20.656087Z",
+ "updated": "2026-11-21T10:14:08.876764Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
@@ -856,6 +856,18 @@
      },
      "announcements": [
       {
+       "date": "21-Nov-202",
+       "title": "Press Release",
+       "text": "Natco Pharma Limited has informed the Exchange regarding a press release dated November 21, 2026, titled \"NATCO announced conclusion of US FDA Inspection at our Formulation plant located at Kothur, Hyderabad\".",
+       "link": "https://nsearchives.nseindia.in/corporate/NATCOPHARM_21112026120248_PressReleaseKothurFDA_21112026.pdf"
+      },
+      {
+       "date": "21-Nov-202",
+       "title": "Press Release",
+       "text": "Natco Pharma Limited has informed the Exchange regarding a press release dated November 21, 2026, titled \" announced conclusion of US FDA Inspection at our Formulation plant located at Kothur, Hyderabad\".",
+       "link": "https://nsearchives.nseindia.in/corporate/NATCOPHARM_21112026113624_PressReleaseKothurFDA_21112026.pdf"
+      },
+      {
        "date": "20-Nov-202",
        "title": "Press Release",
        "text": "Natco Pharma Limited has informed the Exchange regarding a press release dated November 20, 2026, titled \"NATCO receives Establishment Inspection Report (EIR) from the U.S. Food and Drug Administration (FDA) Inspection at our Visakhapatnam, Andhra Pradesh, Finished Dosage Formulations (FDF) Unit\".",
@@ -866,18 +878,6 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Natco Pharma Limited has informed the Exchange about Transcript",
        "link": "https://nsearchives.nseindia.in/corporate/NATCOPHARM_18112026222026_Concall_Transcript_13112026.pdf"
-      },
-      {
-       "date": "16-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Natco Pharma Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.in/corporate/NATCOPHARM_16112026185500_InvestorMeetIntimation_16112026.pdf"
-      },
-      {
-       "date": "13-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Natco Pharma Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.in/corporate/NATCOPHARM_13112026203720_Q2FY2027_EarningscallAudioLink.pdf"
       }
      ]
     },
