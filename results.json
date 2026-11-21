@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:14:08.876764Z",
+ "updated": "2026-11-21T17:54:18.531181Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
@@ -590,7 +590,7 @@
     {
      "symbol": "GESHIP",
      "name": "Great Eastern Shipping Co. Ltd.",
-     "mcap_cr": 20514,
+     "mcap_cr": 19751,
      "score": 66.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
