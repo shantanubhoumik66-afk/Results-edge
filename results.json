@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:13:27.549901Z",
+ "updated": "2026-11-24T02:00:20.708014Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
@@ -417,6 +417,12 @@
      "announcements": [
       {
        "date": "23-Nov-202",
+       "title": "Outcome of Board Meeting",
+       "text": "Signatureglobal (India) Limited has informed the Exchange regarding Outcome of Board Meeting held on November 23, 2026.",
+       "link": "https://nsearchives.nseindia.in/corporate/SGLOBAL_23112026185727_bmoutcomesigned.pdf"
+      },
+      {
+       "date": "23-Nov-202",
        "title": "Press Release",
        "text": "Signatureglobal (India) Limited has informed the Exchange regarding a press release dated November 23, 2026, titled \"Signature Global s GRESB Score Rises to 97.8, Securing 12th Position Globally Among Residential Peers\".",
        "link": "https://nsearchives.nseindia.in/corporate/SGLOBAL_23112026111556_coveringpressreleasesign.pdf"
@@ -432,12 +438,6 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Signatureglobal (India) Limited has informed the Exchange about Transcript",
        "link": "https://nsearchives.nseindia.in/corporate/SGLOBAL_13112026193034_transcriptsep2026signed.pdf"
-      },
-      {
-       "date": "06-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Signatureglobal (India) Limited has informed the Exchange about Link of Recording",
-       "link": "https://nsearchives.nseindia.in/corporate/SGLOBAL_06112026091334_Outcomeconcallsigned.pdf"
       }
      ]
     },
@@ -1466,7 +1466,7 @@
      ]
     }
    ],
-   "count": 459
+   "count": 460
   }
  }
 }
