@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-24T23:48:50.349814Z",
+ "updated": "2026-11-25T11:46:01.104447Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 223498,
+     "mcap_cr": 219590,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -79,7 +79,7 @@
     {
      "symbol": "SCI",
      "name": "Shipping Corporation of India Ltd.",
-     "mcap_cr": 11905,
+     "mcap_cr": 11821,
      "score": 72.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 144749,
+     "mcap_cr": 143983,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "CPPLUS",
      "name": "Aditya Infotech Ltd.",
-     "mcap_cr": 49979,
+     "mcap_cr": 51581,
      "score": 72.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -298,7 +298,7 @@
     {
      "symbol": "DEEPAKNTR",
      "name": "Deepak Nitrite Ltd.",
-     "mcap_cr": 20744,
+     "mcap_cr": 20383,
      "score": 70.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -371,7 +371,7 @@
     {
      "symbol": "SIGNATURE",
      "name": "Signatureglobal (India) Ltd.",
-     "mcap_cr": 12097,
+     "mcap_cr": 11918,
      "score": 70.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -444,7 +444,7 @@
     {
      "symbol": "DIVISLAB",
      "name": "Divi's Laboratories Ltd.",
-     "mcap_cr": 297404,
+     "mcap_cr": 311036,
      "score": 68.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -517,7 +517,7 @@
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 67630,
+     "mcap_cr": 67939,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -590,7 +590,7 @@
     {
      "symbol": "GESHIP",
      "name": "Great Eastern Shipping Co. Ltd.",
-     "mcap_cr": 19837,
+     "mcap_cr": 19962,
      "score": 66.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -663,7 +663,7 @@
     {
      "symbol": "ASTERDM",
      "name": "Aster DM Quality Care Ltd.",
-     "mcap_cr": 68814,
+     "mcap_cr": 67451,
      "score": 65.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -738,7 +738,7 @@
     {
      "symbol": "GLENMARK",
      "name": "Glenmark Pharmaceuticals Ltd.",
-     "mcap_cr": 74987,
+     "mcap_cr": 76737,
      "score": -32.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -811,7 +811,7 @@
     {
      "symbol": "NATCOPHARM",
      "name": "NATCO Pharma Ltd.",
-     "mcap_cr": 15822,
+     "mcap_cr": 15710,
      "score": -32.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -884,7 +884,7 @@
     {
      "symbol": "HBLENGINE",
      "name": "HBL Engineering Ltd.",
-     "mcap_cr": 21344,
+     "mcap_cr": 20988,
      "score": -32.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -957,7 +957,7 @@
     {
      "symbol": "WHIRLPOOL",
      "name": "Whirlpool of India Ltd.",
-     "mcap_cr": 10263,
+     "mcap_cr": 10041,
      "score": -30.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1002,6 +1002,12 @@
      },
      "announcements": [
       {
+       "date": "25-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Whirlpool of India Limited has informed the Exchange about Transcript",
+       "link": "https://nsearchives.nseindia.in/corporate/WHIRLPOOL_25112026150500_SEIntimation_transcript_signed.pdf"
+      },
+      {
        "date": "19-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Whirlpool of India Limited has informed the Exchange about Link of Recording",
@@ -1018,19 +1024,13 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Whirlpool of India Limited has informed the Exchange about Schedule of meet",
        "link": "https://nsearchives.nseindia.in/corporate/WHIRLPOOL_11112026160204_Intimation_of_Date_and_Schedule_signed__2_.pdf"
-      },
-      {
-       "date": "09-Nov-202",
-       "title": "Press Release",
-       "text": "Whirlpool of India Limited has informed the Exchange regarding a press release dated November 09, 2026, titled \"KEY HIGHLIGHTS OF Q2 2026-27\".",
-       "link": "https://nsearchives.nseindia.in/corporate/WHIRLPOOL_09112026173915_PR_signed.pdf"
       }
      ]
     },
     {
      "symbol": "COHANCE",
      "name": "Cohance Lifesciences Ltd.",
-     "mcap_cr": 18167,
+     "mcap_cr": 18731,
      "score": -28.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1103,7 +1103,7 @@
     {
      "symbol": "GODFRYPHLP",
      "name": "Godfrey Phillips India Ltd.",
-     "mcap_cr": 27247,
+     "mcap_cr": 27475,
      "score": -27.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1176,7 +1176,7 @@
     {
      "symbol": "PIIND",
      "name": "PI Industries Ltd.",
-     "mcap_cr": 23833,
+     "mcap_cr": 23909,
      "score": -27.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1249,7 +1249,7 @@
     {
      "symbol": "NEULANDLAB",
      "name": "Neuland Laboratories Ltd.",
-     "mcap_cr": 26365,
+     "mcap_cr": 26902,
      "score": -26.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1322,7 +1322,7 @@
     {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 23582,
+     "mcap_cr": 23704,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1395,7 +1395,7 @@
     {
      "symbol": "TRITURBINE",
      "name": "Triveni Turbine Ltd.",
-     "mcap_cr": 14457,
+     "mcap_cr": 14236,
      "score": -24.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
