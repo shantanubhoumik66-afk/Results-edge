@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-25T23:22:48.233769Z",
+ "updated": "2026-11-26T11:29:34.222930Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
     {
      "symbol": "HINDZINC",
      "name": "Hindustan Zinc Ltd.",
-     "mcap_cr": 219590,
+     "mcap_cr": 222505,
      "score": 75.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -51,6 +51,12 @@
      },
      "announcements": [
       {
+       "date": "26-Nov-202",
+       "title": "Press Release",
+       "text": "Hindustan Zinc Limited has informed the Exchange regarding a press release dated November 26, 2026, titled \"Hindustan Zinc Limited has collaborated with IIT Madras to advance Zinc-Air Battery Technology for next-generation electric mobility\".",
+       "link": "https://nsearchives.nseindia.in/corporate/HINDZINCNSE_26112026105230_SEPressrelease.pdf"
+      },
+      {
        "date": "23-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Hindustan Zinc Limited has informed the Exchange about Transcript",
@@ -67,19 +73,13 @@
        "title": "Investor Presentation",
        "text": "Hindustan Zinc Limited has informed the Exchange about Investor Presentation",
        "link": "https://nsearchives.nseindia.in/corporate/HINDZINCNSE_16112026140912_FinalSEOutcome.pdf"
-      },
-      {
-       "date": "16-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Hindustan Zinc Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.in/corporate/HINDZINCNSE_16112026140350_SEIntimation_investor_meet-16112026.pdf"
       }
      ]
     },
     {
      "symbol": "SCI",
      "name": "Shipping Corporation of India Ltd.",
-     "mcap_cr": 11821,
+     "mcap_cr": 11750,
      "score": 72.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -152,7 +152,7 @@
     {
      "symbol": "BHEL",
      "name": "Bharat Heavy Electricals Ltd.",
-     "mcap_cr": 143983,
+     "mcap_cr": 145881,
      "score": 72.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -225,7 +225,7 @@
     {
      "symbol": "CPPLUS",
      "name": "Aditya Infotech Ltd.",
-     "mcap_cr": 51581,
+     "mcap_cr": 51953,
      "score": 72.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -298,7 +298,7 @@
     {
      "symbol": "DEEPAKNTR",
      "name": "Deepak Nitrite Ltd.",
-     "mcap_cr": 20383,
+     "mcap_cr": 20756,
      "score": 70.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -371,7 +371,7 @@
     {
      "symbol": "SIGNATURE",
      "name": "Signatureglobal (India) Ltd.",
-     "mcap_cr": 11918,
+     "mcap_cr": 12047,
      "score": 70.0,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -444,7 +444,7 @@
     {
      "symbol": "DIVISLAB",
      "name": "Divi's Laboratories Ltd.",
-     "mcap_cr": 311036,
+     "mcap_cr": 308767,
      "score": 68.1,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -517,7 +517,7 @@
     {
      "symbol": "OBEROIRLTY",
      "name": "Oberoi Realty Ltd.",
-     "mcap_cr": 67939,
+     "mcap_cr": 69273,
      "score": 67.9,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -590,7 +590,7 @@
     {
      "symbol": "GESHIP",
      "name": "Great Eastern Shipping Co. Ltd.",
-     "mcap_cr": 20730,
+     "mcap_cr": 20505,
      "score": 66.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -663,7 +663,7 @@
     {
      "symbol": "ASTERDM",
      "name": "Aster DM Quality Care Ltd.",
-     "mcap_cr": 67451,
+     "mcap_cr": 66894,
      "score": 65.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -738,7 +738,7 @@
     {
      "symbol": "GLENMARK",
      "name": "Glenmark Pharmaceuticals Ltd.",
-     "mcap_cr": 76737,
+     "mcap_cr": 77335,
      "score": -32.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -783,6 +783,12 @@
      },
      "announcements": [
       {
+       "date": "26-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Glenmark Pharmaceuticals Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.in/corporate/GLENMARK_26112026164225_SE_Investor_Meet.pdf"
+      },
+      {
        "date": "17-Nov-202",
        "title": "Press Release",
        "text": "Glenmark Pharmaceuticals Limited has informed the Exchange regarding a press release dated November 17, 2026, titled \"Ichnos Glenmark Innovation (IGI) Announces IND Submission to U.S. FDA for ISB 2301, a First-in-Class Multispecific Immune Cell Activator Targeting Solid Tumors\".",
@@ -799,19 +805,13 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Glenmark Pharmaceuticals Limited has informed the Exchange about Schedule of meet",
        "link": "https://nsearchives.nseindia.in/corporate/GLENMARK_09112026165036_SE_Investor_Meet.pdf"
-      },
-      {
-       "date": "09-Nov-202",
-       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
-       "text": "Glenmark Pharmaceuticals Limited has informed the Exchange about Schedule of meet",
-       "link": "https://nsearchives.nseindia.in/corporate/GLENMARK_09112026164849_SE_Investor_Meet.pdf"
       }
      ]
     },
     {
      "symbol": "NATCOPHARM",
      "name": "NATCO Pharma Ltd.",
-     "mcap_cr": 15710,
+     "mcap_cr": 15681,
      "score": -32.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -884,7 +884,7 @@
     {
      "symbol": "HBLENGINE",
      "name": "HBL Engineering Ltd.",
-     "mcap_cr": 20988,
+     "mcap_cr": 21185,
      "score": -32.2,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -957,7 +957,7 @@
     {
      "symbol": "WHIRLPOOL",
      "name": "Whirlpool of India Ltd.",
-     "mcap_cr": 10041,
+     "mcap_cr": 10034,
      "score": -30.8,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1030,7 +1030,7 @@
     {
      "symbol": "COHANCE",
      "name": "Cohance Lifesciences Ltd.",
-     "mcap_cr": 18731,
+     "mcap_cr": 19231,
      "score": -28.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1103,7 +1103,7 @@
     {
      "symbol": "GODFRYPHLP",
      "name": "Godfrey Phillips India Ltd.",
-     "mcap_cr": 27475,
+     "mcap_cr": 27528,
      "score": -27.4,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1176,7 +1176,7 @@
     {
      "symbol": "PIIND",
      "name": "PI Industries Ltd.",
-     "mcap_cr": 23909,
+     "mcap_cr": 24139,
      "score": -27.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1249,7 +1249,7 @@
     {
      "symbol": "NEULANDLAB",
      "name": "Neuland Laboratories Ltd.",
-     "mcap_cr": 26902,
+     "mcap_cr": 27095,
      "score": -26.5,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1322,7 +1322,7 @@
     {
      "symbol": "ACC",
      "name": "ACC Ltd.",
-     "mcap_cr": 23704,
+     "mcap_cr": 23729,
      "score": -26.3,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1395,7 +1395,7 @@
     {
      "symbol": "TRITURBINE",
      "name": "Triveni Turbine Ltd.",
-     "mcap_cr": 14236,
+     "mcap_cr": 14547,
      "score": -24.7,
      "quarter": "Sep 2026 (Q2 FY27)",
      "quarter_end": "2026-09-30",
@@ -1466,7 +1466,7 @@
      ]
     }
    ],
-   "count": 460
+   "count": 461
   }
  }
 }
