@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:29:34.222930Z",
+ "updated": "2026-11-26T23:22:49.838840Z",
  "quarters": {
   "Sep 2026 (Q2 FY27)": {
    "good": [
@@ -1294,6 +1294,12 @@
      },
      "announcements": [
       {
+       "date": "26-Nov-202",
+       "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+       "text": "Neuland Laboratories Limited has informed the Exchange about Schedule of meet",
+       "link": "https://nsearchives.nseindia.in/corporate/NEULANDLAB_26112026184237_SignedSE_Intimation.pdf"
+      },
+      {
        "date": "06-Nov-202",
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Transcript of the Earnings Call conducted on November 3, 2026",
@@ -1310,12 +1316,6 @@
        "title": "Analysts/Institutional Investor Meet/Con. Call Updates",
        "text": "Audio Recording of the Earnings call conducted on November 3, 2026",
        "link": "https://nsearchives.nseindia.in/corporate/NEULANDLAB_03112026195447_SignedSEIntimationaudiorecording.pdf"
-      },
-      {
-       "date": "03-Nov-202",
-       "title": "Investor Presentation",
-       "text": "Neuland Laboratories Limited has informed the Exchange about Investor Presentation",
-       "link": "https://nsearchives.nseindia.in/corporate/NEULANDLAB_03112026162313_SignedSEInvestorsAnalystsPresentation03112026.pdf"
       }
      ]
     },
